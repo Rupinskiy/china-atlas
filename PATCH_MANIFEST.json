@@ -1,14 +1,13 @@
 {
- "base": "V422 FINAL",
- "target": "v4.25",
+ "base": "v4.25 (installed, verified)",
+ "includes": [
+  "v4.26",
+  "v4.27"
+ ],
  "changed_or_new": [
-  "assets/atlas-v40.js",
   "assets/atlas-v413.js",
   "assets/atlas-v424.js",
-  "data/assertions-v25.json",
-  "data/confirmed-itinerary-v26.json",
-  "data/extras-v424.json",
-  "data/ops-v20.json",
+  "data/trains-v422.json",
   "data/translations-uk.json",
   "data/v40.json",
   "index.html",
