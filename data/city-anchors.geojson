@@ -1,0 +1,102 @@
+{
+  "type": "FeatureCollection",
+  "name": "China Atlas 2026 - approximate city anchors (not precise entrance coordinates)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Пекін",
+        "name:zh": "北京",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гонконг",
+        "name:zh": "香港",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1694,
+          22.3193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Шеньчжень",
+        "name:zh": "深圳",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0579,
+          22.5431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Гуанчжоу",
+        "name:zh": "广州",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Чжухай",
+        "name:zh": "珠海",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.576,
+          22.271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Макао",
+        "name:zh": "澳门",
+        "approximate": true,
+        "warning": "City anchor only; NOT a station entrance / point-of-interest location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5439,
+          22.1987
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="China Atlas v1.7" xmlns="http://www.topografix.com/GPX/1/1">
+<wpt lat="39.9042" lon="116.4074"><name>Пекін</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+<wpt lat="22.3193" lon="114.1694"><name>Гонконг</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+<wpt lat="22.5431" lon="114.0579"><name>Шеньчжень</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+<wpt lat="23.1291" lon="113.2644"><name>Гуанчжоу</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+<wpt lat="22.271" lon="113.576"><name>Чжухай</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+<wpt lat="22.1987" lon="113.5439"><name>Макао</name><desc>Approximate city anchor; NOT a specific entrance</desc></wpt>
+</gpx>

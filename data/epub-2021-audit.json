@@ -1,0 +1,306 @@
+{
+  "source": "China - 2021.epub",
+  "source_resources": 516,
+  "text_files_verified": 87,
+  "chapters": {
+    "hongkong": {
+      "file": "EPUB/ebook-29-hong-kong-chi16.xhtml",
+      "characters": 99625,
+      "headings": [
+        "Hong Kong",
+        "Hong Kong",
+        "Why Go?",
+        "When to Go",
+        "Best Places to Eat",
+        "Best Places to Stay",
+        "Hong Kong Highlights",
+        "PRICE RANGES",
+        "HONG KONG IN...",
+        "STAR FERRY",
+        "LANTAU’S PO LIN MONASTERY & BIG BUDDHA",
+        "CHUNGKING MANSIONS",
+        "CHA CHAAN TANG",
+        "TICKET BOOKING SERVICES",
+        "2 Walking Tour Hong Kong’s Wholesale District"
+      ]
+    },
+    "macau": {
+      "file": "EPUB/ebook-30-macau-chi16.xhtml",
+      "characters": 69136,
+      "headings": [
+        "Macau",
+        "Macau",
+        "Why Go?",
+        "When to Go",
+        "Best Places to Eat",
+        "Best Places to Stay",
+        "Macau Highlights",
+        "PRICE RANGES",
+        "MACAU IN ONE DAY",
+        "COLOANE’S STILT HOUSES & SHIPYARDS",
+        "MACAU CHOW",
+        "BRIGHT LIGHTS, SIN CITY"
+      ]
+    },
+    "guangdong": {
+      "file": "EPUB/ebook-31-guangdong-chi16.xhtml",
+      "characters": 84832,
+      "headings": [
+        "Guangdong",
+        "Guangdong",
+        "Why Go?",
+        "When to Go",
+        "Best Places to Eat",
+        "Best Places to Stay",
+        "Guangdong Highlights",
+        "Guangzhou 广州",
+        "PRICE RANGES",
+        "AN OPERATIC STROLL ON ENNING LU",
+        "YUYIN MOUNTAIN VILLA",
+        "Foshan 佛山",
+        "THE MAKING OF A NATIONAL LEGEND",
+        "Kaiping 开平",
+        "KAIPING’S BIZARRE TOWERS",
+        "Yangjiang 阳江",
+        "Zhaoqing 肇庆",
+        "Bāguà Villages 八卦村",
+        "Dinghu Shan Reserve 鼎湖山",
+        "Qingyuan 清远"
+      ]
+    },
+    "beijing": {
+      "file": "EPUB/ebook-11-beijing-chi16.xhtml",
+      "characters": 111422,
+      "headings": [
+        "Beijing",
+        "Beijing",
+        "Why Go?",
+        "When to Go",
+        "Best Places for Peking Duck",
+        "Best Places to Stay",
+        "Beijing Highlights",
+        "PRICES",
+        "FORBIDDEN CITY TICKETS",
+        "EXPLORING THE HUTONG",
+        "THE MING TOMBS",
+        "HUTONG TODAY",
+        "MARTIAL ARTS",
+        "STATE OF THE ART",
+        "STUDENT LIFE",
+        "FRAGRANT HILLS PARK",
+        "2 City Walk Nanluogu Xiang Alleyway Ramble",
+        "HUTONG TOURS"
+      ]
+    },
+    "eating": {
+      "file": "EPUB/ebook-08-eat-drink-like-a-local-chi16.xhtml",
+      "characters": 32131,
+      "headings": [
+        "Plan Your Trip",
+        "Eat & Drink Like a Local",
+        "The Year in Food",
+        "Food Experiences",
+        "Meals of a Lifetime",
+        "Cheap Treats",
+        "Dare to Try",
+        "STREET FOOD",
+        "Real Chinese Food",
+        "Local Specialities",
+        "Eight Schools of Cooking",
+        "TIPPING",
+        "Travel Your Taste Buds",
+        "PANIC MENU",
+        "Northern Cooking",
+        "Southern Cooking",
+        "Western Cooking",
+        "Eastern Cooking",
+        "How to Eat & Drink",
+        "Table Manners"
+      ]
+    },
+    "train": {
+      "file": "EPUB/ebook-54-china-by-train-chi16.xhtml",
+      "characters": 20851,
+      "headings": [
+        "China by Train",
+        "China by Train",
+        "At the Station",
+        "Aboard the Train",
+        "CHINA’S TRAIN NETWORK",
+        "TRAIN ROUTES",
+        "TRAIN TRAVEL",
+        "TRAIN TYPES",
+        "High-Speed Trains",
+        "Regular Trains",
+        "TICKETS",
+        "Soft Sleeper",
+        "TRAVELLING THE TRANS-SIBERIAN RAILWAY",
+        "Hard Sleeper",
+        "Seats",
+        "Buying Tickets",
+        "Ticket Offices & Buying Online",
+        "Resources"
+      ]
+    }
+  },
+  "media_parts": 3,
+  "selected_media": 17,
+  "selected_images": [
+    {
+      "name": "shutterstock_239277523.jpg",
+      "file": "assets/book2021/shutterstock_239277523.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/shutterstock_239277523.jpg",
+      "width": 1180,
+      "height": 787,
+      "format": "photo"
+    },
+    {
+      "name": "GettyImages-1188397359.jpg",
+      "file": "assets/book2021/GettyImages-1188397359.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/GettyImages-1188397359.jpg",
+      "width": 1180,
+      "height": 787,
+      "format": "photo"
+    },
+    {
+      "name": "32-macau-chap-op-chi16.jpg",
+      "file": "assets/book2021/32-macau-chap-op-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/32-macau-chap-op-chi16.jpg",
+      "width": 482,
+      "height": 860,
+      "format": "map"
+    },
+    {
+      "name": "13-dashilar-xicheng-sth-chi16.jpg",
+      "file": "assets/book2021/13-dashilar-xicheng-sth-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/13-dashilar-xicheng-sth-chi16.jpg",
+      "width": 843,
+      "height": 860,
+      "format": "map"
+    },
+    {
+      "name": "macau-cc.jpg",
+      "file": "assets/book2021/macau-cc.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/macau-cc.jpg",
+      "width": 812,
+      "height": 374,
+      "format": "map"
+    },
+    {
+      "name": "33-guangzhou-chi16.jpg",
+      "file": "assets/book2021/33-guangzhou-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/33-guangzhou-chi16.jpg",
+      "width": 988,
+      "height": 860,
+      "format": "map"
+    },
+    {
+      "name": "shutterstockRF_694206856.jpg",
+      "file": "assets/book2021/shutterstockRF_694206856.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/shutterstockRF_694206856.jpg",
+      "width": 1180,
+      "height": 784,
+      "format": "photo"
+    },
+    {
+      "name": "hongkong-cc.jpg",
+      "file": "assets/book2021/hongkong-cc.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/hongkong-cc.jpg",
+      "width": 812,
+      "height": 374,
+      "format": "map"
+    },
+    {
+      "name": "33-guangdong-chap-op-chi16.jpg",
+      "file": "assets/book2021/33-guangdong-chap-op-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/33-guangdong-chap-op-chi16.jpg",
+      "width": 1180,
+      "height": 502,
+      "format": "map"
+    },
+    {
+      "name": "guangzhou-cc.jpg",
+      "file": "assets/book2021/guangzhou-cc.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/guangzhou-cc.jpg",
+      "width": 812,
+      "height": 374,
+      "format": "map"
+    },
+    {
+      "name": "AlamyRF_J6KJJ0.jpg",
+      "file": "assets/book2021/AlamyRF_J6KJJ0.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/AlamyRF_J6KJJ0.jpg",
+      "width": 986,
+      "height": 655,
+      "format": "photo"
+    },
+    {
+      "name": "beijing-cc.jpg",
+      "file": "assets/book2021/beijing-cc.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/beijing-cc.jpg",
+      "width": 812,
+      "height": 374,
+      "format": "map"
+    },
+    {
+      "name": "31-hong-kong-chap-op-chi16.jpg",
+      "file": "assets/book2021/31-hong-kong-chap-op-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/31-hong-kong-chap-op-chi16.jpg",
+      "width": 1180,
+      "height": 765,
+      "format": "map"
+    },
+    {
+      "name": "31-kowloon-chi16.jpg",
+      "file": "assets/book2021/31-kowloon-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/31-kowloon-chi16.jpg",
+      "width": 843,
+      "height": 860,
+      "format": "map"
+    },
+    {
+      "name": "LPT0711_054.jpg",
+      "file": "assets/book2021/LPT0711_054.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/LPT0711_054.jpg",
+      "width": 622,
+      "height": 860,
+      "format": "photo"
+    },
+    {
+      "name": "13-beijing-chap-op-chi16.jpg",
+      "file": "assets/book2021/13-beijing-chap-op-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/13-beijing-chap-op-chi16.jpg",
+      "width": 897,
+      "height": 860,
+      "format": "map"
+    },
+    {
+      "name": "32-macau-central-chi16.jpg",
+      "file": "assets/book2021/32-macau-central-chi16.webp",
+      "hash_ok": true,
+      "original": "EPUB/images/32-macau-central-chi16.jpg",
+      "width": 1180,
+      "height": 677,
+      "format": "map"
+    }
+  ],
+  "errors": [],
+  "missing_requested_images": [],
+  "limit": "Copyright book images included only in private build. Public site retains source captions but no book bytes."
+}

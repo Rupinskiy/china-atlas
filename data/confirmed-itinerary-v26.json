@@ -1,0 +1,307 @@
+{
+  "schema": "china-atlas-v26-confirmed",
+  "generated_on": "2026-10-25",
+  "privacy": "PRIVATE; do not publish",
+  "source": "Authenticated Gmail Agoda and China Railway confirmations 2026-10-24/25; previous e-ticket handover for air",
+  "flights": [
+    {
+      "day": "25.10",
+      "id": "CZ674",
+      "route": "LHR T4 → PKX",
+      "time": "21:30-15:25 (+1 day)",
+      "note": "Попередній e-ticket/handover; графік не звірено повторно з авіакомпанією"
+    },
+    {
+      "day": "27.10",
+      "id": "CZ355",
+      "route": "PKX → HKG",
+      "time": "09:15-12:50"
+    },
+    {
+      "day": "03.11",
+      "id": "CZ356",
+      "route": "HKG → PKX",
+      "time": "14:05-17:25"
+    },
+    {
+      "day": "04.11",
+      "id": "CZ673",
+      "route": "PKX → LHR",
+      "time": "15:15-18:35"
+    }
+  ],
+  "trains": [
+    {
+      "date": "2026-10-28",
+      "no": "G388",
+      "time": "07:20-07:34",
+      "from": "Hong Kong West Kowloon / 香港西九龙",
+      "to": "Futian / 福田",
+      "paid_cny": 136,
+      "coach": "10",
+      "seats": "008D / 008F",
+      "status": "CONFIRMED",
+      "order": "EC08021288",
+      "source": "1a1706cba013e5e1",
+      "risk": "Критично ранній: станція HK West Kowloon працює з 06:00; контроль документа до 06:50; прибуття до B1 о 06:00-06:10."
+    },
+    {
+      "date": "2026-10-29",
+      "no": "C8004",
+      "time": "08:00-08:57",
+      "from": "Shenzhen / 深圳 (Luohu)",
+      "to": "Guangzhou East / 广州东",
+      "paid_cny": 144,
+      "coach": "03",
+      "seats": "019A / 019B",
+      "status": "CONFIRMED",
+      "order": "EC83930088",
+      "source": "1a1706a8eba54c0c",
+      "risk": "Виїзд о 08:00, не о 10:00. Перебувати на Shenzhen Railway Station орієнтовно до 07:20-07:30."
+    },
+    {
+      "date": "2026-10-30",
+      "no": "D1899",
+      "time": "21:59-22:56",
+      "from": "Guangzhou South / 广州南",
+      "to": "Zhuhai / 珠海",
+      "paid_cny": 140,
+      "coach": "05",
+      "seats": "004B / 004C",
+      "status": "CONFIRMED",
+      "order": "EC68828044",
+      "source": "1a170704ff29222c",
+      "risk": "Пізній приїзд: від вокзалу до помешкання ще дорога і пошук будинку/поверху, пізнє заселення не підтверджено."
+    },
+    {
+      "date": "2026-11-03",
+      "no": "G7849",
+      "time": "20:52-21:11",
+      "from": "Qinghe / 清河",
+      "to": "Badaling Great Wall / 八达岭长城",
+      "paid_cny": 46,
+      "coach": "03",
+      "seats": "010C / 010D",
+      "status": "CONFIRMED",
+      "order": "EC38048680",
+      "source": "1a170733d682122e",
+      "risk": "PKX приліт 17:25 → 20:52 Qinghe із прикордонним контролем, дорога 70+ км; велика ймовірність пропуску при затримці літака/імміграції."
+    },
+    {
+      "date": "2026-11-04",
+      "no": "D6704",
+      "time": "10:44-11:04",
+      "from": "Badaling Great Wall / 八达岭长城",
+      "to": "Qinghe / 清河",
+      "paid_cny": 36,
+      "coach": "13",
+      "seats": "001D / 001F",
+      "status": "CONFIRMED",
+      "order": "EC08884382",
+      "source": "1a17076976590899",
+      "risk": "Із Qinghe до PKX довгий трансфер. Гейт на Badaling інколи закривають за 12 хв до відправлення; виїхати з готелю/муру рано."
+    }
+  ],
+  "hotels": [
+    {
+      "date": "27-28.10",
+      "city": "Hong Kong",
+      "name": "Days Hostel",
+      "cn": "戴斯賓館",
+      "address": "Block D, Flat D6 Reception, 10th Floor, 36-44 Nathan Road, Tsim Sha Tsui, Hong Kong",
+      "check_in": "після 14:00",
+      "check_out": "до 11:30",
+      "room": "Double Room with 1 Double Bed",
+      "total": "USD 21.77",
+      "extra": "USD 3.88 сплатити у готелі (15% cleaning/service fee вказаний окремо)",
+      "paid": true,
+      "ref": "716929555",
+      "source": "1a16f10f5a6f82c9",
+      "flags": [
+        "Немає підтвердження безкоштовного зберігання 2 валіз 28-31.10",
+        "28.10 виходити близько 05:15-05:30 на поїзд G388 07:20",
+        "Trip.com і Booking.com для цього об’єкта вказують reception 24/7, Trip.com - free luggage storage, але 3 доби між двома заїздами не доведено."
+      ]
+    },
+    {
+      "date": "28-29.10",
+      "city": "Shenzhen",
+      "name": "Shenzhen Pengda Hotel (Luohu Railway Station)",
+      "cn": "深圳鹏达宾馆(罗湖火车站店)",
+      "address": "12F, Real Estate Building, 1007 Renmin South Road, Luohu, Shenzhen / 人民南路1007号房地产大厦12楼",
+      "check_in": "після 10:00",
+      "check_out": "до 14:00",
+      "room": "Guestroom - Single Occupancy (Fan), Shared Bathroom; 2 adults",
+      "total": "CNY 65.57",
+      "extra": "немає явно зазначеної додаткової плати",
+      "paid": true,
+      "ref": "717030183",
+      "source": "1a17144320e368c6",
+      "flags": [
+        "Окремо підтверджено 2 guests, але тип номера Single Occupancy і Shared Bathroom",
+        "Ранній C8004 08:00 29.10; вихід до Shenzhen/深圳 (Luohu) приблизно 07:00"
+      ]
+    },
+    {
+      "date": "29-30.10",
+      "city": "Guangzhou",
+      "name": "Four Seasons Flower Apartment (Guangzhou South)",
+      "cn": "四季花开公寓 (публічна назва, із зовнішніх джерел)",
+      "address": "No. 14-1 Toumiao Road, Shibi Street, Panyu, Guangzhou / 石壁街头庙路14号之一",
+      "check_in": "не вказано у підтвердженні",
+      "check_out": "не вказано у підтвердженні",
+      "room": "Special Single Room; 2 adults",
+      "total": "CNY 58.84",
+      "extra": "немає явно зазначеної додаткової плати",
+      "paid": true,
+      "ref": "716942207",
+      "source": "1a16f40c108ab195",
+      "flags": [
+        "Біля Guangzhou South, але ≈45+ хв метро від туристичного центру в один бік",
+        "Single Room у назві; 2 adults підтверджені, але комплектація ліжка потребує уточнення",
+        "Заїзд із Guangzhou East 29.10: потрібна окрема дорога до району Guangzhou South"
+      ]
+    },
+    {
+      "date": "30-31.10",
+      "city": "Zhuhai",
+      "name": "Chengxin Apartment (Zhuhai Railway Station Branch)",
+      "cn": "не встановлено точної офіційної китайської назви",
+      "address": "Block H, 7F, Building 23, Huayuan New Village, 225 Yuehua Road, Gongbei, Zhuhai",
+      "check_in": "не вказано у підтвердженні",
+      "check_out": "не вказано у підтвердженні",
+      "room": "Standard double room (no private bathroom); 2 adults",
+      "total": "CNY 50.55",
+      "extra": "немає явно зазначеної додаткової плати",
+      "paid": true,
+      "ref": "716943275",
+      "source": "1a16f42df4570162",
+      "flags": [
+        "D1899 прибуває Zhuhai о 22:56; заселення після 23:00 не підтверджено",
+        "Немає приватного санвузла",
+        "31.10 пішки до Gongbei / 拱北口岸, час за маршрутом потрібно звірити"
+      ]
+    },
+    {
+      "date": "31.10-03.11",
+      "city": "Hong Kong",
+      "name": "Days Hostel",
+      "cn": "戴斯賓館",
+      "address": "Block D, Flat D6 Reception, 10th Floor, 36-44 Nathan Road, Tsim Sha Tsui, Hong Kong",
+      "check_in": "після 14:00",
+      "check_out": "до 11:30",
+      "room": "Double Room with 1 Double Bed",
+      "total": "USD 67.26",
+      "extra": "UAH 544.06 до сплати у готелі; лист також зазначає 15% cleaning fee",
+      "paid": true,
+      "ref": "716945159",
+      "source": "1a16f4861f9fe028",
+      "flags": [
+        "Повернення з Macau пізно ввечері; не підтверджено час прийому гостя",
+        "03.11 на HKG CZ356 о 14:05 виїжджати з TST орієнтовно о 09:00-09:30",
+        "Не вважати сховище валіз автоматично безкоштовним",
+        "Trip.com і Booking.com для цього об’єкта вказують reception 24/7, Trip.com - free luggage storage, але 3 доби між двома заїздами не доведено."
+      ]
+    },
+    {
+      "date": "03-04.11",
+      "city": "Badaling",
+      "name": "Dongmen Inn",
+      "cn": "东门客栈(北京八达岭店)",
+      "address": "No. 25, Chadao Village, Badaling Town, Yanqing, Beijing / 八达岭镇岔道村25号",
+      "check_in": "після 14:00",
+      "check_out": "до 12:00",
+      "room": "No.2 Courtyard Double Room; 2 adults",
+      "total": "USD 13.41",
+      "extra": "немає явно зазначеної додаткової плати",
+      "paid": true,
+      "ref": "716946159",
+      "source": "1a16f4cbf0ded059",
+      "flags": [
+        "Планове прибуття Badaling HSR 21:11; дорогу/зустріч до Chadao Village не підтверджено",
+        "До HSR Badalingchangcheng треба закласти перехід і запас; не плутати зі старою Badaling station",
+        "04.11 10:44 поїзд до Qinghe, далі PKX та рейс 15:15 - високий ризик"
+      ]
+    }
+  ],
+  "risks": [
+    {
+      "level": "КРИТИЧНО",
+      "when": "28.10 05:15-07:20",
+      "title": "Ранній G388 / імміграція West Kowloon",
+      "detail": "Days Hostel у Tsim Sha Tsui → West Kowloon пішки приблизно 20-30 хв (лише оцінка району). Вихід ≈05:15-05:30, двері станції о 06:00, контроль квитків закривається о 06:50, поїзд 07:20. Для двох паспортів ризик черги.",
+      "url": "https://www.highspeed.mtr.com.hk/en/guide/process-departure.html"
+    },
+    {
+      "level": "КРИТИЧНО",
+      "when": "28-31.10",
+      "title": "Дві валізи в Days Hostel",
+      "detail": "Одна й та сама адреса на 27-28 і 31-03, але письмової згоди на 3 доби між заїздами немає. Зберігання не підтверджене, ціна також. Довідники підтверджують 24/7 reception і безкоштовне стандартне luggage storage, але не багатоденний проміжок без бронювання.",
+      "url": "https://us.trip.com/hotels/hong-kong-hotel-detail-1221436/days-hostel/"
+    },
+    {
+      "level": "КРИТИЧНО",
+      "when": "28.10",
+      "title": "Умови транзиту Mainland / Gongbei",
+      "detail": "Підтверджена наявність 240h TWOV для українського паспорта, але допустимість конкретного доказу onward exit HK → Gongbei пешки → Macau потребує рішення прикордонної служби. Внутрішній HSR квиток сам не доводить виїзд.",
+      "url": "https://en.nia.gov.cn/n147418/n147463/c183412/content.html"
+    },
+    {
+      "level": "ВИСОКИЙ",
+      "when": "29.10 08:00",
+      "title": "C8004 виходить із Luohu, не Huaqiangbei",
+      "detail": "Pengda адреса 1007 Renmin South Road; збір і пішохідний перехід до Shenzhen Railway / 深圳, ціль на станції до ≈07:20, не залишати ранок на шопінг.",
+      "url": ""
+    },
+    {
+      "level": "ВИСОКИЙ",
+      "when": "29-30.10",
+      "title": "Ніч у Guangzhou South, туристичний центр далеко",
+      "detail": "Four Seasons Flower Apartment у Shibi біля Guangzhou South, а не Beijing Road. Після прибуття Guangzhou East потрібно або спочатку поїхати до готелю, або зберігати невеликий багаж і відвідати центр; повторна дорога до Guangzhou South орієнтовно 45+ хв.",
+      "url": ""
+    },
+    {
+      "level": "КРИТИЧНО",
+      "when": "30.10 22:56",
+      "title": "Заселення після 23:00 у Zhuhai",
+      "detail": "Chengxin Apartment розміщено в житловому комплексі на 7F, бронювання не встановлює останню годину заселення. D1899 прибуває 22:56; дорога займе додатковий час.",
+      "url": ""
+    },
+    {
+      "level": "КРИТИЧНО",
+      "when": "03.11 17:25→20:52",
+      "title": "PKX → Qinghe G7849, дуже вузька стиковка",
+      "detail": "Літак CZ356 прибуває PKX о 17:25, Qinghe поїзд 20:52. Орієнтовно 67-71 км, авто залежно від заторів 50-100 хв, метро із пересадками ~75-105 хв без імміграції; потрібен дозвіл на в’їзд.",
+      "url": "https://www.rome2rio.com/s/Beijing-Daxing-International-Airport/Qinghe-Station"
+    },
+    {
+      "level": "КРИТИЧНО",
+      "when": "04.11 10:44→15:15",
+      "title": "Qinghe → PKX після муру",
+      "detail": "D6704 Badaling 10:44 → Qinghe 11:04. Міжнародний рейс CZ673 PKX 15:15, закриття check-in 14:25. Ціль - аеропорт приблизно до 12:30-13:00; затори критичні.",
+      "url": "https://csair.com/sg/en/tourguide/airport_service/airports_info/check-in-time/"
+    },
+    {
+      "level": "ВИСОКИЙ",
+      "when": "27-31.10",
+      "title": "Номер/ванна й додаткові платежі",
+      "detail": "Шеньчжень Single Occupancy Fan/Shared Bathroom; Гуанчжоу Special Single Room на 2 adults; Чжухай no private bathroom; HK Days Hostel доплати USD3.88 і UAH544.06, згадка 15%.",
+      "url": ""
+    }
+  ],
+  "refund": {
+    "date": "2026-10-25",
+    "train": "G6552",
+    "journey": "2026-10-26 HK West Kowloon → Futian 08:30",
+    "paid_cny": 136,
+    "refunded_cny": 136,
+    "status": "BOTH_TICKETS_REFUNDED",
+    "order": "EC78996818"
+  },
+  "hotels_total_original_charges": {
+    "usd": 102.44,
+    "cny": 174.96,
+    "on_property": "USD 3.88 + UAH 544.06 (not included in prepaid charges)"
+  },
+  "train_total_cny": 502
+}

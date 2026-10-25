@@ -1,0 +1,11 @@
+{
+  "version": "1.7",
+  "mode": "private",
+  "sources": [
+    "https://open-meteo.com/",
+    "https://www.exchangerate-api.com/",
+    "https://organicmaps.app/faq/embedded-faq/",
+    "https://docs.netlify.com/deploy/create-deploys/"
+  ],
+  "notice": "Historic book data is not a source of current prices, visas, openings or live rail availability."
+}

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "wek_b1",
+    "name": "West Kowloon - ticket check",
+    "zh": "香港西九龍站 B1",
+    "city": "hongkong",
+    "day": "2026-10-28",
+    "type": "station_interior",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "mtr_process",
+      "mtr_maps"
+    ],
+    "status": "official_procedure_no_door_coordinate",
+    "route": "Увійдіть у Hong Kong West Kowloon Station (3 Austin Road West), пройдіть до B1 Ticketing Concourse; перевірка особи та квитка завершується за 30 хв до відправлення."
+  },
+  {
+    "id": "wek_b3",
+    "name": "West Kowloon - immigration and boarding gate",
+    "zh": "香港西九龍站 B3 離港大堂",
+    "city": "hongkong",
+    "day": "2026-10-28",
+    "type": "station_interior",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "mtr_process",
+      "mtr_maps"
+    ],
+    "status": "official_procedure_no_door_coordinate",
+    "route": "З B1 спустіться на B3; проходження безпеки та гонконзького/китайського імміграційного контролю; після цього ворота посадки B3. За 5 хв до відправлення ворота зачиняються."
+  },
+  {
+    "id": "wek_b4",
+    "name": "West Kowloon - train platform",
+    "zh": "香港西九龍站 B4 月台",
+    "city": "hongkong",
+    "day": "2026-10-28",
+    "type": "station_interior",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "mtr_maps"
+    ],
+    "status": "official_station_layout_no_platform_number",
+    "route": "Після воріт B3 спускайтесь на платформу B4; конкретну колію дивіться на інформаційному табло, не визначайте заздалегідь."
+  },
+  {
+    "id": "wk_k",
+    "name": "West Kowloon Exit K - Austin Station",
+    "zh": "西九龍站 K 出口",
+    "city": "hongkong",
+    "day": "2026-10-28",
+    "type": "station_exit",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "mtr_maps",
+      "hk_transport"
+    ],
+    "status": "official_exit_name_no_verified_gps",
+    "route": "Із Austin Station до West Kowloon скористайтесь позначеним пішохідним з’єднанням через вихід K або N; дотримуйтесь актуальних покажчиків."
+  },
+  {
+    "id": "nl_c2",
+    "name": "Diamond Hill MTR Exit C2 → Nan Lian Garden",
+    "zh": "鑽石山站 C2 出口 → 南蓮園池",
+    "city": "hongkong",
+    "day": "2026-11-02",
+    "type": "metro_exit",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "nanlian"
+    ],
+    "status": "official_exit_name_no_verified_gps",
+    "route": "На Diamond Hill Station виберіть Exit C2 і йдіть за покажчиками до Nan Lian Garden, 60 Fung Tak Road. Офіційно парк працює 07:00-21:00."
+  },
+  {
+    "id": "chen_d",
+    "name": "Chen Clan Academy Metro Exit D",
+    "zh": "陈家祠地铁站 D 出口",
+    "city": "guangzhou",
+    "day": "2026-10-29",
+    "type": "metro_exit",
+    "lat": 23.128633,
+    "lon": 113.239231,
+    "source": [
+      "gz_d",
+      "gz_photo"
+    ],
+    "status": "photo_geotag_plus_2026_exit_guide",
+    "route": "Гуанчжоу метро 1/8, станція 陈家祠, Exit D; від нього приблизно 2-3 хв до Chen Clan Ancestral Hall. Геоточка - EXIF фотографії виходу (вересень 2025), не виміряний поріг дверей."
+  },
+  {
+    "id": "cantontower_a",
+    "name": "Canton Tower Metro Exit A → tram station",
+    "zh": "广州塔站 A 出口",
+    "city": "guangzhou",
+    "day": "2026-10-29",
+    "type": "metro_exit",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "gz_tower"
+    ],
+    "status": "official_exit_name_no_verified_gps",
+    "route": "Для Haizhu Tram Canton Tower використайте Exit A лінії метро 3 або Passage 2 APM. Орієнтир ~6 хв пішки до оновленої трамвайної станції."
+  },
+  {
+    "id": "star_tst",
+    "name": "Star Ferry Tsim Sha Tsui Pier",
+    "zh": "尖沙咀天星碼頭",
+    "city": "hongkong",
+    "day": "2026-10-27",
+    "type": "pier",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "ferry"
+    ],
+    "status": "official_pier_street_no_specific_gate",
+    "route": "Tsim Sha Tsui Star Ferry Pier - Salisbury Road, Kowloon. Для рейсу до Central ідіть на відповідний причал; Central Pier No.7."
+  },
+  {
+    "id": "gongbei_gate",
+    "name": "Gongbei → Macau Border Gate",
+    "zh": "拱北口岸 → 關閘口岸",
+    "city": "zhuhai",
+    "day": "2026-10-31",
+    "type": "border",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "macau_gate"
+    ],
+    "status": "official_checkpoint_hours_no_exact_door_coordinates",
+    "route": "Пішохідний кордон Zhuhai/Gongbei → Macau Border Gate, 06:00-01:00. Не користуйтеся Qingmao замість Gongbei без підтвердження права проходу."
+  },
+  {
+    "id": "hzmb_macau",
+    "name": "HZMB Macao Port Gold Bus",
+    "zh": "港珠澳大橋澳門口岸 穿梭巴士",
+    "city": "macau",
+    "day": "2026-10-31",
+    "type": "bus_boarding_area",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "hzmb_bus",
+      "hzmb_hk"
+    ],
+    "status": "official_port_area_no_platform_number",
+    "route": "Приїхати до HZMB Macao Port; оформити виїзд, придбати квиток Macau→Hong Kong та перевірити актуальний gate/бай Gold Bus."
+  },
+  {
+    "id": "lantau_11",
+    "name": "Tung Chung Bus Terminus - route 11 Tai O",
+    "zh": "東涌站巴士總站 11 路大澳",
+    "city": "hongkong",
+    "day": "2026-11-01",
+    "type": "bus_terminal",
+    "lat": null,
+    "lon": null,
+    "source": [
+      "nlb"
+    ],
+    "status": "official_bus_route_no_bay_number",
+    "route": "Із Tung Chung Station Bus Terminus маршрут New Lantao Bus 11 їде до Tai O. Для Ngong Ping - маршрут 23; вибір залежить від послідовності відвідування."
+  }
+]

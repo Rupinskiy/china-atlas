@@ -1,0 +1,25 @@
+{
+  "name": "China GBA Travel Atlas v4.22 PRIVATE",
+  "short_name": "China Atlas",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#103b54",
+  "description": "Private offline itinerary reference: route texts, tickets and dated operator schedules; no surveyed turn-by-turn GPS routing.",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

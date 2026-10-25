@@ -1,0 +1,2557 @@
+{
+ "book": "Lonely Planet China 17 (серпень 2025), ISBN 9781788687935",
+ "conflicts": [
+  {
+   "place": "Peak Tram",
+   "lp": "LP 2025: HK$88 / HK$108",
+   "now": "офіційні тарифи 2026: туди-назад HK$116",
+   "note": "застаріло в книзі"
+  },
+  {
+   "place": "Ngong Ping 360",
+   "lp": "LP 2025: HK$270 / HK$350",
+   "now": "2026: HK$295 / HK$365",
+   "note": "застаріло в книзі"
+  },
+  {
+   "place": "Бадалін",
+   "lp": "LP 2025: вхід ¥35-40, канатка ¥100-140",
+   "now": "2026: ¥35 з 01.11, до 18 років безкоштовно",
+   "note": "збігається"
+  }
+ ],
+ "pages": [
+  {
+   "id": "lp063",
+   "page": 63,
+   "city": "Пекін",
+   "heads": "Summer Palace & Haidian Drum Tower & Dongcheng North Beihai Park & Xicheng North Sanlitun & Chaoyang Forbidden City & Dongcheng Central Dashilar & Xicheng South Temple of Heaven & Dongcheng South",
+   "subs": "",
+   "pois": [],
+   "facts": [
+    "¥25,",
+    "¥30,",
+    "¥10",
+    "¥13,",
+    "¥2.3"
+   ],
+   "zh": [
+    "北京站",
+    "北京西站",
+    "北京南站",
+    "北京北站"
+   ],
+   "text": "",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e080",
+    "e079",
+    "e220"
+   ]
+  },
+  {
+   "id": "lp064",
+   "page": 64,
+   "city": "Пекін",
+   "heads": "Summer Palace & Haidian Drum Tower & Dongcheng North Beihai Park & Xicheng North Sanlitun & Chaoyang Forbidden City & Dongcheng Central Dashilar & Xicheng South Temple of Heaven & Dongcheng South",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e080",
+    "e079",
+    "e220"
+   ]
+  },
+  {
+   "id": "lp067",
+   "page": 67,
+   "city": "Пекін",
+   "heads": "Admire Ming Architecture at the Workers' Cultural Palace",
+   "subs": "A respite · from the crowds",
+   "pois": [
+    "Tiananmen Sq",
+    "Forbidden",
+    "City",
+    "Workers'",
+    "Cultural",
+    "Palace",
+    "Imperial",
+    "Ancestral Temple"
+   ],
+   "facts": [],
+   "zh": [
+    "劳动人民文化宫",
+    "太庙"
+   ],
+   "text": "Here, at the very middle of the Middle Kingdom, is the Beijing you came to see: Chairman Mao slum bering in his mausoleum at the heart of Tianan men Sq, while the ghosts of emperors past haunt the 9999 rooms of the world's largest palace complex, the Forbidden City. Remarkably, central Beijing retains its historic, lowslung layout, a fantastical masterwork of feng shui planning and divine order. You'll understand as soon as you clamber up the slopes of Jingshan Park and drink in the astonishing scale and symmetry of the city's Central Axis from above. Ideally, you'll dedicate one or two days to the main sights, but consider getting off the beaten path with a trip to lesser-known museums and parks. Chang'an Jie, Beijing's grand east-west central ave nue used for military parades, divides the Forbidden City from Tiananmen Sq, and Wangfujing from the for mer Legation Quarter (currently closed to the public). Hidden in between (p70 ) and the Tiananmen Sq Forbidden (p72 ) are two havens of shaded park space: the City Workers' Cultural Palace ( , Láodòng Rénmín Wénhuà Gōng) to the east and Zhongshan Park to the west. Both are accessible to the public without advance reservations to ei th",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp068",
+   "page": 68,
+   "city": "Пекін",
+   "heads": "Sip Tea in Zhongshan Park Climb to the Top of Jingshan Park",
+   "subs": "Beijing's first public park · Balance yin and yang",
+   "pois": [
+    "Zhongshan Park",
+    "Altar of Land",
+    "and Grain",
+    "Laijin Yux-",
+    "uan Teahouse",
+    "park"
+   ],
+   "facts": [
+    "6.30am-2.30pm & 6-10pm 11",
+    "30am-2.30pm & 5",
+    "11.30am-2.30pm & 5",
+    "11.30am-3pm Tue-Sun ¥¥¥ 10pm ¥¥¥ 9",
+    "¥ 10",
+    "¥ 9.30",
+    "¥ 1144"
+   ],
+   "zh": [
+    "中山公园",
+    "来今雨轩茶社",
+    "景山公园",
+    "富春",
+    "利苑",
+    "酒家",
+    "王府",
+    "王府井大街号璞瑄酒店",
+    "四大街沙滩北街",
+    "井大街",
+    "号璞瑄酒店",
+    "金宝街",
+    "号金",
+    "宝大厦"
+   ],
+   "text": "Inside, marble bridges lead to three flights of steps ascend ing to the magnificent Sacrificial Hall, which resembles the Hall of Supreme Harmony in the Forbidden City. Spirits alone were permitted to traverse the central plinth; the emperor was consigned to the left-hand flight. This hall would have held the thrones of departed royals and their consorts; now it holds rotating calligraphy displays. Named after China's first president Sun Yatsen (aka Sun Zhong shan), whose body was placed here briefly after his death, the lovely ( , Zhōngshān Gōngyuán) Zhongshan Park sits at the southwest corner of the Forbidden City. The park used to be royal gardens containing the sacred Altar of Land , where the emperor offered sacrifices twice a year. and Grain The altar, a square open-air dais, is the centrepiece; the sur rounding halls contain interesting displays on the sacrifi cial rituals. In 1914, it became the first public park in Beijing. However, the real highlight here is the historic Laijin Yux( , Láijīn Yǔxuān Cháshè), which uan Teahouse makes for an excellent place to take a break in between vis its to Tiananmen Sq and the Forbidden City. Savour a cup of jasmine tea and sample the f",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e925"
+   ]
+  },
+  {
+   "id": "lp071",
+   "page": 71,
+   "city": "Пекін",
+   "heads": "The Square",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [
+    "天安门广场"
+   ],
+   "text": "The rectangular arrangement of Tiananmen Sq, its many red flags rippling in the wind, to some extent pays obeisance to traditional Chinese culture, but most of its ornaments and buildings are Soviet-inspired. Mao conceived the square to project the power of the Communist Party, and during the Cultural Revolution he reviewed parades of up to a million people here. The large gate at the northern end was traditionally where commoners and officials could lodge grievances with the emperor, and this practice was revived several times over the course of the 20th century, initially on 4 May 1919, and most",
+   "map": false,
+   "images": [
+    "l001"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp072",
+   "page": 72,
+   "city": "Пекін",
+   "heads": "Chairman Mao Memorial Hall National Museum of China Gate of Heavenly Peace",
+   "subs": "",
+   "pois": [
+    "entrances",
+    "flag-raising ceremony",
+    "mau-",
+    "soleum",
+    "museum",
+    "Gate of Heavenly Peace",
+    "Forbidden City",
+    "cannot"
+   ],
+   "facts": [],
+   "zh": [
+    "毛主席纪念堂",
+    "中国国家博物馆",
+    "天安门"
+   ],
+   "text": "tragically in 1989, following the death of the reform-minded general secretary Hu Yaobang. At the time of writing, Tiananmen had two main : entrances one at the Tiananmen East subway stop (Line 1) and the other at the Qianmen subway stop (Line 2). Once you gain access to the square, you'll be able to visit three other sights: the Chair man Mao Memorial Hall (in the centre), the National Muse um of China (east) and the Gate of Heavenly Peace (north). Early risers can watch the daily at flag-raising ceremony sunrise, performed by a troop of People’s Liberation Army (PLA) soldiers marching at precisely 108 paces per minute, 75cm per pace. The reverse ceremony is performed at sunset. One of Beijing's more surreal spectacles is the sight of Mao Zedong's embalmed corpse on public display within his mau( , Máo Zhǔxí Jìniàntáng), located at soleum the heart of Tiananmen Sq. In order to enter, you must make advance reservations via WeChat (Chinese only); it's open from 8am to noon (Tuesday-Sunday). Tickets are extreme ly hard to get. Beijing's best ( , Zhōngguó Guójiā museum Bówùguǎn) is unfortunately ensconced within the massive Ti ananmen security zone, meaning you'll need to pass through",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp073",
+   "page": 73,
+   "city": "Пекін",
+   "heads": "Introduction",
+   "subs": "",
+   "pois": [
+    "Outer Court",
+    "Inner Court",
+    "Palace",
+    "Museum"
+   ],
+   "facts": [],
+   "zh": [
+    "紫禁城",
+    "故宫博物馆"
+   ],
+   "text": "Although you can explore the Forbidden City in a few hours, a full day will keep you occupied - it is a truly colossal place. Much like the Louvre, you can't see it all at once, so focus on the parts that grab your attention. Many visitors get caught up with the vast ceremonial halls and parade grounds of the Outer Court (southern half), but remember that the real thrill comes from exploring the : the labyrinth Inner Court of courtyards and halls north of the Outer Court, laid out on a more human scale. Be prepared to walk long distances. The Forbidden City was renamed the Palace Museum ( , Gùgōng Bówùguǎn) in 1925, just one year after Puyi, the abdicated last emperor, departed the Inner Court.",
+   "map": false,
+   "images": [
+    "l002"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp074",
+   "page": 74,
+   "city": "Пекін",
+   "heads": "The Outer Court The Inner Court",
+   "subs": "",
+   "pois": [
+    "Hall of Supreme Harmony",
+    "Hall of",
+    "Central Harmony",
+    "Hall of Preserving Har-",
+    "mony",
+    "Palace",
+    "of Compassion and",
+    "Tranquillity",
+    "Treasure Gal-",
+    "lery",
+    "Nine Dragon",
+    "Screen",
+    "Hall of Clocks Hall of Abstinence",
+    "Central Halls"
+   ],
+   "facts": [
+    "¥10",
+    "¥40"
+   ],
+   "zh": [
+    "冰窖",
+    "餐厅"
+   ],
+   "text": "It celebrated its 600th anniversary in 2020, and its 100th an niversary as a museum in 2025. The Outer Court is dominated by the Three Great Halls set in vast cobbled courtyards, which could hold thousands of dig nitaries and their sedan-chair bearers, guards and servants. The is the most important and Hall of Supreme Harmony largest structure in the Forbidden City. It was used for state occasions, such as the emperor’s birthday, coronations and the nomination of military leaders. Inside the hall is a richly deco rated Dragon Throne, from which the emperor would preside over trembling officials. Behind the Hall of Supreme Harmony is the square Hall of , which was used as the emperor’s transit Central Harmony lounge. Here he would make last-minute preparations, rehearse speeches and receive ministers. The third of the Great Halls is the Hall of Preserving Har, used for banquets and later for the palace examinations. mony Unless you have all day, it's best to focus on just one or two sections within the Inner Court. All are fascinating. West of the main complex is the Palace of Compassion and (1536), where the empresses and consorts of Tranquillity deceased emperors resided, not bein",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp076",
+   "page": 76,
+   "city": "Пекін",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Palace of",
+    "Heavenly Purity",
+    "Hall",
+    "of Union",
+    "Palace",
+    "of Earthly Tranquil-",
+    "lity",
+    "eastern palaces",
+    "western palaces"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "The first structure is the , a resiPalace of Heavenly Purity dence of Ming and early Qing emperors, and later an audience hall for receiving foreign envoys and high officials. Immediately behind it is the , which contains Hall of Union a clepsydra - a water clock made in 1745 with five bronze ves sels and a calibrated scale. The Palace of Earthly Tranquillity was the imperial couple’s bridal chamber and where the empress ruled the Inner Court. A dozen smaller palace courtyards lie to the east and west of the three lesser central halls. It was in these self-contained abodes where most emperors actually lived. Many of the build ings, particularly those to the west, are decked out in impe rial furniture. The six were the living quarters of imperial eastern palaces consorts and their sons during Qing times. Exhibitions here display a variety of cultural relics, from ceramics and jade to musical instruments and ceremonial bronze vessels. The most unusual is the Palace of Prolonging Happiness (aka Yanxi Pal ace), which features an unfinished 20th-century western-style building with an intricately carved white marble facade. The six include the Palace of Gathered western palaces Elegance,",
+   "map": false,
+   "images": [
+    "l003"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp077",
+   "page": 77,
+   "city": "Пекін",
+   "heads": "Learn about Imperial Veneration at Shouhuang Palace Savour Perfect Peking Duck",
+   "subs": "The Manchurian · emperors · Get ready · to roll",
+   "pois": [
+    "Shouhuang",
+    "Pal-",
+    "king duck"
+   ],
+   "facts": [
+    "10.30am-9pm ¥¥ mall",
+    "11am-2.30pm 口西街32号",
+    "11am-9.30pm ¥¥",
+    "¥ 9",
+    "¥ 1144"
+   ],
+   "zh": [
+    "寿皇殿",
+    "烤鸭",
+    "一贯三为王",
+    "四季民福",
+    "小大董",
+    "全鸭季",
+    "南池子大街",
+    "灯市",
+    "金宝街",
+    "口西街",
+    "王府井大街"
+   ],
+   "text": "(continued from p67) affords princely views of all Beijing and the palace below. Time your ascent for the sunset and you'll have a knockout post on Instagram. Alternatively, come here in the early morning to join in with elderly folk going about their dawn routines of dancing, practising taichi or playing jianzi (kick-shuttlecock). On the eastern side of the park, a Chinese scholar tree stands in the place where, according to legend, the last Ming em peror hanged himself as a peasant rebellion swarmed into the capital unopposed. At the northern edge of Jingshan Park is Shouhuang Pal( , Shòuhuáng Diàn), built in 1749 during the reign ace of the Qianlong Emperor to honour his Manchu ancestors. Under the communists it served as the Children's Palace be fore the halls were restored in 2018. Be sure to check out the exhibits in the rear courtyard, where you'll find a video, paintings and scale models of the various rites and imperial processions. Also look for the pair of yellow-and-green glazed tile furnaces, used for burning silk and spirit tablets as offer ings to deceased ancestors. Few visitors leave town without trying Pe( , kǎoyā), the capi king duck tal's most legendary dish. It",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp078",
+   "page": 78,
+   "city": "Пекін",
+   "heads": "Master Chinese Cooking",
+   "subs": "The ways of the wok",
+   "pois": [],
+   "facts": [
+    "11am-2pm & 5-9pm ¥ 同38号A铺",
+    "11am-2pm & 号",
+    "11am-11pm ¥ 地铁站",
+    "9am-9.30pm ¥ 5-9pm ¥",
+    "¥ 5-9",
+    "¥ 1144"
+   ],
+   "zh": [
+    "胡同",
+    "合院",
+    "宾饭馆",
+    "胖妹面庄",
+    "食界",
+    "弯弯月亮",
+    "四大街翠花胡同",
+    "钱粮胡",
+    "东四六条胡同",
+    "东方广场",
+    "王府井",
+    "地铁站"
+   ],
+   "text": "over the wood of fruit trees to impart a perfume into the skin, and wrapping the meat in thin wheat pancakes. When ordering you can choose between a half duck (feeds two) or the whole quacker (feeds three to four); if you get the whole bird, it's often carved before you at the table. While this is taking place, whet your appetite by dipping some of the ultra-crispy skin into sugar - it's pure decadence. Once the duck is carved, it's time to assemble your pan cakes. Begin by dipping two or three slices of meat into the fermented bean sauce, then place the slices at the top of the wrapper. Add some julienned cucumbers and spring onions on top of this, and perhaps some pickled veggies and garlic sauce while you're at it. Fold the wrapper in half (a semicir cle), and then fold in the sides so nothing leaks out. Voila! You're ready to enjoy the ultimate Beijing meal. Traditionally, a light duck soup is served after you're done eating to cleanse your palate, but some restaurants serve it out of a teapot at the same time as the duck. If you've ever tried to make mapo tofu or kung pao chicken at home, then you know that even with a good recipe, mastering the techniques, textures and balanc",
+   "map": false,
+   "images": [
+    "l004"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp079",
+   "page": 79,
+   "city": "Пекін",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Black Sesame",
+    "Kitchen",
+    "The Hutong"
+   ],
+   "facts": [
+    "7am-7pm",
+    "¥350"
+   ],
+   "zh": [
+    "王府井大街",
+    "黑芝麻厨房",
+    "隆福寺",
+    "悠航鲜啤",
+    "来今雨",
+    "灯市口店",
+    "轩茶社",
+    "北京王府井文华东",
+    "钱粮胡同",
+    "东四南大街",
+    "方酒店王府井大街",
+    "王府中环",
+    "山公园"
+   ],
+   "text": "can seem all but impossible. However, don't be discouraged: you can learn the ways of the wok and get your dumplingwrapping skills in order at two longstanding cooking schools that teach in English. ( , Hēi Zhīma Chúfáng; Black Sesame Kitchen WeChat: BlackSesameKitchen ) runs private classes near Jing shan Park; reserve in advance. Many people choose to skip the cooking entirely, and go straight for the 10-course com munal dinners (¥350). Held in a traditional courtyard with wine and beer, these meals are an excellent way to meet oth er travellers. Reserve. Another school that teaches a variety of cooking styles is (thehutong.com) . This superb cultural centre, The Hutong located in the Drum Tower neighbourhood, runs five to six classes a week, revealing the secrets of hand-pulled noodles and ethnic minority cuisines as well as all the Beijing and Sichuan classics. Courses are 2½ hours long, cost ¥350 and conclude with a meal.",
+   "map": false,
+   "images": [
+    "l005"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp080",
+   "page": 80,
+   "city": "Пекін",
+   "heads": "Appreciate the Arts Geek Out at the Ancient Observatory",
+   "subs": "Contemporary and traditional · From altazimuth quadrants to sextants",
+   "pois": [
+    "National Art Museum of China",
+    "Guardian Art Center",
+    "ancient observatory"
+   ],
+   "facts": [
+    "10.30am-2.15pm 同38号",
+    "11.30am-9pm ¥¥ 层",
+    "11.30am-2.30pm & 头条5号",
+    "¥ 5-9",
+    "¥ 1144"
+   ],
+   "zh": [
+    "中国美术馆",
+    "五四大街",
+    "嘉德艺术中心",
+    "王府井大街",
+    "炸酱面",
+    "古观象台",
+    "二环东路建国门桥",
+    "羊肉",
+    "川办",
+    "外婆",
+    "苏苏",
+    "鼎泰",
+    "钱粮胡",
+    "建国门内大街贡院西街",
+    "头条"
+   ],
+   "text": "Opened in 1963 with the personal endorsement of Mao Zedong, the National Art Museum of China ( , Zhōngguó Měishùguǎn; 1 Wusi Dajie, 1 closed Mon ) was con ceived as the PRC's national nerve centre for artistic expres sion. In recent years the museum has shaken off its reputation for stodgy, state-supervised exhibitions by inviting galleries from abroad to exhibit, while at the same time revamping its own output, often in collaboration with Beijing's prestigious Central Academy of Fine Arts. Across the street is China's largest auction house, the ( , Jiādé Yìshù Zhōngxīn; Guardian Art Center 1 Wangfujing Dajie, 1 ). Exhibits from its collec tions, ranging from Forbidden City antiques to Qing-dynasty thangkas (Tibetan sacred art), are held in its gorgeous 2-storey building. Astronomers have been studying the mysteries of the cosmos at this ancient observatory ( , Gǔ Guānxiàngtái; cnr Jianguomennei Dajie & East 2nd Ring Rd, , closed mon ) since 1442. Crowning the 18m-high brick tower is an array of arcane astronomical instruments, mounted on carved stone plinths and embellished with bronze dragons. Kublai Khan, like subsequent Ming and Qing emperors, re lied heavily on astronomers to ",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp089",
+   "page": 89,
+   "city": "Пекін",
+   "heads": "Stroll in the Temple of Heaven",
+   "subs": "Where divine · sacrifices were once made",
+   "pois": [
+    "Temple of Heaven",
+    "Hall",
+    "of Prayer for",
+    "Good Harvests",
+    "Danbi Bridge",
+    "Imperial Vault",
+    "of Heaven",
+    "Echo Wall"
+   ],
+   "facts": [],
+   "zh": [
+    "天坛",
+    "天坛东路"
+   ],
+   "text": "A pilgrimage to the Temple of Heaven, 3km south of the Forbidden City, is as mandatory for tourists today as it was for emperors and their entourages coming here during the winter solstice to pay tribute to the gods. The temple and its surrounding park occupies a vast tranche of real estate - prepare for a lot of walking. During the Ming and Qing dynasties, the grounds were off limits to all but the emperor and his ministers, and only used for occasional ceremonies. You'll also find enticing remnants of Beijing's city walls north of the temple, where a walking route ex tends eastwards for 1.2km alongside a wistful stretch of worn brick and stone. Historians will want to make a beeline for the new home of the imperial archives, once stored next to the Forbidden City. Immediately south of Tiananmen Sq is Qianmen Dajie, conveying tourists along Beijing's Central Axis. A conduit to the cosmos, the ( , Tiāntán; Temple of Heaven Tiantan Donglu, ) originally served as the vast stage for solemn rites performed by the emperor, who prayed here twice a year for good harvests and divine atonement. Now a vast park dotted with 4000 cypress trees, the tem ple is known for its Long Corridor and th",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e080"
+   ]
+  },
+  {
+   "id": "lp090",
+   "page": 90,
+   "city": "Пекін",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Round Altar"
+   ],
+   "facts": [],
+   "zh": [
+    "永定门东街",
+    "南二环"
+   ],
+   "text": "a storeroom, used for the divine spirit tablets and other sacri ficial materials. The Echo Wall, 65m in diameter, is so named for its unique acoustic properties. A quiet word or two spo ken a few feet from the wall can be heard at the opposite point on the circle. The sacrifices themselves were made at the , Round Altar a raised dais open to the elements at the southern end of the axis. Arranged in three tiers, its divine geometry revolves around the imperial number nine, considered sacrosanct in imperial China. Book tickets in advance at forbiddencitytickets.com. The main entrance is the east gate (Subway Line 5); the closest place to eat is the Hongqiao Pearl Market (p 90 ).",
+   "map": false,
+   "images": [
+    "l042"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp091",
+   "page": 91,
+   "city": "Пекін",
+   "heads": "Practise Taichi in the Temple of Heaven Browse for Freshwater Pearls Shop on Qianmen Dajie",
+   "subs": "Taoist meditation · Hongqiao · Market souvenirs · From cloth · slippers to fans",
+   "pois": [
+    "San Feng Tai",
+    "Chi Club",
+    "Bespoke Travel",
+    "Hongqiao Pearl Market",
+    "food court",
+    "Qianmen Dajie",
+    "Tóng Shēng",
+    "Jing Fans",
+    "Shèng",
+    "Xī Fú",
+    "Madame Tussauds",
+    "Waxworks",
+    "Dōuyīchù"
+   ],
+   "facts": [
+    "¥300"
+   ],
+   "zh": [
+    "京三丰太极堂",
+    "红桥市场",
+    "天坛东路",
+    "前门大街",
+    "同升和",
+    "京扇子",
+    "盛锡福",
+    "北京杜莎夫人蜡像馆"
+   ],
+   "text": "The Temple of Heaven is not only a historic sight, it's one of Bei jing's most popular parks, where early birds gather to exercise. Why not join them for a morning of taichi? Characterised by its graceful, slow-motion movements, taichi is an internal martial art that aims to relax the mind and develop inner qi (vital en ergy), with roots in Taoist meditation and yin-yang cosmology. English-speaking instructors are hard to find, so be sure to book your class in advance. The ( San Feng Tai Chi Club ) teaches three styles; Classes are usually held on weekends. Contact Eric at sanfengtaichi@ gmail .com . Al ternatively, offers private classes with a Bespoke Travel Shaolin-trained master (bespoketravelcompany.com) . Occupying a purpose-built mall beside the Temple of Heaven's east gate, the ( , Hóngqiáo Hongqiao Pearl Market Shìchǎng; 9 Tiantan Donglu, 9 ) is a convenient place to stop for pearls, souvenirs and electronics. Though it feels comparatively polished, you'll still need your hag gling hat on. The 1st floor has the standard array of Chinese knockoffs: Louis Vuitton bags, Gucci apparel, kids' kung-fu outfits and a random assortment of T-shirts. The 2nd floor sells electronics: ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "bj02"
+   ],
+   "wiki": [
+    "e219",
+    "e080"
+   ]
+  },
+  {
+   "id": "lp092",
+   "page": 92,
+   "city": "Пекін",
+   "heads": "Peer into the Past at the Imperial Archives Climb the Ruins of the City Wall",
+   "subs": "Historians, get your geek on · Atop the Fox Tower",
+   "pois": [
+    "Méndīng Ròubǐng",
+    "First Historical",
+    "Archives of China",
+    "Southeast Corner",
+    "Watchtower"
+   ],
+   "facts": [],
+   "zh": [
+    "都一处",
+    "门钉肉饼",
+    "中国第一历史档案馆",
+    "祈年大街",
+    "东南角楼",
+    "崇文门东大"
+   ],
+   "text": "( ; No 38 ) and ( ; No 53 ), Méndīng Ròubǐng which sells takeaway meat pies. For the last 650 years, the entirety of the court's documents - more than 10 million items - were stored at the Imperial Ar chives on Nanchizi Dajie. In 2022, the collection was moved to its new home at the First Historical Archives of China ( , Zhōngguó Dìyī Lìshǐ Dàng'àn Guǎn; 9 Qinian Dajie, 9 ; fhac.com.cn; closed Sun ), which in cludes a small but fantastic exhibition space on the third floor. Expect to see treasures such as the world's largest map of dynastic China (3.86m x 4.56m; 1389), retroactively anno tated in Manchurian. The Complete Map of Mountains and Rivers along the Jinsha River is another stunner: extend ing for 77.4m (only a tiny fraction is on display), this massive scroll is the longest land map in China - if you look close ly, you can even see details like peddlers selling steamed buns to fishers. Other documents include biographies from the Ming Military Position Selection Book , imperial edicts sent out to provincial subordinates and plenty of gorgeous reports in Manchurian, Mongolian and Chinese. Fire up your photo-translation app, as there's little English. The immense Southeast C",
+   "map": false,
+   "images": [
+    "l008"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp093",
+   "page": 93,
+   "city": "Пекін",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Ming City Wall Ruins",
+    "Park"
+   ],
+   "facts": [
+    "10.30am-2pm & 大街30号",
+    "11am-2.30pm & 38号",
+    "9.30am-9pm ¥¥ 9pm ¥ 4",
+    "¥ 9",
+    "¥ 4.30-9",
+    "¥ 4.30-9",
+    "¥ 1144"
+   ],
+   "zh": [
+    "明城",
+    "墙遗址公园",
+    "都一处",
+    "便宜坊烤鸭店",
+    "前门全聚德烤鸭",
+    "门钉肉饼",
+    "鲜鱼口街",
+    "前门",
+    "前门大街",
+    "大街"
+   ],
+   "text": "Originally built in 1439, the tower is skewered with a formida ble grid of 144 archery embrasures, able to rain fire on wouldbe attackers. Visitors can mount the battlements and explore the tower itself, a magnificent maze of carpentry over multi ple floors, including an exhibition of historical photographs. From the ramparts, gaze on the city wall as it flows west; in the far distance you can make out the central Qianmen Gate, which gives you some idea of just how massive the walls once were. Also keep an eye out for graffiti scratched into the tow er by American and Russian soldiers during the Boxer Up rising in 1900. Get here by strolling the path alongside the wistful stretch of brick and stone of the ( Ming City Wall Ruins Park , Míng Chéngqiáng Yízhǐ Gōngyuán), all that re mains of the wall itself. This section extends for 1.2km, rising to a height of around 15m with defensive buttresses every 80m.",
+   "map": false,
+   "images": [
+    "l009"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp100",
+   "page": 100,
+   "city": "Пекін",
+   "heads": "Take a Historic Hutong Tour",
+   "subs": "Postcards from old Peking",
+   "pois": [
+    "Beijing",
+    "Postcards"
+   ],
+   "facts": [],
+   "zh": [
+    "大栅栏儿",
+    "杨梅竹",
+    "斜街"
+   ],
+   "text": "Like all ancient Chinese capitals, Beijing was origi nally divided into an Inner City and Outer City, and it was at Qianmen - the Front Gate - that these two worlds met. Just beyond Qianmen was the busy com mercial district of Dashilar ( , Dàzhàlánr), filled with craftspeople, peddlers and an endless pro cession of travellers. Dashilar was also an entertain ment district that was known for its theatres and more illicit pleasures, a tradition that continued all the way up to the communist era. Today, the shopping streets of Dashilar and near by Liulichang are the best areas for browsing tradi tional Chinese goods like silk and tea, or catching a performance of Peking opera. Further afield are the city's Ancient Architecture Museum and the Niujie Mosque. Delve into the smaller alleys flowing west from Meishi Jie - like Yangmeizhu Xiejie, a former printing street once home to author Lu Xun - for the most authentic local vibes. The capital's best purveyor of history tours in English, Beijing (bjpostcards.com; 97 Yangmeizhu Xiejie, Postcards 97 ) hosts a range of rigorously researched walks led by Danish cofounder Lars. The best of the bunch are the Histo ry of the Hutong and the Crash ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "bj03"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp101",
+   "page": 101,
+   "city": "Пекін",
+   "heads": "Taste Tea at Maliandao",
+   "subs": "From oolong · to pu-erh",
+   "pois": [
+    "Maliandao",
+    "Tea Market"
+   ],
+   "facts": [],
+   "zh": [
+    "西交民巷",
+    "长椿街",
+    "和平门",
+    "前门西大街",
+    "宣武门",
+    "前门",
+    "琉璃厂西街",
+    "琉璃厂东街",
+    "菜市口",
+    "珠市口西大街",
+    "广安门内大街",
+    "珠市口",
+    "南横东街",
+    "北纬路",
+    "天桥"
+   ],
+   "text": "by Lars and his cofounder from markets and auctions both in China and overseas. Additional events, including the Historical Movie Night and the Historical Book Club, are worth checking out. The Maliandao Tea Market ( , Mǎliándào Cháchéng; 11 Maliandao Lu, 11 ) is a nondescript commercial centre that is home to if not all the tea in China, then an awful lot of it. For leaf-hunters looking to venture beyond Beijing's favourite jasmine tea, it can make for a fas cinating, caffeine-fuelled excursion.",
+   "map": false,
+   "images": [
+    "l043"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp102",
+   "page": 102,
+   "city": "Пекін",
+   "heads": "Enjoy a Night at the Opera Examine Middle Kingdom Carpentry",
+   "subs": "Entertainment for all · Chinese design through the centuries",
+   "pois": [
+    "Hutong",
+    "Huguang",
+    "Guild Hall",
+    "Zhengyici The-",
+    "atre",
+    "Tianqiao",
+    "Performing Arts Centre",
+    "She Teahouse",
+    "Beijing",
+    "Ancient Architecture Museum"
+   ],
+   "facts": [],
+   "zh": [
+    "绿茶",
+    "乌龙",
+    "红茶",
+    "普洱",
+    "茉莉花",
+    "湖广会馆",
+    "虎坊",
+    "正乙祠戏楼",
+    "前门西河沿",
+    "天桥艺术中心",
+    "天桥南大街",
+    "老舍茶馆",
+    "前门西大街",
+    "北京古代建筑博物馆",
+    "东经路"
+   ],
+   "text": "To get the most out of a trip here, you'll want to taste several teas. Just remember that you are expected to make a pur chase afterward. Tea is sold by the gram ( , kè). The small est amount you can buy is 50g; an average purchase is 100g. Broadly speaking, the different types of tea on sale include green ( , lǜchá), oolong ( , wūlóng), black ( , hóng chá), pu-erh ( , pǔ'ěr), and jasmine ( , mòlìhuā). A typical tasting involves sitting down with your host (usually from Fujian province, where much of China's tea is grown) while they steep the tea multiple times and you enjoy thimblesized cups together. To fully enjoy the experience, bring along a Chinese speaker or sign up for a tea tour with The (p78 ). Hutong You'll also find tea sets and accessories sold at cheaper pric es than elsewhere. To get here, take Subway Line 7 to Wanzi. Historically home to dozens of opera theatres, the former entertainment district of Dashilar is still a good place to catch a traditional performance. One of the most authentic venues in town is the Huguang ( , Húguǎng Huìguǎn; 3 Hufang Lu, Guild Hall 3 ), one of Beijing's few surviving huiguan (guild halls), which were ostensibly a home away from home ",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp104",
+   "page": 104,
+   "city": "Пекін",
+   "heads": "Discover Beijing’s Muslim Community",
+   "subs": "From the Niu Jie Mosque to halal · snacks",
+   "pois": [
+    "Niu Jie Mosque",
+    "Jùbǎoyuán"
+   ],
+   "facts": [
+    "10am- 9.30pm ¥¥ 西大街14号楼",
+    "11am-2pm 西街32号",
+    "11am-9pm ¥ 10pm ¥¥ & 4-8",
+    "¥ 10",
+    "¥ 1144"
+   ],
+   "zh": [
+    "牛街",
+    "礼拜寺",
+    "聚宝源",
+    "铃木食堂",
+    "德缘烤鸭店",
+    "全聚德和平门店",
+    "魏大大",
+    "杨梅",
+    "竹斜街",
+    "前门",
+    "大栅栏",
+    "栅栏西街",
+    "西大街",
+    "号楼",
+    "西街"
+   ],
+   "text": "regional differences in dougong (brackets), sunmao (joints) and courtyard homes from around the empire. The museum is set in the former Temple of Agriculture, where the emperor was required to appear once a year in or der to plough a sacrificial field (he only had to plough three furrows, after which various ministers took over the task). Dating from around the 10th century, Niu Jie Mosque ( , Niú Jiē Lǐbài Sì; 18 Niu Jie, 18 ), Beijing's oldest, appears more like a Chinese temple with Islamic character istics. Domes and minarets are conspicuously absent, but it does have a fine prayer hall serving the local community of Hui Chinese Muslims, who also run the many halal restau rants along Ox St (Niu Jie), such as ( ; 5-2 Jùbǎoyuán Niu Jie, 5-2 ). Although the Hui are officially listed as an ethnic group (Beijing's largest), they are culturally very close to the Han Chinese, unlike the Uyghurs, for example, who speak a Tur kic language. Hui origins in China can be traced back to Per sian missionaries, and later to Islamic soldiers from Central Asia fighting for the Mongol Yuan dynasty. The mosque is lively with worshippers on Fridays, although during prayer times non-Muslims are forb",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp124",
+   "page": 124,
+   "city": "Пекін",
+   "heads": "Hike the Wall",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [
+    "八达岭"
+   ],
+   "text": "This section of the Great Wall extends 12km over the Bad aling highlands, connecting 43 watchtowers and undulat ing far beyond view, but the walkable part is a manageable 3.74km, and visitors can pass through up to 19 watchtowers. The crenellations are high on both sides, and guards will stop visitors from climbing on top. It’s normal to stand shoulder-toshoulder with hundreds of other people as you inch your way down the brick floors. The views are spectacular on both sides of the wall, and panoramic photos are a cinch to take on a clear day, provided you dodge all the selfie sticks. During periods of rain or intense sun, the towers can be a godsend you can duck",
+   "map": false,
+   "images": [
+    "l016"
+   ],
+   "stops": [
+    "bd01"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp125",
+   "page": 125,
+   "city": "Пекін",
+   "heads": "Ride the Cable Car Shop the Market Explore the Grounds",
+   "subs": "",
+   "pois": [
+    "North",
+    "Cableway",
+    "South",
+    "Cableway",
+    "China",
+    "Great Wall Museum"
+   ],
+   "facts": [
+    "¥100-140",
+    "¥80-120",
+    "¥35-40"
+   ],
+   "zh": [
+    "清河站"
+   ],
+   "text": "inside for shelter and peer through the narrow windows that archers once used to pick off enemies with arrows. Note that the towers do not have staircases, so there is no rooftop access. Badaling’s cable-car system is designed to lift visitors over the ridges and deposit them at the summits. The cars’ win dows provide 360-degree views as you rise over the precipi tous slopes. There are two well-marked cableways: the North is longer and adjacent to the main car park, while Cableway the South Cableway is shorter and a slightly longer walk. Both are great for aerial shots of the wall, and they pro vide shortcuts for starting or ending a hike, taking only a few minutes from station to station. Alternatively, you can try the ‘pulley’ system; climb into a plastic chair and ride for 10 minutes up a narrow-gauge track, much like a rollercoaster. Cable cars cost ¥100-140 and pulley rides ¥80-120; tickets can be purchased from posted QR codes or at wellmarked booths at the base. Children under 1.2m ride free. An inclined road leads from the car park to the main entrance, its pavements lined with souvenir shops, cafes and restaurants. Life-size statues, sculpted to look like Ming dynasty work",
+   "map": false,
+   "images": [],
+   "stops": [
+    "bd01"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp126",
+   "page": 126,
+   "city": "Пекін",
+   "heads": "Miyun District",
+   "subs": "Explore mountain scenery in Simatai",
+   "pois": [
+    "Simatai",
+    "Gubei",
+    "Water Town",
+    "cable"
+   ],
+   "facts": [
+    "¥40",
+    "¥110-180"
+   ],
+   "zh": [
+    "司马台",
+    "密云区",
+    "古北水"
+   ],
+   "text": "Experts insist that there was never a ‘Great Wall of China’, but rather - many walls that were woven together over time. The surviving segments in Hebei province are scattered across the northern highlands, some connected to each other, others isolated. For lovers of history and architecture, each site represents a unique state of repair (or disrepair), as well as a diff erent era in the evolution of Chinese defence. So many stairs and watchtowers can get repetitive after awhile, yet these locations show off the dynamism and adaptability of the Great Wall, and the many ways it has survived the centuries. In some cases, the eff ects of neglect are as striking as the power of restoration. ( , Sīmǎtái), in Miyun district ( , Mìyún Simatai Qū), has won global attention for its mountain scenery, which is epic even by Great Wall standards. Restorers have used a lighter touch on these 10 watchtowers and the walls that join them. Much of the original stonework is still visible, lending Simatai a more authentic feel than its fl ashier cousins. Visitor numbers are closely monitored, so book a reservation in advance through the Chinese-language website or make arrangements through a tour agen",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp505",
+   "page": 505,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Connaught Garden Memorial Gardens Statue Sq Chater Garden Harcourt Garden Aberdeen Country Park Victoria Harbour Causeway Bay Kellett Island Cargo Handling Basin Victoria Park Wan Chai Sports Ground Causeway Bay Sports Ground Tai Tam Wan Country Chai South China Park Park Association Stadium Hong Kong Stadium Jardine's Lookout",
+   "map": true,
+   "images": [
+    "l048"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp506",
+   "page": 506,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Connaught Garden Memorial Gardens Statue Sq Chater Garden Harcourt Garden Aberdeen Country Park Victoria Harbour Causeway Bay Kellett Island Cargo Handling Basin Victoria Park Wan Chai Sports Ground Causeway Bay Sports Ground Tai Tam Wan Country Chai South China Park Park Association Stadium Hong Kong Stadium Jardine's Lookout",
+   "map": true,
+   "images": [
+    "l049"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp507",
+   "page": 507,
+   "city": "Гонконг",
+   "heads": "Worship a Sea God Thwart your Enemies with Magic Have a Night at the Races",
+   "subs": "Incense smoke · and statues · Villain-hitting · ceremony · Place your · bets",
+   "pois": [
+    "Pak Tai Temple",
+    "Bowrington Villain Hitting",
+    "Happy Valley",
+    "Racecourse"
+   ],
+   "facts": [
+    "9.30am-10pm 11am-10pm HK$ 11",
+    "30am-9.30pm HK$$ 11am-10pm HK$$$ Mon-Sat",
+    "HK$50,",
+    "HK$ 11.30",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "(Continued from p503) grocery store, wine shop and bone-setting clinic. Despite cramped, crowded living areas, the building fostered a strong sense of community among its residents. Tucked away on a quiet residential street near the Blue House, is is a pocket of spiritual peace amid the Pak Tai Temple high-rises and banyan trees. Built in 1863 to honour Pak Tai, a god of the sea, the temple is adorned with ceramic roofridge ornaments that depict scenes from Cantonese opera, with twin stone-dragon sculptures guarding the entrance. The main hall reveals a 3m-tall copper statue of Pak Tai, cast 400 years ago during the Ming dynasty. Statues of other deities from Chinese legends are scattered throughout the classic Qing dynasty ‘two-hall-three-bay’ layout of the temple. Witness the ancient Guangdong tradition of da siu yan ( villain hitting ) at , located at Bowrington Villain Hitting the Canal Rd Flyover in Causeway Bay. For HK$50, you can hire a practitioner - mostly older women - to beat symbolic villains with a shoe or slipper while reciting chants. The process takes around five minutes, and the ceremony begins with the lighting of wax candles as an offering to deities and to initi",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp509",
+   "page": 509,
+   "city": "Гонконг",
+   "heads": "Outdoor Fun in Hong Kong Park Short Hikes to Big Views",
+   "subs": "Teapots, · turtles and tropical birds · Work those · quads and calves",
+   "pois": [
+    "Hong",
+    "Kong Park",
+    "Edward Youde",
+    "Aviary",
+    "Flagstaff",
+    "House Museum of Teaware",
+    "KS Lo Gallery",
+    "Hong Kong Visual",
+    "Arts Centre",
+    "Bowen",
+    "Road Fitness",
+    "Trail",
+    "Lovers’ Rock"
+   ],
+   "facts": [
+    "6pm-2am and-fish-maw soup bases",
+    "6pm-12.30am HK$$ slices",
+    "HK$134",
+    "HK$10",
+    "HK$ 6"
+   ],
+   "zh": [],
+   "text": "The spectacular setting, nestled amid towering skyscrapers and green hills, is reason alone to visit. The racecourse was established way back in 1845, and horse racing has since become a major facet of Hong Kong’s cultural life. Racing turnover for the 2023/24 season alone clocked in at a whopping HK$134 billion. A typical ‘Happy Wednesday’ runs from 7pm to 10.30pm and features around eight races, with live bands and performances in between. The season lasts from September to July, taking a break in August. You can pay the entrance fee (HK$10) with your Octopus card (p490). A hillside sanctuary of terraced landscaping, tree-lined paths and turtle-filled pools, the 8-hectare is Hong Kong Park home to a quirky spread of attractions. The rainforest-like contains within its netting some 80 Edward Youde Aviary bird species, which you can peer at as you walk through the tree canopy on a raised wooden gantry. At the park’s northernmost tip is the elegant residence of . Built in 1846 for a Flagstaff House Museum of Teaware British major-general, it now houses a museum (closed Tuesdays) of antique Chinese teaware, including bowls, brewing trays, sniffing cups and teapots made of porcelain o",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp510",
+   "page": 510,
+   "city": "Гонконг",
+   "heads": "Have a Blast at the Noonday Gun",
+   "subs": "Shoot off at midday",
+   "pois": [
+    "Red Incense Burner",
+    "Summit",
+    "Noonday Gun"
+   ],
+   "facts": [
+    "8am-6pm freshly baked",
+    "8am-9pm HK$ 8am-9pm HK$$ 11pm HK$$ 22",
+    "HK$ 8"
+   ],
+   "zh": [],
+   "text": "in Chinese tradition) and adorned with prayer papers. From its vantage point on a bluff you’ll be treated to skyline views. Another Wan Chai trail leads up to Red Incense Burner Summit , also known as Braemar Hill, an easy-to-moderate and scenic 3km hike that takes under an hour. The trailhead is at Braemar Hill bus terminal, near St Joan of Arc Secondary School. One way to get to the trailhead is to catch the A25 green minibus from Tin Hau MTR station. Along the Causeway Bay harbourfront, the is Noonday Gun fired every day at 12pm, a tradition going back to the 1860s. The military-like ceremony usually draws a small crowd of onlookers. Owned by Jardine Matheson - one of the original Hong Kong trading houses known as ‘Hongs’ - the gun is also fired at midnight on New Year’s Eve. Getting to the spot can be slightly challenging. It’s accessible via an underpass through a basement car park - look for a silver door in the alley just west of the World Trade Centre.",
+   "map": false,
+   "images": [
+    "l023"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp511",
+   "page": 511,
+   "city": "Гонконг",
+   "heads": "Soak up the Art Scene",
+   "subs": "Creative calendar · of events",
+   "pois": [
+    "Hong Kong Convention",
+    "& Ex-",
+    "hibition Centre",
+    "Art Basel Hong Kong",
+    "Central",
+    "HKWalls",
+    "Hong Kong",
+    "Arts Centre"
+   ],
+   "facts": [
+    "7am-5pm HK$ 7pm HK$ century",
+    "6.45am-7pm HK$ the 1940s",
+    "5am-7pm HK$",
+    "HK$ 7",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "March is art month in Hong Kong, when the city buzzes with a top-tier roster of exhibitions, installations, street art, performances and parties. The Hong Kong Convention & Exhibition Centre hosts the Asian edition of the the renowned international art fair, . Running alongArt Basel Hong Kong side is ( artcentralhongkong.com ), which showArt Central cases emerging talent from Asia, while ( hkwalls. HKWalls org ) brings vibrant street art to districts like Wan Chai and Central, transforming the city’s walls into live canvases. If you’re not in the city in March, the Hong Kong Arts Centre puts on free exhibits and affordable performances, including film screenings and theatre shows, all year-round.",
+   "map": false,
+   "images": [
+    "l024"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp512",
+   "page": 512,
+   "city": "Гонконг",
+   "heads": "Wander the Tsim Sha Tsui Waterfront",
+   "subs": "Skyline, stars and the Symphony · of Lights",
+   "pois": [
+    "Star Ferry Pier",
+    "Hong Kong Cultural",
+    "Centre",
+    "Former KCR Clock",
+    "Tower",
+    "Hong Kong Space",
+    "Museum",
+    "Peninsula Hong Kong",
+    "Hong Kong",
+    "Museum of Art",
+    "Ave-",
+    "nue of Stars"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "Legend has it that Kowloon (meaning ‘Nine Dragons’) was named by Emperor Bing, on the run from the Mongols during the Song dynasty. He referred to the nearby peaks as ‘eight dragons’, and a fawning courtier pointed out that the emperor himself was the ninth. It didn’t end well for young Bing, but Kowloon has grown into the heart and soul of Hong Kong with its vibrant street life, open-air markets and rootsy restaurants. Start your explorations at Tsim Sha Tsui, home to the city’s best museums and waterfront views. The shiny new West Kowloon Cultural District offers world-class art and cultural venues, while a more vintage Hong Kong can be glimpsed in Yau Ma Tei and Jordan, where nostalgic shops and tea houses bask in the flickery glow of Kowloon’s fastdisappearing neon. Nearby, the working-class ’hood of Sham Shui Po has attracted a wave of creative energy in the form of cafes and independent boutiques. Running eastwards from Kowloon’s , the Star Ferry Pier Tsim Sha Tsui waterfront offers jaw-dropping views of Hong Kong Island across the water, along with a host of attractions lined up one after the other along the waterfront, making it easy to find your way. Stroll past the and th",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk46"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp515",
+   "page": 515,
+   "city": "Гонконг",
+   "heads": "Get Arty in West Kowloon Hit the Heights at Sky100",
+   "subs": "Galleries, · theatres and exhibition halls · Panoramic · harbour vistas",
+   "pois": [
+    "Rosewood Hong Kong",
+    "K11 Mu-",
+    "Symphony of Lights",
+    "West Kowloon Cultural District",
+    "Hong Kong Palace Museum",
+    "Xiqu",
+    "Centre",
+    "International",
+    "Com-",
+    "merce Centre",
+    "Sky100 Observation Deck"
+   ],
+   "facts": [
+    "11am-10pm HK$ HK$",
+    "HK$120",
+    "HK$90,",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "(Continued from p511) Bruce Lee and Anita Mui. Soon you’ll come to glam Victoria Dockside, with its strategically placed coffee shops, restau rants, the luxurious Rosewood Hong Kong and K11 Mu, a glam lifestyle and shopping complex housing exclusive sea brands like Fortnum & Mason. Every evening at 8pm, the Tsim Sha Tsui waterfront swells with tourists for the , a dazzling light Symphony of Lights and laser show set to music by the Hong Kong Philharmonic Orchestra. The lights and lasers dance across the skyline of Hong Kong Island. After a decade-long land reclamation and redevelopment project, the opened in West Kowloon Cultural District 2020-21. The highlight here is M+ , a sprawling modern art museum with 33 galleries, a cinema, cafes, restaurants and a roof garden with stunning city views. Likened to London’s Tate Modern, it hasn’t been without controversy, however. A few politically sensitive artworks, particularly those touching on topics like Tiananmen Square, have faced removal or censorship, sparking debate over artistic freedom in Hong Kong. Tickets cost HK$120/60 for adults/children, and the museum is closed Mondays. Nearby, the exhibits over 900 Hong Kong Palace Museum ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk53"
+   ],
+   "wiki": [
+    "e267"
+   ]
+  },
+  {
+   "id": "lp516",
+   "page": 516,
+   "city": "Гонконг",
+   "heads": "Unwind at Kowloon Park Shop & Eat at Kowloon’s Buzzy Bazaar",
+   "subs": "Escape the noise of Nathan Road · After dark on Temple St",
+   "pois": [
+    "Kowloon Park",
+    "Hong Kong Heritage Discovery",
+    "Centre",
+    "Kowloon Mosque & Islamic",
+    "Centre",
+    "Kowloon",
+    "Park Swimming Com-",
+    "plex",
+    "Temple Street Night Market"
+   ],
+   "facts": [
+    "6am-10.30pm 8am-9",
+    "6.30am-9pm HK$ HK$",
+    "HK$ 6.30",
+    "HK$ 2200"
+   ],
+   "zh": [
+    "叉燒",
+    "吞麵",
+    "炖湯",
+    "仔飯",
+    "腸粉",
+    "避風塘炒蟹",
+    "蛋撻"
+   ],
+   "text": "In the heart of Tsim Sha Tsui, just off Nathan Rd, the 13hectare has a blend of inviting green spacKowloon Park es, including a Chinese garden, a lake with flamingos and a fringe of banyan trees. The park occupies the former site of a British army barracks, part of which has been converted into the , a museum Hong Kong Heritage Discovery Centre (free to enter but closed Thursdays) with interactive displays showing the evolution of Hong Kong. You’ll also find the im pressive Kowloon Mosque & Islamic Centre , built in 1984 atop an earlier mosque established to serve the Indian Muslim troops of the British army who were stationed in the park. On hot summer days, the Kowloon Park Swimming Combeckons with its lagoon-like outdoor swimming areas. plex Offering a nostalgic glimpse of old Hong Kong, Yau Ma Tei’s serves up an enticing mix of Temple Street Night Market street food, souvenir stalls and offbeat cultural experienc es every night of the year. Among the tourist crowds and trinkets can be found dai pai dong (food stalls), alfresco",
+   "map": false,
+   "images": [
+    "l025"
+   ],
+   "stops": [
+    "hk46"
+   ],
+   "wiki": [
+    "e1029"
+   ]
+  },
+  {
+   "id": "lp517",
+   "page": 517,
+   "city": "Гонконг",
+   "heads": "Trace the Old at Kowloon Walled City",
+   "subs": "From lawless · estate to peaceful park",
+   "pois": [
+    "street",
+    "food night",
+    "market",
+    "Kowloon",
+    "Walled City",
+    "Park"
+   ],
+   "facts": [
+    "10am-5pm & Uchida",
+    "2pm-2am Sun-Thu",
+    "HK$100"
+   ],
+   "zh": [],
+   "text": "Cantonese opera performances and traditional fortunetellers. From Jordan Rd to Nanking St is a revamped street , with 30 stalls offering a mix of interna food night market tional dishes (think Southeast Asian) and local snacks like wonton noodles, egg waffles, siu mai (steamed dumplings with pork and shrimp) and snake soup. Every evening, fortune-tellers sets up tents in the middle of the market. Pay to hear predictions about your life (from HK$100), made by reading your face and palm, or based on the day you were born. Some even keep birds that have been trained to pick out ‘fortune’ cards. Most operators speak some English. It’s hard to imagine that tranquil Kowloon Walled City , with its bamboo groves, pavilions and taichi pracPark titioners, was until fairly recently one of the world’s most infamous residential estates. On a footprint of less than 3hectares, the Kowloon Walled City was home to over 30,000 people, packed into teetering shanty towers connected by narrow passageways. Dubbed the ‘City of Darkness’, it harboured gangs, brothels and opium dens, with its unregulated rise due to a mix of historical quirks and administrative challenges. Eventually, the British governmen",
+   "map": false,
+   "images": [
+    "l026"
+   ],
+   "stops": [
+    "hk51",
+    "hk35"
+   ],
+   "wiki": [
+    "e153"
+   ]
+  },
+  {
+   "id": "lp518",
+   "page": 518,
+   "city": "Гонконг",
+   "heads": "Worship Great Immortal Wong Chill at the Chi Lin Nunnery",
+   "subs": "Hong Kong’s busiest Taoist temple · Tang dynasty-style tranquillity",
+   "pois": [
+    "Sik Sik",
+    "Yuen Wong Tai Sin Temple",
+    "Main",
+    "Hall",
+    "Chi Lin Nunnery"
+   ],
+   "facts": [
+    "5pm- 7am-10pm HK$ 11",
+    "30am-11pm HK$ midnight Tue-Sat HK$ Lee",
+    "11am-10pm with a lick of mustard",
+    "6.30am-8pm HK$ usually near MTR Sun HK$",
+    "HK$100",
+    "HK$ 11.30",
+    "HK$ 2200"
+   ],
+   "zh": [
+    "多寶美食",
+    "炒栗子"
+   ],
+   "text": "residents, demolished the Walled City and replaced it with this park, which opened in 1995. You can still see exhumed sections of the original south gate and remnants of a Chinese fort built here in 1847. A scale model of Kowloon Walled City, by the park’s entrance, gives an indication of its staggering density, while a digital exhibition has interviews with former Walled City residents. A spiritual beacon in Kowloon’s northern reaches, Sik Sik is dedicated to the Great ImYuen Wong Tai Sin Temple mortal Wong (Wong Tai Sin), a revered figure in Taoism wor shipped for his power to heal and grant wishes. The story goes that 15-year-old Wong was taught how to brew a herbal potion capable of curing all illnesses, thus making him the favoured god of medicine for those praying for good health. Built in 1921, the temple is one of Hong Kong’s largest, designed in traditional Chinese style. Inside the and courtyard, Main Hall worshippers pray for luck by lighting incense, using moon blocks and numbered bamboo ‘fortune sticks’, which are shaken out of a box on to the ground (they’re available for free to the right of the main temple). Take the noted numbers to an attendant fortune-teller to b",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk34",
+    "hk12"
+   ],
+   "wiki": [
+    "e036"
+   ]
+  },
+  {
+   "id": "lp519",
+   "page": 519,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Sam Mun",
+    "Hall of Ce-",
+    "lestial Kings",
+    "Nan Lian Garden",
+    "Chi Lin Vegetarian"
+   ],
+   "facts": [
+    "9am-8.30pm HK$$ nests",
+    "HK$ 5-11"
+   ],
+   "zh": [],
+   "text": "bougainvillea, silent nuns deliver offerings of fruit and rice to the Buddha, or chant behind intricately carved screens. Pass through the (three gates), symbolising BudSam Mun dhist virtues including compassion and wisdom. Two of the nunnery’s three courtyards are open to the public. Enter the perfectly pruned bonsai courtyard leading to the Hall of Ce, which harbours a Buddha statue surrounded lestial Kings by deities and relics. Connected to the nunnery is Nan Lian Garden , a graceful, Tang dynasty-style park with a number of sights, including a golden pagoda, koi ponds, flower displays and ornamen tal rockeries. If hunger strikes, treat yourself to a delightful vegetarian dim sum feast at , located Chi Lin Vegetarian inside the garden.",
+   "map": false,
+   "images": [
+    "l027"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp520",
+   "page": 520,
+   "city": "Гонконг",
+   "heads": "Time Travel to Tai O Village Family Fun at Disneyland",
+   "subs": "Stilt houses of the Tanka people · Magic kingdom, Hong Kong style",
+   "pois": [
+    "Stilt Houses Sun",
+    "Ki Bridge",
+    "Hong",
+    "Kong Disneyland"
+   ],
+   "facts": [
+    "HK$639"
+   ],
+   "zh": [],
+   "text": "Overshadowed by its boisterous city-state neighbour, the New Territories is sometimes seen as just a suburb of Hong Kong Island, a place people go for more greenery and lower rent. But it is far more than that. Much of the New Territories is designated as country parks or protected areas - a hiking paradise with trails that take in rugged mountains, bizarre rock formations and whitesand beaches. Elsewhere, ancient walled towns and forgotten fishing villages render its name a misnomer. In the west of Lantau, the Tanka village of Tai O deserves the moniker ‘unspoiled’ - it’s as close as you are going to get to an authentic fishing community in Hong Kong. The Tanka peo ple who founded Tai O built houses on stilts above the tidal flats when they first moved to the area, and that way of life has been preserved centuries later. For the best view of the Stilt Houses , look east from Sun Ki Bridge or take one of the numerous boat tours that depart from near the bridge. If you can, visit Tai O on a weekday morning when there are few tourists and the town is at its most atmospheric, as fishing boats dock at and leave the harbour and locals sort seafood in buckets outside their homes. On the ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk50"
+   ],
+   "wiki": [
+    "e032"
+   ]
+  },
+  {
+   "id": "lp522",
+   "page": 522,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Tung Wan Kwun Yam Cheung Wan Crooked Chau Wan Island Kat O Starling Hoi Sai Kung Hoi Inlet Yan (Inner Port Sai Cheung Chau Shelter) Wan Chau Nam Tong Tan Wan Po Pat Sin Leng Port Plover Cove Yue Country Park Mai Po Marsh Island Country Park Wan & Nature Wong Leng Pak Tso Reserve Shan Hoi Ha Wan Tap Mun Wan Plover Cove Lam Tseun North Marine Chau Reservoir Country Park Park l e nn a h C o l Tolo o T Harbour Sai Kung Tai Mo Peninsula Shan Ma On Tai Lam Shan Tai Mo Shan Country Park Ma On Shan Tai Long Shing Mun Country Park Castle Country Country Wan Tai Lam Peak Park Park Shing Mun Yim Tin Chung High Island Reservoir Tsai Reservoir Reservoir Kam Shan Kiu Tsui Country Chau S o u t h Park Kau Sai Leung C h i n a Chau East Tsing Sheun Ma S e a Wong Chek Brother Wan Yi Wan Tiu Nai Chau Kowloon Lap Kok Shelter Chung West Peak Kong Island Chau Brother Tau Pai Bluff Basalt Island Island Peng Kau Yi Junk Lantau Chau Clearwater Chau Bay Bay Sunset Hong Peak Victoria Cha l Kong e nn Peak Lantau South Kung To Island a Tung Lung Country Park h Lantau C Hei Ling Chau Peak a Chau m Ap Lei m Chau Luk Chau a Chi Ma Wan L Wan E t Peninsula s a e s W t C L h Tai Tam Cheung a Luk a L m a n Bay C Chau ",
+   "map": true,
+   "images": [
+    "l050"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp523",
+   "page": 523,
+   "city": "Гонконг",
+   "heads": "Tian Tan Buddha",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "No trip to Hong Kong is complete without visiting Ngong Ping plateau for the seated Tian Tan Buddha statue. The statue, a giant, 26.4m-high representation of Lord Gautama, sits at the top of a 268-step staircase. The statue itself weighs in at a whopping 250 tonnes and is made from 202 separate bronze pieces, and can be seen aerially as you fly into Hong Kong, or on a clear day from Macau.",
+   "map": false,
+   "images": [
+    "l028"
+   ],
+   "stops": [
+    "hk32",
+    "hk49"
+   ],
+   "wiki": [
+    "e030"
+   ]
+  },
+  {
+   "id": "lp524",
+   "page": 524,
+   "city": "Гонконг",
+   "heads": "Po Lin Monastery Ngong Ping 360",
+   "subs": "",
+   "pois": [
+    "Po Lin",
+    "Vegetarian Restaurant",
+    "Ngong Ping 360"
+   ],
+   "facts": [
+    "HK$150",
+    "HK$270",
+    "HK$350",
+    "HK$3000"
+   ],
+   "zh": [],
+   "text": "The whole complex covers an area of over 6500 sq metres, and inside the three-storey podium at the base of the statue are exhibits about the history of the project, as well as some interesting paintings, Buddhist relics and the ubiquitous gift shops. Visiting the Big Buddha and the exhibitions inside is free, but if you want to eat in the Po Lin Vegetarian Restaurant, buy a ticket at the foot of the steps for HK$150. This sprawling Po Lin Monastery complex was founded in 1906 by three monks from Jiangsu province and was originally known as ‘Big Thatched Hut’ until it was named Po Lin (meaning ‘Lotus Flower’) in 1924. Over the past century it has become a popular sight of pilgrimage, and all three of the main halls here are relatively modern buildings. Still, there are some impressive statues, as well as the Hall of Ten Thousand Buddhas, which visitors are allowed to peer into, if not nose about in. Don’t miss the excellent , Po Lin Vegetarian Restaurant to the left of the main monastery building, where you’ll find Cantonese cakes, desserts and cool drinks being served. It’s open from 11am to 4.30pm. The most spectacular way to get to the Ngong Ping plateau is by the 5.7km cable car",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk32",
+    "hk49"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp525",
+   "page": 525,
+   "city": "Гонконг",
+   "heads": "Venture into the Sai Kung Peninsula",
+   "subs": "Hong Kong’s · last wild haven",
+   "pois": [
+    "World of Frozen",
+    "Adventureland",
+    "Sai Kung",
+    "Town"
+   ],
+   "facts": [
+    "11am-6pm Turkish coffee"
+   ],
+   "zh": [],
+   "text": "(Continued from p519) brings families in their droves to Lantau Island. By far the most popular zone is , opened in late 2023 World of Frozen and featuring two roller coasters: Wandering Oaken’s Sliding Sleighs and Frozen Ever After. Elsewhere, Adventureland is centred around the Jungle River Cruise, one of the original Disneyland’s oldest rides, and there are zones dedicated to the Marvel franchise and Toy Story. Despite the relatively late and staggered opening of the rides (10.30am to 12.30pm), it makes sense to get to the park early. By midday, epic queues are forming outside and the wait for rides in the afternoon can be upwards of 90 minutes. In the northeastern New Territories and reached from downtown by various combinations of MTR and bus, the Sai Kung peninsula is a haven for hikers, swimmers and boaters. Eclectic , with its seafood restaurants and cofSai Kung Town fee shops, is a hub for trips to and from the surrounding countryside. Ferries regularly depart from the town pier for offshore islands that boast secluded beaches and villages. Sai Kung peninsula is also the starting point for the 100km",
+   "map": false,
+   "images": [
+    "l029"
+   ],
+   "stops": [],
+   "wiki": [
+    "e1126"
+   ]
+  },
+  {
+   "id": "lp526",
+   "page": 526,
+   "city": "Гонконг",
+   "heads": "Explore Sai Kung’s UNESCO Geopark Explore Historic Hakka Villages",
+   "subs": "Spectacular rock formations · Fortified heritage",
+   "pois": [
+    "MacLehose Trail",
+    "Trio Beach",
+    "Hong",
+    "Kong Global Geopark",
+    "High Island Reservoir",
+    "East Dam",
+    "Volcano",
+    "Discovery Centre",
+    "Hong",
+    "Kong Global Geopark",
+    "Lai Chi Wo"
+   ],
+   "facts": [
+    "11am- 7.30am-6pm HK$$ wears its Michelin s",
+    "7am-11am tea"
+   ],
+   "zh": [],
+   "text": ", which begins at Pak Tam Chung, 8km MacLehose Trail east of Sai Kung Town, before weaving its way through the New Territories. Different sections of the trail vary in their difficulty - from low-key roadside ambling to scaling moun tains - and walking the whole thing will take four to six days. For a nice, hour-long hike from Sai Kung, take the trail to Trio Beach , a relatively secluded and scenic spot for a dip. From Sai Kung follow the promenade towards the customs building before heading inland. You can also catch green minibus number 4 from Sai Kung bus station, alight at the top of the hill and then follow the signs for Ma Nam Wat until you see the turnoff for the beach. It is another 45-minute hike to the beach. There are showers, changing facilities and a kiosk with refreshments (open 10am to 6pm weekends and holidays). The natural highlight of Sai Kung is the UNESCO-listed Hong , which spans 50 sq km and comprises Kong Global Geopark two distinct geological regions with spectacular rock formations: namely, volcanic rock from 140 million years ago that often appears as stacks of visually stunning hexagonal columns, and sedimentary rock from 400 million years ago comprising",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e1126"
+   ]
+  },
+  {
+   "id": "lp527",
+   "page": 527,
+   "city": "Гонконг",
+   "heads": "Check out Cheung Chau’s Beaches",
+   "subs": "Buns, boats · and beaches",
+   "pois": [
+    "Tung Uk",
+    "Cheung Chau",
+    "Tung Wan",
+    "Kwun Yam",
+    "Beach",
+    "Hing Kee Beach",
+    "Store",
+    "Cheung Po Tsai",
+    "Cave",
+    "Reclining",
+    "Rocks"
+   ],
+   "facts": [
+    "10.30am-9pm Hong Kong",
+    "11am-10pm 6pm HK$ 11am-10pm HK$$ HK$$ H",
+    "HK$20",
+    "HK$40",
+    "HK$ 11"
+   ],
+   "zh": [],
+   "text": "village of around 1000 residents, it was almost completely abandoned in the 1960s. The village is now quite lively thanks to the efforts of villagers and conservationists. The growing of rice and vegetables has resumed, pig and cow sheds have been restored, and once-shuttered village houses now function as education and research facilities. Lai Chi Wo is reachable via the kaito ferry service from Ma Liu Shui ferry pier, close to University Station on the East Rail MTR line. A two-minute walk from Tsuen Wan MTR station, the restored 18th-century Hakka-village-turned-museum of Sam Tung Uk is one of the finest heritage sites in the New Ter ritories. It was still home to residents until the late 1980s, when they were relocated to modern housing. In a video display close to the entrance, former residents reminisce on life in the community. Sam Tung Uk is also home to a number of fascinating displays on Hakka culture and history, as well as on topics as varied as dim sum and the Chinese traditional calendar. The museum is closed Tuesdays. The dumb-bell-shaped island of , known for Cheung Chau its prehistoric rock carvings, is a popular getaway thanks to its beaches and cute downtown line",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e1127"
+   ]
+  },
+  {
+   "id": "lp528",
+   "page": 528,
+   "city": "Гонконг",
+   "heads": "Experience a Unique Folk Festival Laze the Day Away on Lamma",
+   "subs": "Bizarre towers of buns · Hong Kong’s hippie island",
+   "pois": [
+    "Pak Tai",
+    "Temple",
+    "Cheung Chau Bun Fes-",
+    "tival",
+    "Lamma",
+    "Yung Shue Wan",
+    "Sok Kwu Wan"
+   ],
+   "facts": [
+    "11am-10.30pm HK$$ Wan’s main drag",
+    "9am-5pm Mon & midnight HK$$ Shue Wan",
+    "11am-8pm Sat & Thu-Sun HK$ Sun HK$$ 22",
+    "HK$50"
+   ],
+   "zh": [],
+   "text": "Built in 1783, Cheung Chau’s Pak Tai Temple features beautiful mosaics and wood carvings. Among the artefacts on show is a 5ft-long sword from the Song dynasty. The temple is also the focal point of the annual Cheung Chau Bun Fes, a four-day extravaganza of parades, events and dances tival that brings thousands of visitors to the island. Its highlight is the somewhat bizarre ‘bun-scrambling competition’, when attendees climb huge towers of steamed buns, erected for the purpose of climbing up them at midnight on the third day of the event. Up until 1970, the bun-scrambling session was a free-for-all, but after a series of nasty injuries, it’s now a more organised affair. The event is usually held in the mid dle of May, and special ferries are organised to deal with the crowds, including a return ferry to the mainland at 1.15am, after the midnight bun-scramble. Lamma is all about lush forests, hidden beaches and chilledout villages. There are two main settlements on the island: to the northwest and on Yung Shue Wan Sok Kwu Wan",
+   "map": false,
+   "images": [
+    "l030"
+   ],
+   "stops": [],
+   "wiki": [
+    "e431"
+   ]
+  },
+  {
+   "id": "lp529",
+   "page": 529,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Yardley",
+    "Brothers Beer Shack",
+    "Lamma Cultural",
+    "Centre",
+    "Hung Shing",
+    "Yeh Beach",
+    "Concerto Inn",
+    "Sok Kwu"
+   ],
+   "facts": [
+    "HK$50,000"
+   ],
+   "zh": [],
+   "text": "the east coast. Boats from Central Pier 4 depart every halfhour for Yung Shue Wan, and less regularly (about every 90 minutes) to Sok Kwu Wan. Most day trippers head to Yung Shue Wan, a lively fishing village lined with cafes and restaurants catering to the island’s many foreign residents. For liquid refreshments, seek out the Yardley Brothers Beer Shack , a popular Hong Kong craft beer brand that started out on Lamma. To the north of the ferry pier, the Lamma Cultural Centre has interesting exhibits about the history of the island, which dates back to the Neolithic era. , Hung Shing Yeh Beach Lamma’s most popular, is a 20-minute walk from Yung Shue Wan and includes shark nets and facilities, as well as a couple of decent places to eat, plus the opportunity for cocktails and beers on the terrace of the . Concerto Inn , the island’s second fishing village, is known Sok Kwu Wan for its beachfront dining, with a bustling strip of seafood restaurants.",
+   "map": false,
+   "images": [
+    "l031"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp481",
+   "page": 481,
+   "city": "Гонконг",
+   "heads": "Macau Kowloon The Peak & Wan Chai & Central Northwest Northeast District Hong Kong Hong Kong Island Island New Territories & Outlying Islands",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Macau  Peninsula Taipa  i i  i i pppp p p aaaa Island  Coloane  San  Island Bayy SOUTH CHINA SEA Victoria VVViictttooria HHHaarbour Harbour East Lamma Channel Kowloon Bay Hong Kong Island",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e024"
+   ]
+  },
+  {
+   "id": "lp482",
+   "page": 482,
+   "city": "Гонконг",
+   "heads": "Macau Kowloon The Peak & Wan Chai & Central Northwest Northeast District Hong Kong Hong Kong Island Island New Territories & Outlying Islands",
+   "subs": "",
+   "pois": [],
+   "facts": [
+    "HK$115"
+   ],
+   "zh": [],
+   "text": "Macau  Peninsula Taipa  i i  i i pppp p p aaaa Island  Coloane  San  Island Bayy SOUTH CHINA SEA Victoria VVViictttooria HHHaarbour Harbour East Lamma Channel Kowloon Bay Hong Kong Island",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e024"
+   ]
+  },
+  {
+   "id": "lp485",
+   "page": 485,
+   "city": "Гонконг",
+   "heads": "Climb Aboard the Star Ferry",
+   "subs": "Vintage maritime · marvel",
+   "pois": [
+    "Star Ferry",
+    "Star Ferry Pier"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "If ever a place could be said to be made of money, it’s Central District. Home of the stock exchange, corporate high-rises, and world-class restaurants, bars and shopping, ‘Central’ is a work-hard, playhard metropolis that never lets up. The promise of quick riches has attracted opportunists of all stripes here since the days when Hong Kong was named Victoria, Great Britain’s colonial-era entrepot. Skyscrapers might have superseded shipping warehouses, but Central remains a workaholic, profit-driven pleasure hub. It’s not all mirrored glass and Prada, of course. In the shadow of all those high-rises lurks an appealing workaday Central of family-run noodle shops, outdoor markets and fading pockets of heritage. And while tourist attractions are relatively few, the appeal of Central has always been its energy (subdued though it is since the pro-democracy crackdown) in the whirl of commerce, the pounding of jackhammers and the sense of opportunity that’s there for the taking. The clang of the gangplank, the growl of diesel engines, the looming apparition of Hong Kong’s jungle-clad peak Costing less than a cup of nai cha (Hong Kong style milk tea) each way, the iconic has been chugging ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk01"
+   ],
+   "wiki": [
+    "e025"
+   ]
+  },
+  {
+   "id": "lp486",
+   "page": 486,
+   "city": "Гонконг",
+   "heads": "Glimpse Old Victoria",
+   "subs": "Hong Kong’s colonial capital",
+   "pois": [
+    "Hong Kong Zoo-",
+    "logical & Botanical Gardens"
+   ],
+   "facts": [
+    "7.30am- 10am-8",
+    "11am-9.30pm HK$$ governor",
+    "9.30am-7.30pm HK$ THE GUIDE 485 PATRICK FOT",
+    "HK$230,",
+    "HK$280,"
+   ],
+   "zh": [],
+   "text": "Going low is a sensory thrill - you’re closer to the water and the fug of diesel smoke. Up top (marginally more expensive) is better for photos, and comes with air-con in summer. Sail at dusk from Tsim Sha Tsui to Central for the most inspiring vistas, or go aboard at around 8pm to catch the Symphony of Lights (p514) from the water. For a more substantial voyage than the sub-10-minute crossing, the Star Ferry Company also operates hour-long ‘water tours’, costing HK$230, around Victoria Harbour, four times daily. The final tour of the evening (HK$280, 7.45pm) is timed to coincide with the Symphony of Lights. Commentary is in English and Cantonese. Buy tickets online ( starferry. com. hk/ en/ home ) or at the Tsim Sha Tsui ferry pier. Though hard to imagine today, before Central there was Victoria, Hong Kong’s colonial capital. Narrow streets were plied by sedan chair bearers and flanked by old-style buildings with open verandas, and the harbour was full of clippers, steamships and bat-winged junks. Opened to the public in 1864, the Hong Kong Zoostill bloom on the hilllogical & Botanical Gardens side perch above the former Governor’s Mansion. The gardens are free to enter, and there",
+   "map": false,
+   "images": [
+    "l018"
+   ],
+   "stops": [
+    "hk19"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp488",
+   "page": 488,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Pok Fu Lam Country Park Victoria Harbour Connaught Garden Memorial Gardens Statue Sq Chater Garden Cheung Kong Park Hong Kong Park",
+   "map": true,
+   "images": [
+    "l045"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp489",
+   "page": 489,
+   "city": "Гонконг",
+   "heads": "Discover Art & History at Tai Kwun Experience Hong Kong’s ‘Little Manila’",
+   "subs": "From lockup · to lifestyle hub · Eat, sing, · chat and play",
+   "pois": [
+    "St John’s Cathedral",
+    "The Nest",
+    "Tai Kwun",
+    "Parade",
+    "Ground",
+    "Barrack",
+    "Block",
+    "Central Magistracy",
+    "Victoria",
+    "Prison",
+    "JC Contemporary",
+    "Police Headquarters",
+    "Block"
+   ],
+   "facts": [
+    "5pm-1am Mon-Thu",
+    "6pm-2am Sun-Thu",
+    "3pm-1am Sat & Sun 9am-1pm Mon-Sat 220"
+   ],
+   "zh": [
+    "奶茶",
+    "鴛鴦"
+   ],
+   "text": "(Continued on p485) bamboo groves, giant camellia trees and well-tended aviaries. A tunnel under Albany Rd leads to the mammals, an impressive variety of monkeys, meerkats, lemurs and sloths. Another place still able to conjure vibes of early colonial Hong Kong is the nearby , 300m from St John’s Cathedral the gardens. Stepping inside, you could almost be back among the top hats, linen dress-shirts and parasols of those stiffupper-lipped emigrants. Neat lines of cane-wicker pews sit beneath low-slung ceiling fans, all struggling along at different speeds, some having given up the ghost completely. A metaphor for the fall of empire, perhaps? Take a break at , a hidden gem of a cafe in the caThe Nest thedral grounds that supports adults with learning difficulties. Meaning ‘Big Station’ in Cantonese, was Hong Tai Kwun Kong’s Central Police Station before its rebirth as a heritage, dining and arts zone. At its heart is the old , Parade Ground which is lined with terrace restaurants and bars. Built in 1864, the Barrack Block is where you’ll find the visitor centre and main heritage exhibition, which explores the site’s history. Don’t miss the popular 45-minute guided tour (book in advan",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk16"
+   ],
+   "wiki": [
+    "e034"
+   ]
+  },
+  {
+   "id": "lp491",
+   "page": 491,
+   "city": "Гонконг",
+   "heads": "Drop Anchor at Central’s Harbourfront Set Sail on a Traditional Junk",
+   "subs": "Maritime · fun and harbour views · Harbour cruise · into history",
+   "pois": [
+    "Star",
+    "Ferry",
+    "Hong",
+    "Kong Maritime Museum",
+    "Hong",
+    "Kong Observa-",
+    "tion Wheel",
+    "Aqua Luna"
+   ],
+   "facts": [
+    "11am-10pm noodles with plump fish is kn",
+    "11am-9.30pm HK$ 3pm",
+    "9am-8pm Mon-Fri",
+    "HK$150",
+    "HK$30",
+    "HK$70",
+    "HK$20",
+    "HK$50",
+    "HK$100",
+    "HK$270,",
+    "HK$ 3",
+    "HK$ 5.30"
+   ],
+   "zh": [],
+   "text": "mostly women from the Philippines and Indonesia - depart from their workplaces to picnic and party on their day off. There’s something glorious about seeing different spots in the city become giant picnic and social hubs, with platters of food, imported drinks, portable karaoke and roving hawkers. To experience ‘Little Manila’ in Central at its most vibrant, head to the ground-floor plaza of the HSBC Building (p485), Statue Square or around the Central ferry piers between midday and early evening on any given Sunday. Housed in Central Pier 8 (one pier east of the pier), Star Ferry the charts the development Hong Kong Maritime Museum of the Port of Hong Kong and trawls through 2000 years of fascinating Chinese maritime artefacts, from a Song dynasty stone anchor and Ming dynasty porcelain salvaged from shipwrecks all the way to modern, interactive displays on commercial shipping. Tickets cost HK$30/15 for adults/children. Just a few steps away, the 60m-high Hong Kong Observa(adult/child HK$20/10) is a kiddie crowd-pleaser tion Wheel with suitably inspiring views over the city from its harbourfront perch at Central. When it’s time to hit the water, why not set sail aboard a wooden ju",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp492",
+   "page": 492,
+   "city": "Гонконг",
+   "heads": "Shop & Dine in Central Market Ride the World’s Longest Urban Escalator",
+   "subs": "A recipe for heritage regeneration · Stand still and keep moving",
+   "pois": [
+    "Central",
+    "Market",
+    "Central-Mid-",
+    "Levels Escalator"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "One of Hong Kong’s only surviving buildings designed in the Streamline Moderne style of the 1930s, Hong Kong’s Central shuttered for good in 2003 and was slated to get Market pulled down and redeveloped. But a public outcry prompted the building’s preservation, and it has been reborn as a commercial hangout with restaurants, shops, exhibition spaces and stalls hawking nostalgic Hong Kong souvenirs. A mini museum downstairs recounts the working history of the market via dioramas and exhibits. Climbing serenely out of downtown, the Central-MidLevels Escalator is the best way to reach Tai Kwun (p488), PMQ (p501), the Dr Sun Yat-Sen Museum (p492) or those hip new bars in Soho. It’s also a ride worth taking for its own sake, slotting you in among Hong Kong’s captivating cast while revealing an at-times intimate cross-section of Hong Kong life. Often touted as the world’s longest escalator, it’s actually a system of 18 escalators and three moving walkways,",
+   "map": false,
+   "images": [
+    "l019"
+   ],
+   "stops": [
+    "hk15"
+   ],
+   "wiki": [
+    "e189"
+   ]
+  },
+  {
+   "id": "lp493",
+   "page": 493,
+   "city": "Гонконг",
+   "heads": "Find Central’s Hidden Mosque Discover Dr Sun in Hong Kong",
+   "subs": "Pocket of · traditional Islamic architecture · The ‘Father · of modern China’",
+   "pois": [
+    "Central-Mid-",
+    "Levels Escalator",
+    "Jamia Mosque",
+    "Dr Sun Yat-Sen",
+    "Museum",
+    "Central-Mid-Levels",
+    "Escalator"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "with bits of walking in-between and a road or two to cross. From bottom to top takes around 20 minutes, with a vertical climb of 135m. Note that between 6am and 10am the system switches direction and flows downhill to whisk commuters from apart ment to office, before going the other way from about 10.15am to midnight. Hiding in plain sight near the top of the Central-Midis , a pocket of Hong Kong’s Levels Escalator Jamia Mosque spiritual life little changed for decades. Furnished with oniondomed columns and a minaret, its peppermint-green paint job makes it pop photogenically against its rough concrete surrounds. Non-Muslims are welcome to enter and view the mosque from the outside. Sun Yatsen was educated in Hong Kong and later used it as a base in his fight to overthrow the Qing dynasty and estab lish a Chinese republic. The conDr Sun Yat-Sen Museum tains a haphazard array of archival material dedicated to his life - start on the top floor and work down. It’s worth a visit to poke around the museum’s stately Kom Tong Hall, a grand Edwardian mansion furnished with cast-iron balconies, ornamental glass windows and a teak staircase. Some way up the hill, the museum is best reached b",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp494",
+   "page": 494,
+   "city": "Гонконг",
+   "heads": "Get Spiritual at Man Mo Temple",
+   "subs": "Gods of literature & war",
+   "pois": [
+    "Man Mo Temple"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "Lording it up over Hong Kong Island, Victoria Peak is the city’s most iconic attraction, not just for those jaw-dropping skyline and harbour views, but for the chance to ride the hair-raisingly steep Peak Tram, Asia’s first funicular railway. Down be low, threaded between harbourfront and foothills, are the old-school neighbourhoods of Sheung Wan, Sai Ying Pun and Kennedy Town, each a delightful mash-up of modernity and tradition. Alongside artisan cafes, gallery pop-ups and uber-cool bars you’ll find temples to Hong Kong’s favourite gods and goddesses, century-old banyan trees with vast matrixes of exposed roots, shops selling dried seafood, funerary offerings and antiques from dynasties past, and even a few surviving dai pai dong (food stalls). With so much to discover, just hit the streets and let serendipity do its thing. And when night falls, get the party started at some of the best cocktail bars in Asia. Choked in palls of sandalwood incense, Man Mo Temple is one of Hong Kong’s oldest and most important places of worship. Built in 1847, it’s dedicated to two deities: Man, the god of literature, and Mo, the god of war. Man is the figure in green robes holding a calligraphy br",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk17"
+   ],
+   "wiki": [
+    "e190"
+   ]
+  },
+  {
+   "id": "lp495",
+   "page": 495,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Sandy Bay Hollywood Road Park Blake Garden Victoria Harbour Hollywood Road Park King George V Memorial Park Blake Garden Pok Fu Lam Country Park",
+   "map": true,
+   "images": [
+    "l046"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp496",
+   "page": 496,
+   "city": "Гонконг",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Sandy Bay Hollywood Road Park Blake Garden Victoria Harbour Hollywood Road Park King George V Memorial Park Blake Garden Pok Fu Lam Country Park",
+   "map": true,
+   "images": [
+    "l047"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp497",
+   "page": 497,
+   "city": "Гонконг",
+   "heads": "Tram to the Top",
+   "subs": "",
+   "pois": [
+    "Peak Tram",
+    "Sky Terrace"
+   ],
+   "facts": [
+    "HK$88",
+    "HK$108"
+   ],
+   "zh": [],
+   "text": "Departing every 15 minutes from its base station on Garden Rd in Central, the seems to defy gravity, climbPeak Tram ing steeply upwards to reveal dizzying glimpses of the harbour over the course of its six-minute ascent. The tram runs both ways from 7.30am to 11.30pm (HK$88 for a return ticket, HK$108 on weekends and holidays). On arrival at the upper terminus, you’re herded through souvenir shops and up escalators to . A Sky Terrace 428",
+   "map": false,
+   "images": [
+    "l020"
+   ],
+   "stops": [
+    "hk24",
+    "hk44"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp498",
+   "page": 498,
+   "city": "Гонконг",
+   "heads": "Hiking up on the Morning Trail A Potted History of Peak Living",
+   "subs": "",
+   "pois": [
+    "ons View Point Pavilion",
+    "Madame Tussauds",
+    "Peak Galleria",
+    "Peak Circle Walk",
+    "Morning Trail",
+    "Pinewood Battery"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "paid attraction atop the anvil-shaped Peak Tower (so named because it stands at 428m above sea level), it is worth it for the unimpeded vistas of Victoria Harbour, but if you’d rather sidestep the tourist conveyer, save your money and head outside - you’ll get almost as good a view for free from the Linearby. ons View Point Pavilion For kids, Sky Terrace 428 is home to family attractions including . Opposite is the mall. Madame Tussauds Peak Galleria Your best bet is to leave the commercialism behind and strike out on the lovely , a mostly flat, 3.5km loop Peak Circle Walk along Harlech Rd and Ludgard Rd that takes about an hour. One of the most memorable ways to reach Victoria Peak is by hiking the 2.8km , with its trailhead at the Morning Trail intersection of Hatton Rd and Po Shan Rd. Unlike the touristy Peak Tram, the Morning Trail slots you in among Hong Kongers - dog walkers, joggers, amblers, folks doing taichi. Passing through Lung Fu Shan Country Park, it’s also a nature walk that climbs upwards under a dappled canopy of Indian rubber trees and past banyans, gordonias with their yellow and white flowers like fried eggs, the occasional or chid, and a host of birdlife and bu",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk44"
+   ],
+   "wiki": [
+    "e024"
+   ]
+  },
+  {
+   "id": "lp499",
+   "page": 499,
+   "city": "Гонконг",
+   "heads": "Go West to Kennedy Town Temple Hop in Tai Ping Shan",
+   "subs": "Travel the · northwest by tram · Sheung Wan’s · hipster enclave",
+   "pois": [
+    "Kennedy",
+    "Town",
+    "% Ar-",
+    "abica",
+    "Sun Hing Restaurant",
+    "Pan Temple",
+    "Golden Scene Cinema",
+    "Belcher Bay Park",
+    "Kennedy Town Swimming",
+    "Pool",
+    "Tai Ping Shan",
+    "Kwun Yam",
+    "Temple",
+    "Shui Yuet",
+    "Kung"
+   ],
+   "facts": [
+    "8am-3.30pm Cantonese",
+    "6am-10pm HK$",
+    "HK$3",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "(Continued from p493) for two weeks nonstop. Visit at Lunar New Year (around January/February) to see the temple at its liveliest. Skip the subterranean MTR and catch a westbound tram to Kennedy Town , where Hong Kong life juts up against Victoria Harbour, and the corporate temples of Central give way to warehouses, residential towers and older tenements. Davis St, one stop before the tram’s terminus, is a short hop on the waterfront along New Praya. Stylish cafe chain % Arabica , with its wall of sea-facing windows, is a great place to get caffeinated before exploring K-Town’s low-key, quietly gentrifying ‘hood, where you’ll find an appealing miscellany of local shops, cheap eats and stylish neighbourhood joints. When it’s time to eat, is a local dim sum Sun Hing Restaurant institution, famous for opening at the ungodly hour of 3am. You could wander up the hill and seek out 140-year-old Lo , an incense-wreathed hidden gem, or take in Pan Temple the harbour scenery along the waterfront with its promenades and public space. Failing that, catch a movie at indie picturehouse Golden Scene Cinema (Cantonese-language films typically have English subtitles), take time out under the banyan",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk54"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp501",
+   "page": 501,
+   "city": "Гонконг",
+   "heads": "Haggle for Trinkets & Treasures Coffee & Art in Sai Ying Pun",
+   "subs": "Antique adventures · in Sheung Wan · A hotbed · of low-key cool",
+   "pois": [
+    "Hong Kong Museum of Medical",
+    "Sciences",
+    "Kin Fast Food",
+    "Cat Street",
+    "Hollywood",
+    "Liang Yi Museum",
+    "Ying Pun",
+    "ArtLane",
+    "ZtoryTeller",
+    "Contemporary by Angela",
+    "Melody",
+    "Mostly Harmless",
+    "Ping Pong 129"
+   ],
+   "facts": [
+    "7am-11pm HK$$ claypot rice",
+    "3am-4pm HK$ 10am-9pm Tue-Sun HK$ 2200",
+    "HK$200,",
+    "HK$ 10",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "Up the hill is a handsome redbrick colonial building that was Hong Kong’s first medical laboratory, and now houses the Hong Kong Museum of Medical Sciences (closed Mondays). The most interesting exhibits are those on the plague outbreak of 1894 - half of Hong Kong’s deaths occurred in the 10-acre Chinese neighbourhood of Tai Ping Shan, where humans and animals lived in close proximity amid a cluster of overcrowded and squalid tenements. For a break, pull up a stool outside Yuk Kin Fast Food on Tai Ping Shan St, famous for its curry fried rice topped with a fried egg. Upper Lascar Row, aka Cat Street , has long been known for its trinket dealers, who these days hawk a hodgepodge of repro Chinese antiques, zodiac charms, Chairman Mao pin badges, old stamp collections, obsolete cameras, cassette tapes of Canto-pop crooners, factory-made mahjong sets, abacuses and other ephemera. Some of the best gets are the black-and-white photos of old Hong Kong and the vintage Bruce Lee posters. For genuine antiques, go up to , which runs Hollywood Rd parallel. To get hands-on with some truly exquisite treasures, book a visit to Hollywood’s a few doors Liang Yi Museum down from Man Mo Temple (p493)",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp502",
+   "page": 502,
+   "city": "Гонконг",
+   "heads": "Browse the Work of Local Designers",
+   "subs": "Retail complex meets heritage project",
+   "pois": [
+    "April Coffee",
+    "Lab Hashtag Coffee Ah Jeng’s",
+    "Coffee Club",
+    "Yat Sen Memorial Park",
+    "history exhibition"
+   ],
+   "facts": [
+    "5pm-1am Sun- songwriters and rappers",
+    "9am-1pm"
+   ],
+   "zh": [],
+   "text": "which serves tapas and cocktails in an old table-tennis hall. For top level barista action, take your pick from April Coffee , and . Lab Hashtag Coffee Ah Jeng’s Coffee Club Down on the waterfront, Sun Yat Sen Memorial Park has a lovely promenade jutting up against the blue waters of Victoria Harbour. A hip hive of independent retailers, is one of Hong Kong’s PMQ most unique shopping experiences. Dozens of local design, fashion, art, homeware and jewellery shops have taken over units in what was the Police Married Quarters (c. 1951), a restored, modernist housing complex once reserved for families of Chinese police serving on the Hong Kong force. Pop-up creative events and street art fill the central court yard, while the two six-storey blocks are home to boutiques selling clothing, leatherware, furniture, metalwork, mahjong sets, shoes, quirky board games and more. You’ll also find ar chitect and art studios, painting workshops, pop-up shops, the Korean Cultural Centre, and a scatter of cafes and eateries. A smart history exhibition on Level 5 of the Staunton Block introduces the police families who once occupied the",
+   "map": false,
+   "images": [
+    "l021"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp503",
+   "page": 503,
+   "city": "Гонконг",
+   "heads": "Admire Art & Ancient Artefacts",
+   "subs": "Hong Kong’s · oldest museum",
+   "pois": [
+    "University",
+    "Museum",
+    "& Art Gallery"
+   ],
+   "facts": [
+    "6pm- 6pm-midnight Tue-Sat 3pm & 6-11pm",
+    "HK$200"
+   ],
+   "zh": [],
+   "text": "140 single-room and 28 double-doom units. The last tenants moved out in 2003. Part of Hong Kong University, the worthwhile University houses a host of Chinese treasures Museum & Art Gallery spanning 5000 years, from late Qing dynasty furniture to Ming dynasty blue-and-white porcelain - often displayed as part of innovative art exhibitions that fuse old and new. Curators and university academics host occasional guided tours of the exhibitions in English. See the museum website ( umag.hku.hk ) for details. The museum is free to enter and is closed Mondays.",
+   "map": false,
+   "images": [
+    "l022"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp504",
+   "page": 504,
+   "city": "Гонконг",
+   "heads": "Browse the Blue House",
+   "subs": "Community, diversity and social · history",
+   "pois": [
+    "Blue",
+    "House Cluster",
+    "Hong Kong House of Stories"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "One of the city’s coolest and most dynamic neighbourhoods, Wan Chai is Hong Kong distilled: a towering, tireless showcase of old and new, packed with hordes of people, thriving arts and folk traditions, and delectable cuisine. To the west, Admiralty is home to government headquarters and the leafy folds of Hong Kong Park, where skyscrapers peer over carp-filled pools and turtles bask on sunbaked rocks. Causeway Bay tempts shoppers with malls stocking a range of highto middle-end fashion as well as countless restaurants, while up in Happy Valley, fortunes are made at the famous racecourse on beer-fuelled Wednesday nights. Further east, the residential neighbourhoods of Tin Hau and Tai Hang offer a civilised change of pace with their intimate corner cafes, hole-in-the-wall galleries and wallet-friendly local restaurants. North Point is the colourful stronghold of Hong Kong’s Fujianese community, centred around the old-school Chun Yeung Street Market. With its cobalt-blue facade, the stands Blue House Cluster as one of the city’s last surviving tong lau - aka those oldschool wooden tenement buildings with cast-iron balconies. Today the Blue House (and its adjoining Yellow, Orange and ",
+   "map": false,
+   "images": [],
+   "stops": [
+    "hk38"
+   ],
+   "wiki": [
+    "e152"
+   ]
+  },
+  {
+   "id": "lp530",
+   "page": 530,
+   "city": "Макао",
+   "heads": "See Macau’s Majestic Icon",
+   "subs": "Facade of the Church of St Paul",
+   "pois": [
+    "Ruins of the",
+    "Church of St Paul",
+    "St Paul’s College"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "Around an hour west of Hong Kong - whether you go by hydrofoil ferry or across the monumental Hong Kong-Zhuhai-Macau Bridge - Macau is one of China’s Special Administrative Regions with its own government, currency and colonial legacy. Once a Portuguese colony from the middle of the 16th century until 1999, when it was handed back to China, it’s now it’s a dazzling casino enclave that gives Vegas a run for its money. But away from the glitz, the old Portuguese-Chinese hybridity endures. Strolling through the old, UNESCO-listed city centre, you can snack on pastéis de nata and gaze up at the the iconic Church of St Paul. Cast in photogenic ruins, it was constructed by Jesuit missionaries who built a rapport with China’s emperors through intellectual exchange, map-making and engaging with Chinese culture. A day trip to Macau is enough time to visit the sights. Stay overnight if you fancy your chances on the baccarat tables. Built in 1602 and destroyed by fire in 1835, the Ruins of the are all that’s left of a Catholic church that Church of St Paul was once the largest in Asia, known as the ‘Vatican of the East’. The church was designed by an Italian Jesuit and built in 1602 by Japane",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp532",
+   "page": 532,
+   "city": "Макао",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [],
+   "zh": [],
+   "text": "Montanha Russa Garden Inner Harbour Reservoir Luís de Camões Garden Lou Lim & Grotto Ioc Garden Guia Hill Qianshan Waterway St Francis Garden Jardin des Artes S o u t h C h i n a S e a Baia da Praia Penha (Lagos de Hill Nam Van) Taipa Macau Island Stadium Baía de Nossa Senhora da Esperanca Lago Sai Van",
+   "map": true,
+   "images": [
+    "l051"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp533",
+   "page": 533,
+   "city": "Макао",
+   "heads": "Scale a Portugese Fortress",
+   "subs": "Canons and · colonial history",
+   "pois": [
+    "Museum",
+    "of Sacred Art & Crypt",
+    "Monte Fort"
+   ],
+   "facts": [],
+   "zh": [],
+   "text": "(Continued from p529) , which contains religious Museum of Sacred Art & Crypt paintings, statues and artefacts. The crypt is home to entombed Jesuits, including Father Alexander Valignano (1539- 1606), founder of St Paul’s College. Built in the 17th century, was once a defensive Monte Fort stronghold used to protect the burgeoning colony from pirates and invaders. Today, it offers a glimpse into Macau’s colonial past with its well-preserved battlements and historic cannons. Barracks and storehouses were designed to allow the fort to survive a two-year siege, but the cannons were fired only once - during the aborted attempt by the Dutch to invade Macau in 1622. From the fort’s summit you can gaze out over major Macau’s landmarks, including the Ruins of the Church of St Paul, the Guia Lighthouse (part of the Guia Fortress & Chapel; p534), the architecturally distinctive Grand Lisboa, the Macau Tower (p534) and the modern skyscrapers of Portas do Cerco.",
+   "map": false,
+   "images": [
+    "l032"
+   ],
+   "stops": [
+    "mo02"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp535",
+   "page": 535,
+   "city": "Макао",
+   "heads": "Admire the Church of St Joseph Trek up Guia Fortress & Chapel Get your Adrenaline Pumping at Macau Tower",
+   "subs": "Profound · sense of peace · Reaching · a higher plane · Extreme thrills",
+   "pois": [
+    "Church of St Joseph",
+    "Guia",
+    "Fortress",
+    "& Chapel",
+    "Chapel",
+    "of Our Lady",
+    "of Guia",
+    "lighthouse",
+    "cable",
+    "Flora Garden",
+    "Macau Tower"
+   ],
+   "facts": [
+    "9pm-2am Sun 11am-7pm connoisseurs"
+   ],
+   "zh": [],
+   "text": "Many visitors overlook this gem due to it being somewhat off the beaten track, but the is a marvel Church of St Joseph of baroque architecture that’s well worth a detour. A grand staircase leads to the courtyard where you can admire the church’s striking white-and-yellow facade and dome - the oldest of its kind in China. Inside, there are three altars embellished with intricate overlapping pilasters and mesmerising Solomonic spiral columns. Visitors can browse though an exhibited collection of rare holy relics and fascinating artefacts, including a bone fragment from the arm of the missionary St Francis Xavier. Located at the highest point of the Macau peninsula, Guia offers some of the best panoramic vistas Fortress & Chapel of the city. Perched on top is the small but exquisite Chapel , built around 1622 by Clarist nuns. Inof Our Lady of Guia credibly well preserved, it retains original features including frescoes and mythological motifs that blend Portuguese and Chinese religious influences. Next to the chapel is the oldest modern on the China coast, built in the late 18th lighthouse century. The 15m-tall structure is usually open to the public on weekends in July. While you can",
+   "map": false,
+   "images": [],
+   "stops": [
+    "mo08"
+   ],
+   "wiki": [
+    "e070"
+   ]
+  },
+  {
+   "id": "lp536",
+   "page": 536,
+   "city": "Макао",
+   "heads": "Experience a Chinese Spiritual Sanctuary Hang out on Hac-Sa",
+   "subs": "Magical temple · Black sand beach",
+   "pois": [
+    "360 Cafe",
+    "A-Ma Temple",
+    "Hac Sa Beach"
+   ],
+   "facts": [
+    "11.30am-3pm HK$$$ Macau’s nostalgic vibe",
+    "7am-2pm HK$$"
+   ],
+   "zh": [],
+   "text": "For thrill-seekers, Macau Tower offers bungee jumping, sky-walking, and the exhilarating ‘Tower Climb’, an arachnid-style ascent through the upper reaches of the tower, both inside and outside. For something more sedate, tuck into an international buffet at the slowly revolving . 360 Cafe Book attractions online at macautower.com.mo . Built in 1488, the is one of the oldest temples A-Ma Temple in Macau, predating the colony. A-Ma, also known as Mazu or Tin Hau, is the goddess of the sea, and it was here that Macau fisherfolk once came to pray for fair weather. The temple comprises six main parts: the Gate Pavilion, Memorial Arch, Prayer Hall, Hall of Benevolence, Hall of Guanyin and Zhengjiao Chanlin. In the main Prayer Hall, saffron-hued coils of incense fill the room with sweet smoke. Don’t miss the spec tacular views from the uppermost pavilion. Meaning ‘black sand’ in Cantonese, Hac Sa Beach is located in the quieter area of Coloane, away from the city streets and casinos. The sand gets its unique hue from minerals in the seabed that are washed ashore. Macau’s largest natural",
+   "map": false,
+   "images": [
+    "l033"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp537",
+   "page": 537,
+   "city": "Макао",
+   "heads": "Stroll around Senado Square",
+   "subs": "It’s hip to · be square",
+   "pois": [
+    "Fernando’s",
+    "Senado Square",
+    "IAM Building",
+    "Sen-",
+    "ate Library"
+   ],
+   "facts": [
+    "11am-10pm HK$ retro paper packaging",
+    "8am-6pm pudding",
+    "11am-9pm HK$ noon-7pm HK$ HK$",
+    "HK$ 2200"
+   ],
+   "zh": [],
+   "text": "beach has lifeguards on duty from May to October, and amenities like changing rooms, barbecue pits, an outdoor swimming pool and children’s play area. Stalls rent out parasols and loungers. Don’t miss Coloane’s most famous restaurant, , for plates of garlicky clams, golden roast suckFernando’s ling pig and piles of codfish rice. Black-and-white-tiled Senado Square is Macau’s most historic public space, surrounded by colourful European-style buildings that exhibit both Portuguese and Chinese architectural flourishes. It’s also a logical place to begin your ex plorations, with buses coming here from the ferry terminal. Many large events in Macau are hosted in the square, including festival celebrations, flea markets and performances. It’s a popular hangout for couples and teenagers, and handy for shops, restaurants and cafes. Facing the square is the striking neo-classical , Macau’s first municipal IAM Building chamber from 1784. Go inside to admire the wonderful Sen, home to a collection of some 19,000 antique ate Library books, along with wonderful carved wooden furnishings and panelled walls.",
+   "map": false,
+   "images": [],
+   "stops": [
+    "mo03"
+   ],
+   "wiki": [
+    "e065"
+   ]
+  },
+  {
+   "id": "lp545",
+   "page": 545,
+   "city": "Шеньчжень",
+   "heads": "Buy Tailor-Made Clothing",
+   "subs": "Shopping · in Luohu Commercial City",
+   "pois": [
+    "Luohu",
+    "Commercial",
+    "City"
+   ],
+   "facts": [
+    "¥38"
+   ],
+   "zh": [
+    "深圳",
+    "深圳北站",
+    "罗湖汽车站",
+    "银湖汽车站",
+    "轮渡码",
+    "罗湖商业城",
+    "乘车码"
+   ],
+   "text": "'You are a Shenzhener once you come here', is the city slogan of Shenzhen ( , Shēnzhèn), a nod to its migrant culture and inclusive attitude. Bordering Hong Kong, Shenzhen began its rise to fame in the 1980s, when it was chosen as the first of China’s Special Economic Zones, areas that experimented with capitalistic policies and attracted foreign investment. Shenzhen was the place where Chinese nationals could realise their dreams of financial success, even if they came from poor farming families. Upward mobility came in the form of selling from a 1m counter in the Huaxiangbei area (the world’s largest electronics market) then eventually becoming insanely rich;-the exact trajectory of several of Shenzhen’s 50,300 millionaires. Today, Shenzhen's known as the 'Silicon Valley' of China, with tech giants Tencent and Huawei headquartered here. However, to understand its past and present, lies in its urban villages - especially in what gets destroyed and what gets preserved. To buy well-made custom clothing, go to Luohu Commercial ( , Luōhú Shāngyèchéng), a five-storey mall City located at the Luohu border. Whatever type of clothing you want made, here in this seemingly endless maze of s",
+   "map": false,
+   "images": [],
+   "stops": [
+    "sz07"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp546",
+   "page": 546,
+   "city": "Шеньчжень",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [
+    "11am-2.30pm & 5",
+    "11am-11pm Sat & Coco Park",
+    "11am-10pm ¥¥ Sun ¥¥¥ 10",
+    "30am-9.30pm ¥¥",
+    "¥150",
+    "¥180",
+    "¥900",
+    "¥1200",
+    "¥ 11",
+    "¥ 10.30",
+    "¥ 2211"
+   ],
+   "zh": [
+    "缘生态",
+    "云南菜"
+   ],
+   "text": "Meilinshan Park Tanglanshan Park Bujiashan Park Lianhuashan Park Shenzhen Bay Mai Po Marsh & Nature Reserve Lam Tseun North Country Park and shipping is available (if you can’t return to pick it up). No price is set here, so haggling is expected. Tailoring services vary, but ¥150 to ¥180 for pants and ¥900 to ¥1200 for a suit are realistic ranges. Two tailors that speak English are Nancy at #5056A (specialising in wedding wear, qípáos and costumes) and Molly at #5066 (specialising in uniforms and pants). Plan to spend a few hours at the mall, and should you need some tea souvenirs go to Liang Yu Tea House (#3203 on Floor 3). Reach Luohu Commercial City by taking metro Line 1 to",
+   "map": true,
+   "images": [
+    "l052"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp547",
+   "page": 547,
+   "city": "Шеньчжень",
+   "heads": "Visit Alleyway Art Studios Enjoy Well-Priced Pampering",
+   "subs": "Dafen oil-painting · village · 24-hour spas",
+   "pois": [
+    "Dafen"
+   ],
+   "facts": [
+    "8am-8pm Mon- Ranshilu",
+    "8am-6pm Mon- Community",
+    "8.30am-7pm Fri",
+    "9am-8pm Sat & Sun Fri",
+    "9am-5.30pm Sat & Sun",
+    "¥10,000",
+    "¥1200"
+   ],
+   "zh": [
+    "大芬村",
+    "沙井",
+    "大芬黄江广场十里良亭名人",
+    "徐辉杰",
+    "皇岗",
+    "水围村",
+    "旧天堂书店"
+   ],
+   "text": "Luohu Station. Finding the entrance can be a bit tricky, as signs from Exit A and B will lead you to lifts at the mall’s back entrance. Once off the lift, walk to the opening at the end of the hall and you’ll arrive in the main square. ( , Dàfēn Cūn), a village in the Buji area of Long Dafen gang District, was once said to be a global oil-painting village. In 1989 the Chinese painter and businessman Huang Jiang brought a team of painters here and began mass producing copycat works of European art. At the activity's height, the artists in Dafen produced 60% of the world’s new oil paintings and even today it’s estimated that about 10,000 of its residents work in the art industry. Though sales have gone down due to a lack of demand and the advent of AI, Dafen is still the best place in China to buy paintings. A short walk from the Dafen Station Exit A1 on the metro Line 3, the village is best experienced by wandering its painting-adorned alleys and getting a little lost. This allows you to see painters at work in their studios, most of which have wide open entryways facing the street. You can also find hole-in-the-wall stores selling cheap art supplies and calligraphy materials, or pa",
+   "map": false,
+   "images": [],
+   "stops": [
+    "sz03"
+   ],
+   "wiki": []
+  },
+  {
+   "id": "lp549",
+   "page": 549,
+   "city": "Шеньчжень",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Tenz"
+   ],
+   "facts": [
+    "5pm-2am Mon-Thu",
+    "4pm-2am Fri-Sun Nantou Ancient City",
+    "5pm-1am Fri",
+    "¥300"
+   ],
+   "zh": [
+    "皇岗口岸站",
+    "汤崎",
+    "汤泉生活",
+    "福田口岸站",
+    "罗湖",
+    "佳卡",
+    "百优精",
+    "糖罐"
+   ],
+   "text": "city). While there are multiple well-equipped spas, five-level, 24-hour ( · , Tāngqí Tāngquán Shēnghuó, Tenz 1st-5th fl, Podium Bldg, Huating, Gangcheng Bldg, Guohua Lu, Futian Port) is one of the most famous and easy to find, only a block away from the Futian border checkpoint Exit A (go right outside the door). Check in and choose your treatments; massages range from Chinese to foreign styles, like Lomi Lomi or Thai. Packages (some of the best deals are found on the Meituan app) are well priced and include multiple services, plus a full meal from the canteen. After check in, go to the locker rooms and change into your bathing suit or the complimentary disposable underwear to soak in the hot pools. The baths are divided into male and female sections, and it’s normal for patrons to go completely naked. Later, change into the free shirts and shorts to go to your treatments in other sections of the spa. Amenities with a base entry fee (¥300 for eight hours) include: wet and dry saunas, a hot sand cave room, salt room, tatami cubicles and unlimited fruit and ice cream. Different services can be add ed throughout your visit and paid for at the end, like the full body scrubs by the saun",
+   "map": false,
+   "images": [
+    "l035"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp550",
+   "page": 550,
+   "city": "Південний Китай",
+   "heads": "Zhuhai",
+   "subs": "Head to 24/7 hot springs",
+   "pois": [
+    "Zhuhai",
+    "Imperial Hot Spring Resort"
+   ],
+   "facts": [],
+   "zh": [
+    "珠海",
+    "开平",
+    "碉楼"
+   ],
+   "text": "The southwest of Guangdong holds Zhuhai ( , Zhūhǎi), the border city of Macao. Known for its hot-spring resorts, Zhuhai has a chill vibe and an impressive shell-shaped opera house that can be seen, like most of its sights, by cycling along the coastal Lover’s Road. To the west of Shenzhen also lies the city of Kaiping ( , Kāipíng) with its surrounding villages famous for their UNESCO World Heritage- recognised diāolóu ( ), watchtowers that combine Chinese and western styles of architecture. Kaiping has a strong heritage of its residents living overseas. When the overseas Chinese returned, they built the diāolóu , a symbol of their mixed cultural history. In ( , Zhūhǎi), to have a hot-spring resort nearly Zhuhai all to yourself with unlimited fruit, ice cream and tea, stay at the (p604), comprising of Imperial Hot Spring Resort over 20 pools, three hotels, several restaurants and an outdoor activity area. Of the three hotels, opt for the Classical Hotel, guaranteeing you access to the hot springs for 24 hours. Head to the pools at midnight when day tourists have gone and the other hotel guests have usually retired for the night, to be able to have multiple pools all to yourself. The",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e004"
+   ]
+  },
+  {
+   "id": "lp551",
+   "page": 551,
+   "city": "Південний Китай",
+   "heads": "Kaiping",
+   "subs": "Hunt for diāolóu · in Zili · Stroll Li Garden’s · water-accented paths",
+   "pois": [
+    "Zili",
+    "Kaiping",
+    "Garden"
+   ],
+   "facts": [
+    "10.30am- 9am-2",
+    "7.30pm- 7.30pm ¥¥ most days ¥¥¥ 10pm ¥¥ late",
+    "¥1288",
+    "¥238",
+    "¥78",
+    "¥150",
+    "¥ 10",
+    "¥ 2211"
+   ],
+   "zh": [
+    "御温泉",
+    "小班",
+    "港澳接待",
+    "自力村",
+    "开平",
+    "铭石楼",
+    "龙胜楼",
+    "云幻楼",
+    "碉民部落",
+    "塘口镇",
+    "立园",
+    "悦轩",
+    "五月花",
+    "海鲜城",
+    "雨小院手冲咖啡"
+   ],
+   "text": "To get the best rate (¥1288 for a single room with hot-spring access and two meals), book directly through the resort by sending a message to their WeChat: , and clarify you want a room in the Classical Hotel. If you come by ferry or bus, let them know, and you can utilise the free shuttle, which takes at least an hour from the port. Should you come on your own, there’s a day rate to enter the springs (adult/child ¥238/119). To climb up some of the region's UNESCO-protected diāolóu, go to the village of ( , Zìlì Cūn), about 11km out Zili side of ( , Kāipíng). Of the approximately 3000 Kaiping diāolóu built, only 1833 remain - and the largest cluster is in Zili. Only four of the 15 watchtowers are open to visitors, but the rest can be seen from the paths throughout the village. Tickets must be purchased at the village gates (Zili only ¥78; Zili and Li Garden ¥150), after which you can walk along its paths and alleyways freely. Míngshí Lóu ( ), famous for being in the movie Let the Bullets Fly , is one of the towers you can enter. Climb to its 5th-floor veranda with Ionic columns to see a bird’s-eye view of the surrounding diāolóu and paddies, as well an ancestral shrine. Its lower f",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e1128"
+   ]
+  },
+  {
+   "id": "lp552",
+   "page": 552,
+   "city": "Гуанчжоу",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [
+    "10am-9pm Sun-Thu",
+    "11.30am-2.30pm & 5",
+    "10am-10pm Fri & Sat ¥¥ Town",
+    "10.30am-9pm ¥¥ 10pm ¥¥",
+    "¥100",
+    "¥150",
+    "¥ 10.30",
+    "¥ 10",
+    "¥ 2211"
+   ],
+   "zh": [
+    "泮立楼",
+    "先锋",
+    "口空间",
+    "潮江春酒楼",
+    "天下粮仓书店",
+    "狗仔"
+   ],
+   "text": "in 1926 by a returned overseas Chinese businessman. Spend at least two hours here to see the Pànlì Lóu ( ), which incorporates gold-planted Chaozhou wood carvings with Roman posts, and Lingnan tiling. Afterwards, walk through the gardens, which are filled with colourful archways and pavilions. Tickets are ¥100 (or ¥150 for a Zili and Li Garden combo ticket).",
+   "map": false,
+   "images": [
+    "l036"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp553",
+   "page": 553,
+   "city": "Гуанчжоу",
+   "heads": "Explore Qingping Chinese Medicine Market",
+   "subs": "Wholesale · teas and remedies",
+   "pois": [
+    "Qingping",
+    "Chinese Medicine Market"
+   ],
+   "facts": [],
+   "zh": [
+    "广州",
+    "广州东站",
+    "清平市场",
+    "珠玑路"
+   ],
+   "text": "Guangzhou ( , Guǎngzhōu) has always been a liminal space between China and the rest of the world. Built up on either side of the Pearl River, it was the starting point of the Maritime Silk Road and China’s busiest port of trade for hundreds of years. Attracting both entrepreneurs and revolutionaries has made it a dynamic city, and its hodgepodge of cultures can be felt in its diverse restaurants as much as in the languages spoken on its streets. Today, it’s China’s third-largest city, and host of the Canton Fair, a semi-annual trade fair where exporters and importers discuss deals over displays of products showcasing the latest in Chinese innovation. However, the pace of life here is calmer than that of China’s northern metropolises, and given the plethora of historic sites, temples and museums, it's one of the area's best places to learn about the history of the Lingnan region. If anything ails you, the cure can probably be found at ( , Qīngpíng Qingping Chinese Medicine Market Shìchǎng; 23-25 Zhuji Lu, 23-25 ) in one of its more than 1200 stalls. Situated across the bridge from Shamian Island, the market spills out of the building and onto the footpaths surrounding it, where mult",
+   "map": false,
+   "images": [],
+   "stops": [
+    "gz19"
+   ],
+   "wiki": [
+    "e250"
+   ]
+  },
+  {
+   "id": "lp555",
+   "page": 555,
+   "city": "Гуанчжоу",
+   "heads": "Concession-Era Ambling & TCM",
+   "subs": "A day on Shamian · Island",
+   "pois": [
+    "Shamian",
+    "Island",
+    "Canton Cus-",
+    "toms Mansion"
+   ],
+   "facts": [
+    "10am-10pm ¥¥ 47 Dishifu Lu",
+    "10am- 11am-8pm ¥ Donglu",
+    "11am-3pm & 10",
+    "5pm-2am ¥¥¥",
+    "¥ 47",
+    "¥ 5",
+    "¥ 2211"
+   ],
+   "zh": [
+    "沙面岛",
+    "拔罐",
+    "针刺",
+    "气内脏",
+    "刮痧",
+    "陈添记",
+    "南信牛奶甜",
+    "炳胜品味",
+    "品专家",
+    "德炖品",
+    "子汤",
+    "剌身"
+   ],
+   "text": "The 1st floor has a pearl merchant who also sells pearl pow der (an ancient Chinese skin remedy), but ask, as it's not displayed. The upper floors are good for buying multiple varieties of ginseng, the most expensive packaged individually. Many sellers speak some English, but a translation app is handy, especially if you’re looking for something specific. Plan for at least two hours to browse. You'll feel transported back in time when meandering past the concession-era buildings of Shamian Island ( , Shāmiàn Dǎo). Formerly the site of banks, trading compa nies and government offices when it was ceded to France and the UK in the 1800s, it now holds restaurants, shops and the Polish consulate. Only 1km long and 500m wide, it’s easy to navigate, and free to visit. While walking its banyan-tree-lined streets, you can hear the bells peal at 8am or 8pm from the Canton Cus, a stout neoclassical structure, and visit the toms Mansion sanctuaries of the island’s two churches, Christ Church and",
+   "map": false,
+   "images": [
+    "l037"
+   ],
+   "stops": [
+    "gz05"
+   ],
+   "wiki": [
+    "e044"
+   ]
+  },
+  {
+   "id": "lp556",
+   "page": 556,
+   "city": "Гуанчжоу",
+   "heads": "View Lingnan Art & Architecture",
+   "subs": "Chen Clan Ancestral Hall",
+   "pois": [
+    "Shamian Traditional",
+    "Chinese Medical Centre",
+    "Chen",
+    "Clan Ancestral Hall"
+   ],
+   "facts": [
+    "8am-7pm Mon-Fri",
+    "11am-6pm 9pm Sat & Sun 6 Dongyuan Dong",
+    "10am-7pm",
+    "¥10"
+   ],
+   "zh": [
+    "沙面国医馆",
+    "陈家祠",
+    "康王北路",
+    "香稿塑",
+    "逵园"
+   ],
+   "text": "the Catholic church, to see their stained-glass windows. Also, dip into the White Swan Hotel, the first five-star hotel to wel come foreigners when China opened up in the 1980s, to take a peek at its impressive indoor garden. To finish your day here, book a foot massage or another tradi tional Chinese medicine treatment at Shamian Traditional ( , Shāmiàn Guóyīguǎn). Chinese Medical Centre Be forewarned: the aim of treatments is for health, not relax ation. Therapists are well studied and some even come from families of TCM practitioners. Dr Alin can give you an assessment in English and explain some of the reasoning behind TCM, if you’re inclined to learn more. To learn more about Lingnan culture, particularly Lingnan art history, take a few hours to meander through the Chen ( , Chénjiā Cí; 903 Kangwang Clan Ancestral Hall Beilu, 903 ). The hall is Guangdong’s largest extant Lingnan architectural work and houses the Guangdong Folk Arts Museum. Its many displays provide information on the origins, history and symbolism of the various mediums of Lingnan folk art. The complex, built in the late 1800s, is a structure of smaller halls, pavilions and rooms - the tops of which hold colour",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp557",
+   "page": 557,
+   "city": "Гуанчжоу",
+   "heads": "Discover Ancient Treasures & Porcelain Pillows Cruise the Neon Delta",
+   "subs": "Visit the Mausoleum · of the Nanyue King · A Pearl River · trip",
+   "pois": [
+    "Mausoleum",
+    "of the Nanyue King",
+    "Pearl River Night",
+    "Cruise",
+    "Canton Tow-"
+   ],
+   "facts": [
+    "11am-2am 11 Xiancun Lu",
+    "9pm-4am Xijie",
+    "6pm-2am Huajiu Lu",
+    "11.30pm-1am Sat & Sun",
+    "¥10"
+   ],
+   "zh": [
+    "南越王墓"
+   ],
+   "text": "Before Guangzhou was Canton, it was Panyu, the capital of the Nanye kingdom - encompassing modern-day South China and parts of Vietnam. Nanyue’s second king, Zhao Mo, declared himself emperor (not just king) of Nanyue in rebellion against the Han dynasty who viewed Nanyue as a vassal state. The ( , Nányuèwáng Mausoleum of the Nanyue King Mù) is where he was buried in 122 BCE with treasures, 15 sac rificial servants and concubines - one of whose skeletal re mains are encased in glass inside the crypt’s seven chambers. For only ¥10 you can enter the red quartz sandstone structure and descend the steps into the crypt at the back of the complex. Afterwards, go to the exhibit hall above to see the excavated treasures, like Zhao Mo’s burial shroud of 2291 jade pieces, and official seals made of jade, gold, turquoise and agate. Other items among the 1000 pieces buried with him include crossbows and fish percussion instruments. Display descriptions are in English and Chinese. Before you leave, swing by the front exhibit hall to check out the display of beautiful but uncomfortable-looking porcelain pillows from the Ming and Qing dynasties. Some have poems on them and others have symbols. (L",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp558",
+   "page": 558,
+   "city": "Гуанчжоу",
+   "heads": "",
+   "subs": "",
+   "pois": [
+    "Tianzi Pier"
+   ],
+   "facts": [
+    "8.30am-3pm & 2 Xiancun Lu",
+    "11am-3pm 4pm & 5-9pm ¥¥ style stained-",
+    "8.30am-2.30pm & 5",
+    "¥55",
+    "¥ 2211"
+   ],
+   "zh": [
+    "天字码头",
+    "点都",
+    "仔记",
+    "公馆炳胜",
+    "广州酒"
+   ],
+   "text": "lights of the Liede Bridge. You’ll also pass by the Xinghai Concert Hall, which looks a bit like a giant paper airplane. Ferries leave from multiple docks, but the classic cast-off point is from ( , Tiānzì Mǎtóu), which Tianzi Pier had a role in the start of the First Opium War. Tickets (from ¥55) can be purchased in person. Plan to arrive at least 30 minutes prior to the cruise you want to take, as the pier gets very busy. Bring a jacket; it can get windy on the boat. Tianzi Pier is a five-minute walk west of the Haizhu Square Station’s Exit D.",
+   "map": false,
+   "images": [
+    "l038"
+   ],
+   "stops": [],
+   "wiki": []
+  },
+  {
+   "id": "lp559",
+   "page": 559,
+   "city": "Південний Китай",
+   "heads": "Chaozhou",
+   "subs": "See the Moveable · Guangji Bridge",
+   "pois": [
+    "Chaozhou",
+    "Guangji",
+    "Bridge"
+   ],
+   "facts": [],
+   "zh": [
+    "潮州",
+    "广济"
+   ],
+   "text": "To the east of Guangzhou lie the lands of very adaptable peoples that immigrated from central China ages ago, the Teochew and the Hakka. The Teochew developed the gōngfū tea ceremony to improve lower-quality tea, and the Hakka built massive clan homes - coiled dragon houses and tǔlóu - for living and protection. Experience a gōngfū tea ceremony in Chaozhou, and see the ingeniously designed Guangji Bridge. The Hakka compounds can be found on the outskirts of Meizhou, about 150km north of Chaozhou. Southwest of Meizhou, just north of Guangzhou, is the small rockclimbing hub of Yingxi in Qingyuan, famous more for its free-range chickens than its peoples. In ( , Cháozhōu), the ( Chaozhou Guangji Bridge , Guǎngjǐ Qiáo) is a ponton bridge made up of 18 boats and 24 stone pagodas. It opens and closes each day - just as it has done for hundreds of years. Originally built in 1171, it straddles the Han River and was one of ancient China’s four famous bridges. Formerly made of stone arches at its ends and 86 boats strung together in the middle, it was likely the fi rst open-close bridge in the world. The bridge acted as an important trade passageway, connecting the south with the rest of Chin",
+   "map": false,
+   "images": [],
+   "stops": [],
+   "wiki": [
+    "e394"
+   ]
+  },
+  {
+   "id": "lp560",
+   "page": 560,
+   "city": "Південний Китай",
+   "heads": "Qingyuan",
+   "subs": "Rock climb in Yingxi",
+   "pois": [
+    "Qingyuan",
+    "Mental",
+    "Rock"
+   ],
+   "facts": [
+    "11am-2pm & front",
+    "10am-10pm ¥ 5-8",
+    "11am-9pm ¥¥ Xiang",
+    "9.30am-10pm ¥",
+    "¥20",
+    "¥ 5-8",
+    "¥ 2211"
+   ],
+   "zh": [
+    "我要回来",
+    "清远",
+    "英西",
+    "工夫茶",
+    "夫茶",
+    "茶气",
+    "凤凰山",
+    "踢桃咖",
+    "品羽茶居",
+    "莲华素食府",
+    "阿彬牛肉火锅"
+   ],
+   "text": "to see its clever engineering firsthand. A ticket ((adult/child ¥20/free), allows for one crossing. If you want to return, tell staff ‘I want to come back’ ( , wǒyào huílai ) before leaving the bridge. Connecting the Xiangqiao and Chengxi districts, the bridge is open from 10am to 5.30pm Monday to Friday and from 9am on weekends, but closes an hour earlier from November to January. It’s worth coming back at 8pm when there’s a light show you can see from the shore. Around ( , Qīngyuǎn) in the last 20 years, Qingyuan the scenic area of Yingxi ( , Yīngxī) has developed into a small rock-climbing hub with over 250 routes, mostly for sport climbing. For rock climbing in South China, it’s a great alternative to Yangshuo for those seeking less-crowded peaks and more rural environs. Routes here range from 5.9 to 5.13. While it’s possible to bring your own gear to climb here, you can also rent equipment from Bobo, the owner of Mental Rock (p604), a climbing cafe and guesthouse with a bouldering wall. If you prefer hiring a guide, Mental Rock also",
+   "map": false,
+   "images": [
+    "l039"
+   ],
+   "stops": [],
+   "wiki": [
+    "e1129"
+   ]
+  },
+  {
+   "id": "lp561",
+   "page": 561,
+   "city": "Південний Китай",
+   "heads": "",
+   "subs": "",
+   "pois": [],
+   "facts": [
+    "11am-2pm & 5-9pm ¥¥ 269",
+    "9.30am-2.30pm & 10am-6pm ¥ 4",
+    "¥650",
+    "¥1100",
+    "¥ 269,",
+    "¥ 4.30-8",
+    "¥ 2211"
+   ],
+   "zh": [
+    "岭国家森林公",
+    "南岭",
+    "石坑空",
+    "英德",
+    "黄花镇",
+    "清远站",
+    "纹图",
+    "品味園",
+    "一默松风",
+    "石攀岩咖啡馆",
+    "花花姨碌鵝生活館",
+    "山莊"
+   ],
+   "text": "offers three-hour (¥650) and six-hour (¥1100) trad climbing instruction in English, Mandarin and Cantonese. These prices do not include gear rental, so budget a bit extra if you don’t have a helmet, harness and shoes. If you’re new to rock climbing, the three-hour option will be plenty. Expect a bit of hiking to reach the crag (possibly past unsuspecting cows), as well as views of green karst countryside from the top. Should you not want to travel back to Qingyuan proper (the train station is about 1½ hours away by car), make a reservation a few days before your arrival to stay at Mental Rock’s guesthouse via their WeChat: 13539942303. If you want a more intensive experience, Bobo also leads rock-climbing courses each month that include food, accommodation and transport for a set rate. Mental Rock is located above Qingyuan proper in Yingde ( , Yīngdé) in Huanghua Town ( , Huánghuā Zhèn). Organise transport options from Qingyuan Train Station ( , Qīngyuǎn Zhàn) with Bobo.",
+   "map": false,
+   "images": [
+    "l040"
+   ],
+   "stops": [],
+   "wiki": []
+  }
+ ]
+}

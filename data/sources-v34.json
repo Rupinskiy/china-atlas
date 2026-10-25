@@ -1,0 +1,192 @@
+{
+ "work": [
+  {
+   "name": "Wikivoyage англійською (Hong Kong, Macau, Shenzhen, Guangzhou, Beijing)",
+   "url": "https://en.wikivoyage.org/wiki/Hong_Kong",
+   "access": "відкритий, CC BY-SA",
+   "llm": "так: сторінки читаються через вебпошук",
+   "grade": "критично корисний",
+   "note": "оновлюється волонтерами щодня; розділи Get in, See, Eat"
+  },
+  {
+   "name": "Вікімандри українською",
+   "url": "https://uk.wikivoyage.org/",
+   "access": "відкритий, CC BY-SA",
+   "llm": "так",
+   "grade": "корисний",
+   "note": "менше статей"
+  },
+  {
+   "name": "Викигид (російська Wikivoyage)",
+   "url": "https://ru.wikivoyage.org/",
+   "access": "відкритий, CC BY-SA",
+   "llm": "так",
+   "grade": "дуже корисний",
+   "note": ""
+  },
+  {
+   "name": "Дампи Wikivoyage (XML, оновлюються двічі на місяць)",
+   "url": "https://dumps.wikimedia.org/enwikivoyage/",
+   "access": "відкритий",
+   "llm": "частково: архів скачує користувач і завантажує в чат (до 500 МБ)",
+   "grade": "дуже корисний",
+   "note": "дамп ukwikivoyage і enwikivoyage завершено 01.10.2026"
+  },
+  {
+   "name": "Kiwix ZIM Wikivoyage (офлайн на телефоні)",
+   "url": "https://download.kiwix.org/zim/wikivoyage/",
+   "access": "відкритий",
+   "llm": "частково",
+   "grade": "дуже корисний",
+   "note": "офлайн-читання без інтернету"
+  },
+  {
+   "name": "baturin/wikivoyage-listings (GitHub): інструмент CSV/GPX/OBF з дампів",
+   "url": "https://github.com/baturin/wikivoyage-listings",
+   "access": "відкритий",
+   "llm": "так: GitHub доступний із середовища",
+   "grade": "корисний",
+   "note": "готові CSV у репозиторії - знімок 2016 року; свіжі - генерувати з дампу"
+  },
+  {
+   "name": "OpenStreetMap (дані Organic Maps/OsmAnd)",
+   "url": "https://www.openstreetmap.org/",
+   "access": "відкритий, ODbL",
+   "llm": "частково",
+   "grade": "критично корисний",
+   "note": "координати, години роботи, входи"
+  },
+  {
+   "name": "Wikidata (координати, офіційні сайти, статус спадщини)",
+   "url": "https://www.wikidata.org/",
+   "access": "відкритий, CC0",
+   "llm": "частково",
+   "grade": "дуже корисний",
+   "note": "SPARQL для POI"
+  },
+  {
+   "name": "DATA.GOV.HK: GTFS громадського транспорту, MTR, автобуси",
+   "url": "https://data.gov.hk/",
+   "access": "відкритий",
+   "llm": "частково",
+   "grade": "критично корисний",
+   "note": "офіційні розклади Гонконгу"
+  },
+  {
+   "name": "Discover Hong Kong (Туристична рада HK)",
+   "url": "https://www.discoverhongkong.com/",
+   "access": "безкоштовний",
+   "llm": "так",
+   "grade": "дуже корисний",
+   "note": "події, години"
+  },
+  {
+   "name": "Macao Government Tourism Office",
+   "url": "https://www.macaotourism.gov.mo/",
+   "access": "безкоштовний",
+   "llm": "так",
+   "grade": "дуже корисний",
+   "note": "пам'ятки ЮНЕСКО, години"
+  },
+  {
+   "name": "Музеї LCSD Гонконгу (години, вихідні)",
+   "url": "https://www.lcsd.gov.hk/",
+   "access": "безкоштовний",
+   "llm": "так",
+   "grade": "дуже корисний",
+   "note": ""
+  },
+  {
+   "name": "Visit Beijing (англійською)",
+   "url": "https://english.visitbeijing.com.cn/",
+   "access": "безкоштовний",
+   "llm": "так",
+   "grade": "корисний",
+   "note": ""
+  },
+  {
+   "name": "Dianping 大众点评",
+   "url": "https://www.dianping.com/",
+   "access": "безкоштовно, китайською",
+   "llm": "частково",
+   "grade": "критично корисний",
+   "note": "найсвіжіші години, ціни, черги і відгуки в материку"
+  },
+  {
+   "name": "Amap 高德地图 (POI)",
+   "url": "https://www.amap.com/",
+   "access": "безкоштовно",
+   "llm": "частково",
+   "grade": "критично корисний",
+   "note": "години роботи і входи POI в материку"
+  },
+  {
+   "name": "Xiaohongshu 小红书 (RedNote)",
+   "url": "https://www.xiaohongshu.com/",
+   "access": "безкоштовно, акаунт",
+   "llm": "ні",
+   "grade": "дуже корисний",
+   "note": "свіжі пости місцевих і туристів"
+  },
+  {
+   "name": "Mafengwo 马蜂窝",
+   "url": "https://www.mafengwo.cn/",
+   "access": "безкоштовно",
+   "llm": "частково",
+   "grade": "дуже корисний",
+   "note": "китайські путівники і маршрути"
+  },
+  {
+   "name": "Trip.com гід",
+   "url": "https://www.trip.com/travel-guide/",
+   "access": "безкоштовно",
+   "llm": "так",
+   "grade": "дуже корисний",
+   "note": "квитки, години, події"
+  },
+  {
+   "name": "Lonely Planet (сайт)",
+   "url": "https://www.lonelyplanet.com/",
+   "access": "безкоштовні статті",
+   "llm": "так",
+   "grade": "корисний",
+   "note": "оновлювані статті"
+  },
+  {
+   "name": "Tripadvisor",
+   "url": "https://www.tripadvisor.com/",
+   "access": "безкоштовно",
+   "llm": "частково",
+   "grade": "корисний",
+   "note": "відгуки"
+  },
+  {
+   "name": "Atlas Obscura",
+   "url": "https://www.atlasobscura.com/",
+   "access": "безкоштовно",
+   "llm": "так",
+   "grade": "умовно корисний",
+   "note": "незвичні місця"
+  },
+  {
+   "name": "Вікіпедія через Kiwix",
+   "url": "https://library.kiwix.org/",
+   "access": "відкритий",
+   "llm": "частково",
+   "grade": "дуже корисний",
+   "note": "довідка офлайн"
+  }
+ ],
+ "archive": [
+  {
+   "name": "Wikitravel",
+   "url": "https://wikitravel.org/",
+   "why": "комерційний, рідко оновлюється"
+  },
+  {
+   "name": "Готові CSV Wikivoyage 2016 року",
+   "url": "https://github.com/wikivoyage/wikivoyage.github.io",
+   "why": "застарілі години і ціни; придатні лише координати"
+  }
+ ]
+}

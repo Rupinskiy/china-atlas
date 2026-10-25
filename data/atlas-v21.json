@@ -1,0 +1,791 @@
+{
+  "version": "2.1",
+  "verified_at": "2026-10-24",
+  "sources": {
+    "mc_conditions": "https://airport.mastercard.com/en/conditions-of-use",
+    "mc_faq": "https://airport.mastercard.com/en/faq",
+    "pkxspa": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX5S",
+    "pkxspa2": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX9S",
+    "hkg_putien": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=HKG15D",
+    "lhr4": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=LHR13",
+    "blush": "https://www.plazapremiumlounge.com/en-uk/find/europe/united-kingdom/london/london-heathrow-airport/blush-departures-terminal-four",
+    "heathrow_term": "https://www.heathrow.com/at-the-airport/airport-maps/travel-between-terminals",
+    "pkx_check": "https://www.csair.cn/sg/en/tourguide/airport_service/transit_flow/beijing/transferProcess_dx/",
+    "badaling_train": "https://www.travelchinaguide.com/how-to-get-to-badaling-great-wall.htm",
+    "badaling_go": "https://english.beijing.gov.cn/specials/ticketing/attractions/202407/t20240717_3751609.html",
+    "pkx_qinghe": "https://www.travelchinaguide.com/china-trains/qinghe-railway-station.htm",
+    "beijing_daxing": "https://www.travelchinaguide.com/cityguides/beijing/subway-new-airport-line.htm",
+    "metro": "https://www.metroman.cn/en/cities/beijing/stations/daxing-jichang-daxing-airport",
+    "pkx_badaling": "https://www.rome2rio.com/s/Beijing-Daxing-Airport-PKX/Badaling-Great-Wall-Station",
+    "hk_food": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html",
+    "hk_street": "https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html",
+    "hk_temple": "https://www.discoverhongkong.com/eng/food-and-drink/local-cuisine-to-try-on-temple-street.html",
+    "hk_cheung": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-hop-yik-tai.html",
+    "macau_wh": "https://whc.unesco.org/en/list/1110",
+    "shenzhen_old": "https://www.sz.gov.cn/en_szgov/travel/cultural/content/post_1352096.html",
+    "beijing_axis": "https://english.beijing.gov.cn/specials/centralaxis/sightseeingalongthecentralaxis/202206/t20220602_2728693.html",
+    "beijing_temple": "https://english.beijing.gov.cn/specials/parktours/guidevisitors/templeofheaven/",
+    "Wikivoyage": "https://en.wikivoyage.org/wiki/China",
+    "OSM": "https://www.openstreetmap.org/",
+    "Commons": "https://commons.wikimedia.org/",
+    "valhalla": "https://valhalla.github.io/valhalla/"
+  },
+  "cards": [
+    {
+      "city": "Гонконг",
+      "date": "27.10/02.11",
+      "title": "Central - колоніальний і фінансовий центр",
+      "chinese": "中環",
+      "body": "Сучасні хмарочоси виникли на місці торгового портового міста XIX ст. Звертайте увагу на переплетення британського міського планування, кантонських торгових вулиць та сучасних підземних переходів. Із Tsim Sha Tsui найкраще прибути Star Ferry; далі йти до Statue Square й історичних кварталів Sheung Wan.",
+      "genre": "Історія + прогулянка",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html",
+      "tip": "Шлях пішки від Central до Sheung Wan; у день 27.10 скорочувати після перельоту.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Man Mo Temple - храм літератури й війни",
+      "chinese": "文武廟",
+      "body": "Традиційне святилище пов’язане з культом божеств Вень-ді та Гуань-ді. Спіралі пахощів, дари й дерев’яні таблички дозволяють зрозуміти роль храму як громадського осередку історичного китайського міста. Не фотографуйте молитовні ритуали зблизька без дозволу.",
+      "genre": "Культура/етикет",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html",
+      "tip": "За бажанням додати до Sheung Wan, а не до перевантаженого Лантау.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Tai Kwun - історичний поліційний комплекс",
+      "chinese": "大館",
+      "body": "Будівлі колишньої поліції, магістрату та в’язниці перетворені на культурний центр; це рідкісний шанс побачити, як місто інтегрує колоніальну інфраструктуру в сучасний мистецький простір. Порівняйте кам’яні внутрішні двори з оточенням високих офісів.",
+      "genre": "Архітектура/музей",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html",
+      "tip": "Частина виставок може бути платною; відкритість перевіряти в день візиту.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Upper Lascar Row - Cat Street",
+      "chinese": "摩羅上街",
+      "body": "Антикварний і вінтажний торговий провулок, де сусідять сувеніри, предмети побуту, старі фотографії й репродукції. Для історії це скоріше жива комерційна культура, ніж музей; справжню старовинну річ потрібно перевіряти окремо.",
+      "genre": "Вулиця/покупки",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html",
+      "tip": "Поблизу Man Mo Temple.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "27.10",
+      "title": "Star Ferry - морська традиція",
+      "chinese": "天星小輪",
+      "body": "Пором через Victoria Harbour зберігає досвід пересування гавань-Коулун і дозволяє зрозуміти географію міста за кілька хвилин. Найбільша цінність - панорама двох берегів та повільна зміна міських силуетів.",
+      "genre": "Транспорт + історія",
+      "source": "https://www.discoverhongkong.com/eng/",
+      "tip": "Використати як транспорт, а не додатковий дорогий круїз.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Sham Shui Po - текстиль і мікроелектроніка",
+      "chinese": "深水埗",
+      "body": "Колись робітничий район став осередком тканин, дрібних магазинів електроніки та локальної кухні. Прогулянка Apliu Street, Pei Ho Street і навколишніми ринками дає можливість порівняти логіку невеликих вуличних крамниць із комерційними центрами Гонконгу.",
+      "genre": "Ринки + гастрономія",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html",
+      "tip": "Можна сумістити з дегустаціями, замість далекого Stanley.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Hop Yik Tai - cheung fun",
+      "chinese": "合益泰小食",
+      "body": "Рисові рулетики cheung fun мають м’яку, майже шовковисту текстуру й подаються із соєвим, солодким та кунжутним соусами. Це приклад демократичної кухні Sham Shui Po, де традиційна технологія зберігається через щоденний попит місцевих мешканців.",
+      "genre": "Вулична їжа",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-hop-yik-tai.html",
+      "tip": "121 Kweilin Street; не планувати жорстку хвилинну зупинку через чергу.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "02.11",
+      "title": "Temple Street - нічні гастрономічні маршрути",
+      "chinese": "廟街",
+      "body": "Вечірній ринок і заклади з claypot rice, dim sum та закусками демонструють культуру спільних столів і міського харчування. Важливо відрізняти ринок від одного конкретного ресторану: меню, рівень гостроти й ціни змінюються.",
+      "genre": "Вулична їжа",
+      "source": "https://www.discoverhongkong.com/eng/food-and-drink/local-cuisine-to-try-on-temple-street.html",
+      "tip": "Ідеально після повернення до Kowloon.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "01.11",
+      "title": "Tai O - будинки на палях",
+      "chinese": "大澳",
+      "body": "Історична рибальська громада Лантау сформувалася навколо води, рибальства і торгівлі. Будинки на палях показують іншу логіку простору, ніж фінансовий центр Гонконгу. Не варто вважати все поселення атракціоном: тут живуть люди.",
+      "genre": "Етнографія",
+      "source": "https://www.discoverhongkong.com/eng/",
+      "tip": "У вологу погоду та за обмеженого часу скоротити прогулянку.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гонконг",
+      "date": "01.11",
+      "title": "Po Lin & Tian Tan Buddha",
+      "chinese": "寶蓮禪寺 / 天壇大佛",
+      "body": "Храмовий ансамбль і велика бронзова статуя поєднують сучасний релігійний туризм з буддійськими практиками. Зверніть увагу на монастирські дворики, пахощі та ландшафт Лантау; видимість сильно залежить від туману.",
+      "genre": "Релігія",
+      "source": "https://www.discoverhongkong.com/eng/",
+      "tip": "Не планувати підйом за сильної грози.",
+      "image": "assets/book2021/31-hong-kong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Шеньчжень",
+      "date": "28.10",
+      "title": "Huaqiangbei - інженерна екосистема",
+      "chinese": "华强北",
+      "body": "Район виріс із торгівлі компонентами до багаторівневої мережі виробників, дилерів та ремонтних сервісів. У магазині перевіряйте SKU, RF-частоти, прошивку, регіональні обмеження й гарантію, а не лише брендинг.",
+      "genre": "Технології",
+      "source": "https://www.sz.gov.cn/en_szgov/",
+      "tip": "Для 5G Three UK запитайте сумісність n78/n28, LTE B1/B3/B7/B20/B28 і SA/NSA.",
+      "image": "assets/book2021/33-guangdong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Шеньчжень",
+      "date": "28.10",
+      "title": "Nantou Ancient Town - старий Шеньчжень",
+      "chinese": "南头古城",
+      "body": "Nantou було адміністративним і оборонним вузлом задовго до створення сучасної спеціальної економічної зони. Міська забудова зберігає архітектурні пласти та пізні реконструкції; не плутайте ці епохи.",
+      "genre": "Історія",
+      "source": "https://www.sz.gov.cn/en_szgov/travel/cultural/content/post_1352096.html",
+      "tip": "Далеко від Huaqiangbei; встигнути лише замінивши іншу активність.",
+      "image": "assets/book2021/33-guangdong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Шеньчжень",
+      "date": "28.10",
+      "title": "Lianhuashan - Шеньчжень як мегаполіс",
+      "chinese": "莲花山公园",
+      "body": "Парк дає огляд міського ядра Futian і показує контраст відкритого ландшафту із щільною забудовою ділового району. Це зручний безплатний спосіб осмислити масштаби урбанізації.",
+      "genre": "Місто/ландшафт",
+      "source": "https://www.sz.gov.cn/en_szgov/",
+      "tip": "Врахуйте вечірнє освітлення та погоду.",
+      "image": "assets/book2021/33-guangdong-chap-op-chi16.webp"
+    },
+    {
+      "city": "Гуанчжоу",
+      "date": "29.10",
+      "title": "Chen Clan Academy - родовий храм",
+      "chinese": "陈家祠",
+      "body": "Кераміка гребенів дахів, різьба по каменю, дереву й цеглі ілюструють мову Ліннанської архітектури. Первісно комплекс пов’язаний із родовими мережами й освітою; нині він є музеєм традиційних мистецтв.",
+      "genre": "Архітектура",
+      "source": "https://www.gz.gov.cn/",
+      "tip": "Метро Chen Clan Academy, Exit D; квиток і години перевірити онлайн.",
+      "image": "assets/book2021/33-guangzhou-chi16.webp"
+    },
+    {
+      "city": "Гуанчжоу",
+      "date": "29.10",
+      "title": "Shamian Island - торгові консульства",
+      "chinese": "沙面岛",
+      "body": "Район на острові Шамянь зберігає вуличну мережу й будинки періоду іноземних концесій. Це не «європейський квартал без Китаю», а матеріальне свідчення нерівноправної торгівлі та колоніального впливу на порт Кантон.",
+      "genre": "Історія",
+      "source": "https://www.gz.gov.cn/",
+      "tip": "Найкращий огляд пішки, уникаючи надто довгого переходу до Canton Tower.",
+      "image": "assets/book2021/33-guangzhou-chi16.webp"
+    },
+    {
+      "city": "Гуанчжоу",
+      "date": "29.10",
+      "title": "Yongqing Fang - відновлена старовина",
+      "chinese": "永庆坊",
+      "body": "У межах кварталу Xiguan відреставровані дворики й торгові фасади об’єднали традиційне ремесло з сучасними кав’ярнями. Під час огляду важливо розрізняти історичну тканину й нові туристичні реконструкції.",
+      "genre": "Урбаністика",
+      "source": "https://www.gz.gov.cn/",
+      "tip": "Близько до старих кварталів, комбінуйте з Shamian.",
+      "image": "assets/book2021/33-guangzhou-chi16.webp"
+    },
+    {
+      "city": "Гуанчжоу",
+      "date": "29.10",
+      "title": "Nanyue King - античний Південний Юе",
+      "chinese": "南越王博物院",
+      "body": "Поховання правителя династії Хань розкриває політичну історію Південного Китаю до повного утвердження імперських адміністрацій. Серед артефактів - нефрит і предмети поховальної культури.",
+      "genre": "Музей/археологія",
+      "source": "https://www.gz.gov.cn/",
+      "tip": "Уточнити за якою адресою працює конкретна виставка музею.",
+      "image": "assets/book2021/33-guangzhou-chi16.webp"
+    },
+    {
+      "city": "Гуанчжоу",
+      "date": "30.10",
+      "title": "Sacred Heart Cathedral - готичний собор",
+      "chinese": "石室圣心大教堂",
+      "body": "Одна з найпомітніших католицьких пам’яток міста, приклад кам’яної готичної архітектури в дельті Перлинної річки. Години відвідування можуть залежати від богослужінь; дотримуйтесь правил храму.",
+      "genre": "Релігія/архітектура",
+      "source": "https://www.gz.gov.cn/",
+      "tip": "Зовнішній огляд не вимагатиме додаткового часу на квитки.",
+      "image": "assets/book2021/33-guangzhou-chi16.webp"
+    },
+    {
+      "city": "Чжухай",
+      "date": "30.10",
+      "title": "Gongbei - прикордонна географія",
+      "chinese": "拱北口岸",
+      "body": "Район поєднує транспорт, торгівлю й міграційні потоки материкового Китаю та Макао. Для вашого 240-годинного транзиту важливо розрізняти прибуття внутрішнім HSR до Zhuhai і фактичне міжнародне проходження кордону Gongbei.",
+      "genre": "Кордони/логістика",
+      "source": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+      "tip": "Підтвердження Macau Entry Permit окреме від дозволу на материковий транзит."
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "A-Ma Temple - морська покровителька",
+      "chinese": "媽閣廟",
+      "body": "Храм Мацу, пов’язаний із захистом мореплавців, допомагає зрозуміти Макао як китайський порт до та після приходу португальців. Він пов’язаний із традиційною міфологією моря й формуванням торгового поселення.",
+      "genre": "Релігія",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "Відвідування без довгих фотосесій усередині молитовних зон.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "Mandarin’s House - купецька садиба",
+      "chinese": "鄭家大屋",
+      "body": "Резиденція відомої родини поєднує планування традиційних китайських дворів із деталями місцевого ремесла. Це противага туристичним фасадам поруч із Senado, дає уявлення про житлову культуру заможних маканців.",
+      "genre": "Архітектура",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "Маршрут A-Ma → Mandarin’s House → Senado.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "Senado Square - площа торгового міста",
+      "chinese": "議事亭前地",
+      "body": "Португальські фасади, мозаїчне покриття й китайська торгова практика перетинаються в центрі Макао. Площа входить до об’єктів історичного ансамблю UNESCO й показує багатошаровість міста.",
+      "genre": "UNESCO",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "У вихідний натовпи; оберіть короткий пішохідний прохід.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "Ruins of St Paul - бароковий фасад",
+      "chinese": "大三巴牌坊",
+      "body": "Збережений фасад колишнього єзуїтського комплексу символізує ранній культурний контакт Європи та Китаю. Не слід сприймати його як повністю збережену церкву: основна споруда була зруйнована пожежею.",
+      "genre": "UNESCO",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "Поруч Monte Fort; зручна коротка комбінація.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "Monte Fort - оборона порту",
+      "chinese": "大炮台",
+      "body": "Фортифікації нагадують, що Макао було не лише місцем торгівлі, а й укріпленим портом із власною воєнною географією. Оглядові точки дозволяють зрозуміти старий міський рельєф та сучасне намивання берегів.",
+      "genre": "Історія/панорама",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "Не витрачайте час на дальній Cotai, якщо запізнюєтесь до Gold Bus.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Макао",
+      "date": "31.10",
+      "title": "Taipa Village - культурна суміш",
+      "chinese": "氹仔舊城區",
+      "body": "Старий район Тайпи дозволяє побачити житлові вулиці, храми і місцеві пекарні поза головним історичним центром. Маканезька кухня формувалася через китайські й португальські торгові зв’язки.",
+      "genre": "Кулінарія/місто",
+      "source": "https://whc.unesco.org/en/list/1110",
+      "tip": "Додатковий сегмент, лише якщо час дозволяє.",
+      "image": "assets/book2021/32-macau-central-chi16.webp"
+    },
+    {
+      "city": "Пекін",
+      "date": "26.10",
+      "title": "Qianmen - імператорська вісь",
+      "chinese": "前门大街",
+      "body": "Вулиця проходить уздовж центральної осі старого Пекіна; історично пов’язана з шляхом імператорських процесій до храмів півдня міста. Увечері важливо розрізняти реконструйовані туристичні фасади та старі провулки поруч.",
+      "genre": "Історія",
+      "source": "https://english.beijing.gov.cn/specials/centralaxis/sightseeingalongthecentralaxis/202206/t20220602_2728693.html",
+      "tip": "Огляд умовний: тільки після проходження імміграції та отримання готелю.",
+      "image": "assets/book2021/13-beijing-chap-op-chi16.webp"
+    },
+    {
+      "city": "Пекін",
+      "date": "26.10",
+      "title": "Dashilan - купецькі вулиці",
+      "chinese": "大栅栏",
+      "body": "Торговий район на захід від Qianmen історично пов’язаний з аптеками, крамницями та театральною культурою. Сьогодні це поєднання історичних брендів, сучасного туризму й житлових хутунів.",
+      "genre": "Міська історія",
+      "source": "https://english.beijing.gov.cn/specials/centralaxis/sightseeingalongthecentralaxis/202206/t20220602_2728693.html",
+      "tip": "Замість поспішної спроби потрапити всередину Tiananmen.",
+      "image": "assets/book2021/13-beijing-chap-op-chi16.webp"
+    },
+    {
+      "city": "Пекін",
+      "date": "04.11",
+      "title": "Badaling - Великий мур як оборонна інфраструктура",
+      "chinese": "八达岭长城",
+      "body": "Твердиня на гірських перевалах поблизу Пекіна пояснює роль мурів, сигналізації та місцевої топографії для контролю проходів. Враження найкраще отримувати не з кількості сходинок, а з огляду оборонних ліній у ландшафті.",
+      "genre": "Історія/ризик",
+      "source": "https://english.beijing.gov.cn/specials/ticketing/attractions/202407/t20240717_3751609.html",
+      "tip": "Лише за наявності перевіреного зворотного HSR і безпечного запасу до CZ673.",
+      "image": "assets/book2021/13-beijing-chap-op-chi16.webp"
+    }
+  ],
+  "foods": [
+    {
+      "city": "Гонконг",
+      "name": "腸粉 Cheung fun",
+      "description": "Рисовий рулет, ніжний, солонувато-солодкий",
+      "budget": "HKD 18-35",
+      "source": "https://www.discoverhongkong.com/eng/place-to-go/travel.guide-hop-yik-tai.html"
+    },
+    {
+      "city": "Гонконг",
+      "name": "煲仔飯 Claypot rice",
+      "description": "Рис зі скоринкою, м’ясом/овочами",
+      "budget": "HKD 55-100",
+      "source": "https://www.discoverhongkong.com/eng/food-and-drink/local-cuisine-to-try-on-temple-street.html"
+    },
+    {
+      "city": "Гонконг",
+      "name": "雞蛋仔 Egg waffle",
+      "description": "Хрустка солодка вафля",
+      "budget": "HKD 20-40",
+      "source": "https://www.discoverhongkong.com/eng/food-and-drink/must-visit-dai-pai-dongs.html"
+    },
+    {
+      "city": "Гонконг",
+      "name": "魚蛋 Curry fish balls",
+      "description": "Пружні рибні кульки з карі",
+      "budget": "HKD 12-30",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html"
+    },
+    {
+      "city": "Гонконг",
+      "name": "菠蘿包 Pineapple bun",
+      "description": "М’яка булка з хрусткою скоринкою; ананас не обов’язковий",
+      "budget": "HKD 12-28",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html"
+    },
+    {
+      "city": "Гонконг",
+      "name": "絲襪奶茶 Milk tea",
+      "description": "Міцний чорний чай із молоком, іноді дуже солодкий",
+      "budget": "HKD 18-35",
+      "source": "https://www.discoverhongkong.com/eng/neighbourhoods/sham-shui-po.html"
+    },
+    {
+      "city": "Шеньчжень",
+      "name": "肠粉 Cantonese rice rolls",
+      "description": "Рулетики з рисового тіста й соусу",
+      "budget": "CNY 8-22",
+      "source": "https://en.wikivoyage.org/wiki/Shenzhen"
+    },
+    {
+      "city": "Шеньчжень",
+      "name": "烧腊饭 Roast meat rice",
+      "description": "Смажене/запечене м’ясо з рисом",
+      "budget": "CNY 18-35",
+      "source": "https://en.wikivoyage.org/wiki/Shenzhen"
+    },
+    {
+      "city": "Гуанчжоу",
+      "name": "虾饺 Har gow",
+      "description": "Прозоре тісто з креветкою, легкий смак",
+      "budget": "CNY 15-35",
+      "source": "https://en.wikivoyage.org/wiki/Guangzhou"
+    },
+    {
+      "city": "Гуанчжоу",
+      "name": "烧卖 Shumai",
+      "description": "Парова відкрита пельменна закуска",
+      "budget": "CNY 12-28",
+      "source": "https://en.wikivoyage.org/wiki/Guangzhou"
+    },
+    {
+      "city": "Гуанчжоу",
+      "name": "叉烧包 Char siu bao",
+      "description": "Парова булка зі солодкуватою свининою",
+      "budget": "CNY 12-28",
+      "source": "https://en.wikivoyage.org/wiki/Guangzhou"
+    },
+    {
+      "city": "Гуанчжоу",
+      "name": "双皮奶 Double-skin milk",
+      "description": "Молочний десерт, ніжний, солодкий",
+      "budget": "CNY 12-25",
+      "source": "https://en.wikivoyage.org/wiki/Guangzhou"
+    },
+    {
+      "city": "Чжухай",
+      "name": "生蚝 Grilled oysters",
+      "description": "Морепродукти, часник, гострота за вибором",
+      "budget": "CNY 10-30 / шт",
+      "source": "https://en.wikivoyage.org/wiki/Zhuhai"
+    },
+    {
+      "city": "Макао",
+      "name": "葡挞 Portuguese egg tart",
+      "description": "Хрустке тісто, карамелізована яєчна начинка",
+      "budget": "MOP 10-16",
+      "source": "https://en.wikivoyage.org/wiki/Macau"
+    },
+    {
+      "city": "Макао",
+      "name": "猪扒包 Pork chop bun",
+      "description": "Котлета/відбивна в хлібі, солонувате",
+      "budget": "MOP 35-65",
+      "source": "https://en.wikivoyage.org/wiki/Macau"
+    },
+    {
+      "city": "Макао",
+      "name": "免治 Minchi",
+      "description": "Рубане м’ясо/картопля/рис - маканезька страва",
+      "budget": "MOP 60-110",
+      "source": "https://en.wikivoyage.org/wiki/Macau"
+    },
+    {
+      "city": "Пекін",
+      "name": "煎饼 Jianbing",
+      "description": "Солоний млинець з яйцем та хрусткою начинкою",
+      "budget": "CNY 8-20",
+      "source": "https://en.wikivoyage.org/wiki/Beijing"
+    },
+    {
+      "city": "Пекін",
+      "name": "炸酱面 Zhajiangmian",
+      "description": "Локшина з густим соусом, часто з м’ясом",
+      "budget": "CNY 18-40",
+      "source": "https://en.wikivoyage.org/wiki/Beijing"
+    }
+  ],
+  "lounges": [
+    {
+      "airport": "LHR",
+      "flight": "25.10 21:30 CZ674",
+      "title": "Plaza Premium T4",
+      "location": "T4 після security, 2F, навпроти A10/B10",
+      "hours": "05:00-22:00, максимум 2 години",
+      "status": "РЕАЛІСТИЧНО",
+      "notes": "З вашим T4 boarding pass; обмежена місткість; вечір приблизно 19:00-20:15.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=LHR13"
+    },
+    {
+      "airport": "LHR",
+      "flight": "25.10",
+      "title": "Blush Lounge T4",
+      "location": "T4 після security, біля Gate 2",
+      "hours": "У неділю для карткового входу 07:00-10:30 та 15:30-17:30",
+      "status": "НЕ ПІДХОДИТЬ УВЕЧЕРІ",
+      "notes": "Не плутати довший комерційний графік із часом доступу для карт.",
+      "source": "https://www.plazapremiumlounge.com/en-uk/find/europe/united-kingdom/london/london-heathrow-airport/blush-departures-terminal-four"
+    },
+    {
+      "airport": "LHR",
+      "flight": "25.10",
+      "title": "Evergreen Bar & Restaurant T3",
+      "location": "T3 після security",
+      "hours": "За умовами каталогу; потребує T3 boarding pass",
+      "status": "НЕДОСТУПНО З Т4",
+      "notes": "Посадковий талон на CZ674 T4 не дає вільного доступу в airside T3.",
+      "source": "https://www.heathrow.com/at-the-airport/airport-maps/travel-between-terminals"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "The Lounge / East Pacific",
+      "location": "Міжнародні departures після security",
+      "hours": "Залежить від зали",
+      "status": "ПРІОРИТЕТ",
+      "notes": "Можливі після повторного виходу на міжнародний рейс; перевірити актуальний gate.",
+      "source": "https://airport.mastercard.com/en/lounge-finder"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "Comfort Zone біля C54",
+      "location": "Domestic Departures, 2F",
+      "hours": "08:00-21:00",
+      "status": "НЕ ПІДХОДИТЬ",
+      "notes": "Одна процедура за 24 години, але зона внутрішніх рейсів.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX5S"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "Comfort Zone навпроти D72",
+      "location": "Domestic Departures, 2F",
+      "hours": "08:00-20:00",
+      "status": "НЕ ПІДХОДИТЬ",
+      "notes": "Одна процедура за 24 години; внутрішня зона.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX9S"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11 14:05 CZ356",
+      "title": "Putien",
+      "location": "T1 East Hall, Level 7 food court, airside",
+      "hours": "08:00-19:00",
+      "status": "ЗА УМОВАМИ",
+      "notes": "Один set menu за 24 години на учасника/гостя; попередження про повторні переваги за одну подорож.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=HKG15D"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11",
+      "title": "Plaza Premium / Kyra",
+      "location": "T1 airside, місце залежить від конкретної зали",
+      "hours": "За правилами залу",
+      "status": "МОЖЛИВО",
+      "notes": "Після перевірки права на повторний вхід та відстані до gate.",
+      "source": "https://airport.mastercard.com/en/lounge-finder"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11",
+      "title": "Taste by Priceless",
+      "location": "T1 West Hall near Gate 40, L7",
+      "hours": "06:00-00:00",
+      "status": "НЕ АВТОМАТИЧНО БЕЗКОШТОВНО",
+      "notes": "На скриншоті World Legend безкоштовно; World Elite мав платну спецпропозицію HKD550 до 30.09.2026, яка вже закінчилась.",
+      "source": "https://airport.mastercard.com/en/lounge-finder"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11 CZ356 14:05",
+      "title": "Intervals Sky Bar & Restaurant",
+      "location": "T1 International, Sky Bridge, Level 9, між gates 12 та 24",
+      "hours": "07:00-23:30",
+      "status": "ЛІМІТ ЗА 24 ГОД",
+      "notes": "Один set menu за 24 години на учасника (за правилами ресторанної пропозиції). Може рахуватися окремим використанням разом із лаунжем.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=HKG17D"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11 CZ356 14:05",
+      "title": "Kyra Lounge - біля Gate 23",
+      "location": "T1 international departures Level 6",
+      "hours": "05:30-00:00",
+      "status": "ВХІД НЕ РАНІШЕ 3 ГОД",
+      "notes": "За правилами доступний не раніше ніж за 3 години до рейсу: для 14:05 не раніше 11:05. Із гейтами перевірити час переходу.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=HKG18"
+    },
+    {
+      "airport": "HKG",
+      "flight": "03.11 CZ356 14:05",
+      "title": "Kyra Lounge - біля Gate 40",
+      "location": "T1 West Hall Level 7, 10-15 хв пішки із East Hall",
+      "hours": "06:00-00:00",
+      "status": "ВХІД НЕ РАНІШЕ 3 ГОД",
+      "notes": "Для рейсу 14:05 - з 11:05; стежити за часом повернення до gate.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=HKG19"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "East Pacific Passenger Lounge",
+      "location": "International Departures, після security, ліфтом на 3F, Pay Lounge",
+      "hours": "24 години за поточною англійською карткою",
+      "status": "ПІДХОДИТЬ ДЛЯ МІЖНАРОДНОГО РЕЙСУ",
+      "notes": "Максимум 3 години, доступ за місткістю; окремі послуги та приватні кімнати платні.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "China Southern VIP Lounge 2",
+      "location": "Domestic departures, 2F біля Gate 33, Concourse B",
+      "hours": "05:00 - останній рейс CZ",
+      "status": "НЕ ПІДХОДИТЬ",
+      "notes": "Незважаючи на назву China Southern, це domestic зал, його не можна вважати доступним із CZ355 або CZ673.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX11"
+    },
+    {
+      "airport": "PKX",
+      "flight": "27.10 / 04.11",
+      "title": "China Southern VIP Lounge 3",
+      "location": "Domestic departures, 3F праворуч після security",
+      "hours": "05:00 - останній рейс CZ",
+      "status": "НЕ ПІДХОДИТЬ",
+      "notes": "Domestic-зона, не міжнародні CZ355/CZ673.",
+      "source": "https://airport.mastercard.com/en/lounge-finder/lounge?loungecode=PKX12"
+    }
+  ],
+  "plans": [
+    {
+      "id": "airport_taxi_qinghe",
+      "title": "A · Безкоштовний готель біля PKX + раннє таксі до Qinghe",
+      "night": "03-04.11: за умови підтвердженого безкоштовного готелю",
+      "steps": [
+        [
+          "04:30-04:45",
+          "Вихід із транзитного готелю; замовлене заздалегідь таксі"
+        ],
+        [
+          "05:35-06:05",
+          "Орієнтовне прибуття Qinghe, 65-80 км із району PKX"
+        ],
+        [
+          "06:40",
+          "Умовний ранній HSR до Badaling, квиток потрібно купити"
+        ],
+        [
+          "07:30-08:50",
+          "Огляд Badaling після відкриття"
+        ],
+        [
+          "09:22-09:42",
+          "Умовний зворотний поїзд до Qinghe; квиток потрібно купити"
+        ],
+        [
+          "10:00-11:40",
+          "Qinghe → PKX: метро або таксі"
+        ],
+        [
+          "11:40-12:00",
+          "Цільове прибуття в аеропорт до рейсу 15:15"
+        ]
+      ],
+      "cost": "CNY 390-550 / двоє, якщо готель безкоштовний",
+      "risk": "Високий: раннє таксі, невідома адреса готелю, два HSR та міжнародний виліт",
+      "verdict": "Здійсненно лише із підтвердженими поїздами, резервним часом і трансфером."
+    },
+    {
+      "id": "qinghe_hotel",
+      "title": "B · Готель біля Qinghe 03.11 - найстабільніша схема для Badaling",
+      "night": "03.11 ввечері: метро PKX→Qinghe, ночівля пішки від вокзалу",
+      "steps": [
+        [
+          "03.11 18:30-21:30",
+          "Контроль у PKX, Airport Express і метро до Qinghe, заселення"
+        ],
+        [
+          "04.11 06:00-06:15",
+          "Вийти з готелю й пройти на станцію Qinghe"
+        ],
+        [
+          "06:40",
+          "Умовний HSR до Badaling"
+        ],
+        [
+          "07:30-08:50",
+          "Огляд муру"
+        ],
+        [
+          "09:22-09:42",
+          "Умовний HSR назад"
+        ],
+        [
+          "10:00-11:45",
+          "Qinghe → PKX метро; або таксі приблизно 60-100 хв"
+        ],
+        [
+          "До 12:00",
+          "Бути в PKX"
+        ]
+      ],
+      "cost": "CNY 430-650 / двоє з готелем, метро і двома HSR",
+      "risk": "Помірно-високий: насамперед залежність від поїздів",
+      "verdict": "Найменше ранкових залежностей; готель платний."
+    },
+    {
+      "id": "direct_to_wall",
+      "title": "C · Від PKX одразу таксі до Великого муру, потім HSR назад",
+      "night": "03-04.11: умовно безкоштовний готель біля PKX",
+      "steps": [
+        [
+          "05:00-05:15",
+          "Виїзд із готелю безпосередньо до Badaling, ~119 км від PKX"
+        ],
+        [
+          "07:15-07:45",
+          "Приїзд залежно від трафіку й доступності таксі"
+        ],
+        [
+          "07:30-08:50",
+          "Огляд Badaling"
+        ],
+        [
+          "09:22-09:42",
+          "HSR Badaling → Qinghe"
+        ],
+        [
+          "10:00-11:45",
+          "Qinghe → PKX метро або таксі"
+        ]
+      ],
+      "cost": "CNY 470-650 / двоє з таксі, HSR і метро",
+      "risk": "Високий: великий односторонній пробіг до стіни; може знадобитися попереднє бронювання",
+      "verdict": "Менше пересадок на початку, але дорожче і з ризиком автодороги."
+    },
+    {
+      "id": "no_wall",
+      "title": "D · Без Великого муру: безпечний переліт",
+      "night": "03-04.11: PKX transit hotel, якщо нададуть",
+      "steps": [
+        [
+          "03.11 вечір",
+          "Трансфер до готелю"
+        ],
+        [
+          "04.11 ранок",
+          "Сніданок і повернення в PKX"
+        ],
+        [
+          "До 12:00",
+          "Вийти на міжнародну реєстрацію/security"
+        ],
+        [
+          "15:15",
+          "CZ673 до Лондона"
+        ]
+      ],
+      "cost": "CNY 0-150 / двоє на локальні витрати, якщо готель і трансфер безкоштовні",
+      "risk": "Низький за підтвердженого готелю",
+      "verdict": "Резерв за відсутності перевірених HSR-квитків або поганої погоди."
+    },
+    {
+      "id": "direct_roundtrip",
+      "title": "E · Приватне таксі PKX → Badaling → PKX (без HSR)",
+      "night": "03-04.11 безкоштовний готель PKX лише якщо реально доступний",
+      "steps": [
+        [
+          "04:55-05:15",
+          "Виїзд заздалегідь погодженим таксі/водієм"
+        ],
+        [
+          "07:00-07:40",
+          "Орієнтовне прибуття Badaling, залежно від трафіку"
+        ],
+        [
+          "07:30-08:45",
+          "Огляд муру в обмеженому темпі"
+        ],
+        [
+          "08:45-09:00",
+          "Повернутися до автомобіля, вирушити до PKX"
+        ],
+        [
+          "10:45-12:00",
+          "Орієнтовне прибуття до PKX; затори можуть змінити розклад"
+        ],
+        [
+          "15:15",
+          "Виліт CZ673"
+        ]
+      ],
+      "cost": "CNY 750-1000+ / двоє, ціна попередньо погоджена за весь маршрут і очікування",
+      "risk": "Високий: обидві ділянки автомобілем по ~119 км, дорожній трафік й доступність водія",
+      "verdict": "Зручніше без HSR і з валізами, але дорожче; потрібні фіксована ціна, ліцензований перевізник та резерв на дорогу."
+    }
+  ],
+  "source_basis": "Personal LoungeKey screenshots (24 Oct 2026), existing China v2.0 atlas, public websites checked 24 Oct 2026. Price bands in foods and scenario costs estimates, not live quotes."
+}

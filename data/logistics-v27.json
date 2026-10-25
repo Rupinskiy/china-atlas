@@ -1,0 +1,168 @@
+{
+  "version": "2.7",
+  "base": "2.6",
+  "date": "2026-10-25",
+  "status": "SOURCE_AUDITED_WITH_UNCERTAINTIES",
+  "sources": {
+    "nia_2026": "https://en.nia.gov.cn/n147418/n147463/c183412/content.html",
+    "nia_proof": "https://en.nia.gov.cn/n147418/n147468/c187308/content.html",
+    "mtr_faq": "https://www.highspeed.mtr.com.hk/res/pdf/China-240-Hr-Visa-Free-Transit-EN.pdf",
+    "exit_gd": "https://ka.sz.gov.cn/gkmlpt/content/12/12152/post_12152387.html?jump=true",
+    "china_consulate": "https://montreal.china-consulate.gov.cn/zjfw/lszj/fhqz/cjwd2/202505/t20250530_11637915.htm",
+    "ferry_macao": "https://www.macaotourism.gov.mo/en/travelessential/before-you-travel/travelling-to-macao?tab=by-land",
+    "macao_entry": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+    "metro2": "https://www.rome2rio.com/s/Beijing-Daxing-Airport-PKX/Qinghe-Station",
+    "metro_compare": "https://www.trip.com/transport/airport-station/beijing-daxing-international-airport-to-qinghe-railway-station.html",
+    "metro_beijing": "https://www.travelchinaguide.com/china-trains/qinghe-railway-station.htm",
+    "caotaxi": "https://www.rome2rio.com/s/Caoqiao-Station/Qinghe-Station",
+    "daxing": "https://www.travelchinaguide.com/cityguides/beijing/daxing-airport/",
+    "gzeast": "https://www.rome2rio.com/s/Guangzhou-East-Station/Guangzhou-South",
+    "gzcenter": "https://www.rome2rio.com/s/Haizhu-Square/Guangzhou-South",
+    "gzmetro": "https://www.metroman.cn/en/cities/guangzhou/stations/haizhu-square"
+  },
+  "visa": {
+    "sequence": "Hong Kong -> Mainland China via West Kowloon on 2026-10-28 -> Macau via Gongbei on 2026-10-31 -> Hong Kong",
+    "confirmed": [
+      "Ukraine eligible for 240h TWOV",
+      "Macau is eligible third region distinct from Hong Kong",
+      "West Kowloon designated entry port",
+      "Other open ports in Guangdong may be used for exit after TWOV entry"
+    ],
+    "not_confirmed": [
+      "Specific package of proof for departure by foot via Gongbei accepted at West Kowloon",
+      "Reserved seat and fixed date for Macau-bound segment: walking border crossing has no seat"
+    ],
+    "document_pack": [
+      "Two Ukrainian passports",
+      "G388 Hong Kong West Kowloon -> Futian",
+      "Guangzhou/Zhuhai hotel bookings",
+      "Chengxin Apartment Zhuhai 2026-10-30 to 2026-10-31",
+      "Days Hostel Hong Kong 2026-10-31 to 2026-11-03",
+      "Hong Kong flight 2026-11-03",
+      "Actual ferry or cross-border coach ticket to Macau only if genuinely booked"
+    ],
+    "optional_ferry": "Wanzai Pier 珠海湾仔口岸 -> Macau Inner Harbour 澳門內港: government tourism office confirms route but advance reservable seat for 31 Oct unverified"
+  },
+  "pkx_qinghe": {
+    "flight_arrival": "2026-11-03 17:25 PKX",
+    "train": "G7849 Qinghe 20:52 -> Badaling 21:11",
+    "suggested_station_target": "2026-11-03 20:05-20:20",
+    "routes": [
+      {
+        "name": "Public transport, fewest changes",
+        "segments": [
+          "Daxing Airport Express 大兴机场线: 大兴机场 -> 草桥 Caoqiao (~19-20min)",
+          "Line 10 10号线: 草桥 -> 知春路 Zhichunlu (~39min)",
+          "Line 13 13号线: 知春路 -> 清河 Qinghe (~14min)"
+        ],
+        "transfers": 2,
+        "duration_mins_range": [
+          78,
+          105
+        ],
+        "cny_for_two_range": [
+          80,
+          90
+        ],
+        "remarks": "Indicative route planning; 1h13 or 1h42 in third-party tools depending on whether walking/waiting included. No guarantee for train."
+      },
+      {
+        "name": "Public transport via Line 19",
+        "segments": [
+          "大兴机场线: 大兴机场 -> 草桥",
+          "19号线: 草桥 -> 牡丹园 Mudanyuan",
+          "10号线: 牡丹园 -> 知春路 Zhichunlu",
+          "13号线: 知春路 -> 清河"
+        ],
+        "transfers": 3,
+        "duration_mins_range": [
+          80,
+          110
+        ],
+        "cny_for_two_range": [
+          80,
+          90
+        ],
+        "remarks": "More transfers, may be faster during peak hour only if transfer timing favourable; not reliably faster overall."
+      },
+      {
+        "name": "Hybrid train + road",
+        "segments": [
+          "Airport Express 大兴机场 -> 草桥 (~20min)",
+          "Taxi/Didi 草桥 -> 清河 (approx 24.6km)"
+        ],
+        "transfers": 1,
+        "duration_mins_range": [
+          55,
+          100
+        ],
+        "cny_for_two_range": [
+          145,
+          165
+        ],
+        "remarks": "Indicative baseline; rush-hour road delays can erase time gain."
+      },
+      {
+        "name": "Taxi direct",
+        "segments": [
+          "PKX -> Qinghe 67-71 km"
+        ],
+        "transfers": 0,
+        "duration_mins_range": [
+          50,
+          110
+        ],
+        "cny_for_two_range": [
+          220,
+          300
+        ],
+        "remarks": "Evening peak-hour congestion; availability and pickup queues variable."
+      }
+    ]
+  },
+  "guangzhou": {
+    "booked": "Four Seasons Flower Apartment (Guangzhou South Railway Station Store)",
+    "booked_paid_cny": 58.84,
+    "refundable": false,
+    "location": "No.14-1 Toumiao Road, Shibi Street, Panyu, Guangzhou",
+    "arrival": "C8004 to 广州东 2026-10-29 08:57",
+    "departure": "D1899 from 广州南 2026-10-30 21:59",
+    "issue": "Convenient for departure station, not central sightseeing. Requires metro commute to old city, luggage movement; NOT a train-time conflict.",
+    "options": [
+      {
+        "option": "Keep booked south hotel",
+        "new_hotel_cost_cny": 0,
+        "estimated_metro_cost_cny_two_people_return": [
+          16,
+          28
+        ],
+        "time_extra_vs_center_mins": [
+          70,
+          140
+        ],
+        "recommendation": "Best cash-budget choice; visit city first 29 Oct and return to south hotel at night. On Oct 30 travel from south to city and then to south at 20:00."
+      },
+      {
+        "option": "Book extra centre hotel, leave south unused",
+        "candidate_district": "Haizhu Square 海珠广场, within ~5-10 min walk of Metro Line 2",
+        "new_hotel_cost_cny": null,
+        "old_sunk_cost_cny": 58.84,
+        "estimated_metro_savings_cny_two": [
+          12,
+          24
+        ],
+        "estimated_time_saved_mins": [
+          65,
+          125
+        ],
+        "recommendation": "Only if real central room cost and comfort/time benefit justify forfeiting prepaid south room; older archive prices are not availability."
+      }
+    ],
+    "metro": [
+      "广州东 -> 公园前 Line 1 -> 海珠广场 Line 2: ~25-40 min including walking",
+      "海珠广场 -> 广州南 Line 2 direct: ~29 min in train; allow ~45-60 min door-to-platform"
+    ],
+    "latest_depart_center": "2026-10-30 20:00-20:15 (Haizhu Square area)",
+    "arrive_station_target": "2026-10-30 21:00-21:15"
+  }
+}

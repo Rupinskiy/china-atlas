@@ -1,0 +1,97 @@
+[
+  {
+    "id": "passport",
+    "label": "Два оригінали українських паспортів; строк дії й зв’язок із UKVI перевірені",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "child",
+    "label": "Підписана згода на подорож неповнолітнього й документи про спорідненість",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "flight",
+    "label": "Чотири сегменти CZ перевірені у перевізника; check-in, термінал, норми багажу",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "overnight1",
+    "label": "26→27.10 PKX: ваучер готелю CZ або оплачений резерв",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "hk1",
+    "label": "27→28.10 Hong Kong: готель із підтвердженням",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "suitcases",
+    "label": "HK готель письмово підтвердив зберігання двох валіз до 31.10",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "shen",
+    "label": "28→29.10 Shenzhen: оплачено / підтверджено",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "guang",
+    "label": "29→30.10 Guangzhou: оплачено / підтверджено",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "zhuhai",
+    "label": "30→31.10 Zhuhai: оплачено / підтверджено",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "hk2",
+    "label": "31.10→03.11 Hong Kong: оплачено / підтверджено; late check-in",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "hsr",
+    "label": "HSR 28.10 West Kowloon→Futian: квитки з паспортами на обох",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "transitproof",
+    "label": "Визначено й документовано реальний подальший виїзд із КНР до Макао",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "macau",
+    "label": "Macao: дозвіл на в’їзд/плата й вимоги до коштів перевірені",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "overnight2",
+    "label": "03→04.11 PKX/Qinghe: надійний підтверджений варіант",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "badaling",
+    "label": "Badaling: підтверджено зворотний транспорт АБО прийнято рішення скасувати",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "insurance",
+    "label": "Реальний страховий сертифікат з країнами й іменами перевірений",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "wallet",
+    "label": "Alipay / WeChat Pay / Octopus / запасна банківська картка перевірені",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "phone",
+    "label": "Pixel eSIM, offline maps, український TTS голос і translation test зроблені",
+    "status": "unconfirmed_default"
+  },
+  {
+    "id": "lounge",
+    "label": "LoungeKey live entitlement + гості й умови конкретних lounge/restaurant перевірені",
+    "status": "unconfirmed_default"
+  }
+]

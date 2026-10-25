@@ -1,0 +1,210 @@
+{
+ "how": "Посилання відкривають Organic Maps (або іншу офлайн-карту). Якщо регіони Beijing, Guangdong, Hong Kong, Macau скачано, пошук і піша маршрутизація працюють без інтернету: відкрийте точку → «Маршрут» → пішки.",
+ "points": [
+  {
+   "name": "Days Hostel (Chungking Mansions, Block D)",
+   "link": "geo:0,0?q=Chungking%20Mansions%20Tsim%20Sha%20Tsui",
+   "kind": "готель"
+  },
+  {
+   "name": "Shenzhen Pengda Hotel",
+   "link": "geo:0,0?q=%E6%B7%B1%E5%9C%B3%E9%B9%8F%E8%BE%BE%E5%AE%BE%E9%A6%86",
+   "kind": "готель"
+  },
+  {
+   "name": "Four Seasons Flower Apartment",
+   "link": "geo:0,0?q=%E7%9F%B3%E5%A3%81%E8%A1%97%E5%A4%B4%E5%BA%99%E8%B7%AF",
+   "kind": "готель"
+  },
+  {
+   "name": "Chengxin Apartment",
+   "link": "geo:0,0?q=%E7%B2%A4%E5%8D%8E%E8%B7%AF%20225",
+   "kind": "готель"
+  },
+  {
+   "name": "Dongmen Inn Badaling",
+   "link": "geo:0,0?q=%E5%B2%94%E9%81%93%E6%9D%91",
+   "kind": "готель"
+  },
+  {
+   "name": "Beijing Daxing Airport (北京大兴国际机场)",
+   "link": "geo:39.5099,116.4109?q=Beijing%20Daxing%20Airport",
+   "kind": "POI (beijing, приблизна точка)"
+  },
+  {
+   "name": "Qianmen Street (前门大街)",
+   "link": "geo:39.8953,116.3987?q=Qianmen%20Street",
+   "kind": "POI (beijing, приблизна точка)"
+  },
+  {
+   "name": "Dashilar (大栅栏)",
+   "link": "geo:39.8951,116.3936?q=Dashilar",
+   "kind": "POI (beijing, приблизна точка)"
+  },
+  {
+   "name": "Hong Kong International Airport (香港國際機場)",
+   "link": "geo:22.308,113.9185?q=Hong%20Kong%20International%20Airport",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Tsim Sha Tsui Promenade (尖沙咀海濱長廊)",
+   "link": "geo:22.2949,114.1721?q=Tsim%20Sha%20Tsui%20Promenade",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Star Ferry Tsim Sha Tsui Pier (天星碼頭)",
+   "link": "geo:22.2937,114.1687?q=Star%20Ferry%20Tsim%20Sha%20Tsui%20Pier",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Victoria Peak viewpoint (太平山頂)",
+   "link": "geo:22.2759,114.1456?q=Victoria%20Peak%20viewpoint",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Hong Kong West Kowloon Station (香港西九龍站)",
+   "link": "geo:22.3047,114.1616?q=Hong%20Kong%20West%20Kowloon%20Station",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Futian Railway Station (福田站)",
+   "link": "geo:22.5375,114.062?q=Futian%20Railway%20Station",
+   "kind": "POI (shenzhen, приблизна точка)"
+  },
+  {
+   "name": "Huaqiangbei Electronics District (华强北电子市场)",
+   "link": "geo:22.5447,114.0857?q=Huaqiangbei%20Electronics%20District",
+   "kind": "POI (shenzhen, приблизна точка)"
+  },
+  {
+   "name": "Lianhuashan Park (莲花山公园)",
+   "link": "geo:22.5538,114.0602?q=Lianhuashan%20Park",
+   "kind": "POI (shenzhen, приблизна точка)"
+  },
+  {
+   "name": "Guangzhou South Railway Station (广州南站)",
+   "link": "geo:22.9897,113.2691?q=Guangzhou%20South%20Railway%20Station",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Chen Clan Ancestral Hall (陈家祠)",
+   "link": "geo:23.12983,113.24013?q=Chen%20Clan%20Ancestral%20Hall",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Shamian Island (沙面岛)",
+   "link": "geo:23.1073,113.2381?q=Shamian%20Island",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Museum of the Mausoleum of the Nanyue King (南越王博物院)",
+   "link": "geo:23.1426,113.2599?q=Museum%20of%20the%20Mausoleum%20of%20the%20Nanyue%20King",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Canton Tower (广州塔)",
+   "link": "geo:23.1065,113.3245?q=Canton%20Tower",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Beijing Road Pedestrian Street (北京路步行街)",
+   "link": "geo:23.1237,113.2694?q=Beijing%20Road%20Pedestrian%20Street",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Sacred Heart Cathedral (石室圣心大教堂)",
+   "link": "geo:23.1176,113.2582?q=Sacred%20Heart%20Cathedral",
+   "kind": "POI (guangzhou, приблизна точка)"
+  },
+  {
+   "name": "Zhuhai Railway Station (珠海站)",
+   "link": "geo:22.2176,113.5504?q=Zhuhai%20Railway%20Station",
+   "kind": "POI (zhuhai, приблизна точка)"
+  },
+  {
+   "name": "Gongbei Port (拱北口岸)",
+   "link": "geo:22.2162,113.5523?q=Gongbei%20Port",
+   "kind": "POI (zhuhai, приблизна точка)"
+  },
+  {
+   "name": "A-Ma Temple (媽閣廟)",
+   "link": "geo:22.1859,113.5322?q=A-Ma%20Temple",
+   "kind": "POI (macau, приблизна точка)"
+  },
+  {
+   "name": "Senado Square (議事亭前地)",
+   "link": "geo:22.1936,113.5394?q=Senado%20Square",
+   "kind": "POI (macau, приблизна точка)"
+  },
+  {
+   "name": "Ruins of St Paul’s (大三巴牌坊)",
+   "link": "geo:22.1978,113.5405?q=Ruins%20of%20St%20Paul%E2%80%99s",
+   "kind": "POI (macau, приблизна точка)"
+  },
+  {
+   "name": "Taipa Village (氹仔舊城區)",
+   "link": "geo:22.1551,113.5587?q=Taipa%20Village",
+   "kind": "POI (macau, приблизна точка)"
+  },
+  {
+   "name": "HZMB Macau Port (港珠澳大橋澳門口岸)",
+   "link": "geo:22.2009,113.585?q=HZMB%20Macau%20Port",
+   "kind": "POI (macau, приблизна точка)"
+  },
+  {
+   "name": "Tian Tan Buddha (天壇大佛)",
+   "link": "geo:22.2546,113.905?q=Tian%20Tan%20Buddha",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Tai O Fishing Village (大澳)",
+   "link": "geo:22.2535,113.8628?q=Tai%20O%20Fishing%20Village",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Po Lin Monastery (寶蓮禪寺)",
+   "link": "geo:22.2553,113.9043?q=Po%20Lin%20Monastery",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Nan Lian Garden (南蓮園池)",
+   "link": "geo:22.3386,114.2045?q=Nan%20Lian%20Garden",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Sham Shui Po (深水埗)",
+   "link": "geo:22.3306,114.1629?q=Sham%20Shui%20Po",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Stanley Market (赤柱市集)",
+   "link": "geo:22.2196,114.2135?q=Stanley%20Market",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Hong Kong International Airport (香港國際機場)",
+   "link": "geo:22.308,113.9185?q=Hong%20Kong%20International%20Airport",
+   "kind": "POI (hongkong, приблизна точка)"
+  },
+  {
+   "name": "Beijing Daxing Airport (北京大兴国际机场)",
+   "link": "geo:39.5099,116.4109?q=Beijing%20Daxing%20Airport",
+   "kind": "POI (beijing, приблизна точка)"
+  },
+  {
+   "name": "Badaling Great Wall (八达岭长城)",
+   "link": "geo:40.355,116.0184?q=Badaling%20Great%20Wall",
+   "kind": "POI (beijing, приблизна точка)"
+  },
+  {
+   "name": "London Heathrow Airport Terminal 4 (伦敦希思罗机场4号航站楼)",
+   "link": "geo:51.4593,-0.447?q=London%20Heathrow%20Airport%20Terminal%204",
+   "kind": "POI (london, приблизна точка)"
+  },
+  {
+   "name": "Beijing Daxing Airport (arrival) (北京大兴国际机场)",
+   "link": "geo:39.5099,116.4109?q=Beijing%20Daxing%20Airport%20%28arrival%29",
+   "kind": "POI (beijing, приблизна точка)"
+  }
+ ]
+}

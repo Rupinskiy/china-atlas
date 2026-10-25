@@ -1,0 +1,209 @@
+{
+ "wechat": [
+  "Відкрийте WeChat → іконка лупи (Пошук) угорі → введіть 湾仔客运口岸 → вкладка «Офіційні акаунти» (公众号) → відкрийте акаунт і натисніть «Підписатися» (关注).",
+  "Унизу акаунта є меню: оберіть пункт продажу квитків (购票 або 在线购票).",
+  "Оберіть маршрут 湾仔 → 澳门内港 (Wanzai → Inner Harbour). Уважно: правильний порт відправлення - Wanzai; помилковий вибір повертають з комісією 10%.",
+  "Оберіть дату 31.10.2026. Квиток в один бік діє весь день на будь-який рейс.",
+  "Додайте пасажирів (乘客): тип документа - паспорт (护照), ім'я латиницею як у паспорті, номер паспорта. Додайте Сашу окремо.",
+  "Оплатіть через WeChat Pay (прив'язана картка). Збережіть QR-коди квитків (скриншот) - на посадці їх сканують.",
+  "Скасування: у тому ж акаунті відкрийте свої замовлення (订单 / 我的订单) → оберіть квиток → повернення (退票). Невикористаний квиток повертають до 3 хвилин до відправлення з комісією 10%."
+ ],
+ "alipay": "Онлайн-продаж знайдено лише в WeChat (акаунти «湾仔客运口岸» і «澳门粤通船务»). Alipay приймають у касі на причалі Wanzai (готівка RMB, UnionPay, Alipay, WeChat Pay). Назви пунктів меню можуть дещо відрізнятися (KNOWN_UNVERIFIED).",
+ "cards": [
+  [
+   "26.10 (якщо виходите з аеропорту)",
+   [
+    [
+     "Entry Transportation Mode",
+     "Flight"
+    ],
+    [
+     "Arrival Flight Number",
+     "CZ674"
+    ],
+    [
+     "City of Entry",
+     "Beijing"
+    ],
+    [
+     "Port of Entry",
+     "Beijing Daxing International Airport"
+    ],
+    [
+     "Purpose of Entry",
+     "Transit"
+    ],
+    [
+     "Date of Entry",
+     "2026-10-26"
+    ],
+    [
+     "Destination City",
+     "Beijing"
+    ],
+    [
+     "Cities of Transit",
+     "не додавати"
+    ],
+    [
+     "Address in China",
+     "Beijing, Daxing; China Southern transit hotel, Beijing Daxing International Airport (уточнити на стійці)"
+    ],
+    [
+     "Inviting entities",
+     "No"
+    ],
+    [
+     "Date of Departure",
+     "2026-10-27"
+    ],
+    [
+     "Transportation Mode for Departure",
+     "Flight"
+    ],
+    [
+     "Departure Number",
+     "CZ355"
+    ],
+    [
+     "City of Departure",
+     "Beijing"
+    ],
+    [
+     "Port of Departure",
+     "Beijing Daxing International Airport"
+    ]
+   ]
+  ],
+  [
+   "28.10 (West Kowloon)",
+   [
+    [
+     "Entry Transportation Mode",
+     "Train"
+    ],
+    [
+     "Arrival Train Number",
+     "G388"
+    ],
+    [
+     "City of Entry",
+     "Shenzhen"
+    ],
+    [
+     "Port of Entry",
+     "West Kowloon (西九龙)"
+    ],
+    [
+     "Purpose of Entry",
+     "Transit"
+    ],
+    [
+     "Date of Entry",
+     "2026-10-28"
+    ],
+    [
+     "Destination City",
+     "Guangzhou"
+    ],
+    [
+     "Cities of Transit",
+     "Shenzhen, Zhuhai"
+    ],
+    [
+     "Address in China",
+     "Shenzhen, Luohu; Shenzhen Pengda Hotel, 12F Real Estate Building, 1007 Renmin South Road"
+    ],
+    [
+     "Inviting entities",
+     "No"
+    ],
+    [
+     "Date of Departure",
+     "2026-10-31"
+    ],
+    [
+     "Transportation Mode for Departure",
+     "Vessel (якщо показуєте квиток Wanzai) або On foot (Gongbei)"
+    ],
+    [
+     "Departure Number",
+     "для порому - номер квитка або «Wanzai-Macau Inner Harbour ferry»; для пішого - порожньо"
+    ],
+    [
+     "City of Departure",
+     "Zhuhai"
+    ],
+    [
+     "Port of Departure",
+     "Wanzai (湾仔) або Gongbei (拱北)"
+    ]
+   ]
+  ],
+  [
+   "03.11 (Beijing Daxing)",
+   [
+    [
+     "Entry Transportation Mode",
+     "Flight"
+    ],
+    [
+     "Arrival Flight Number",
+     "CZ356"
+    ],
+    [
+     "City of Entry",
+     "Beijing"
+    ],
+    [
+     "Port of Entry",
+     "Beijing Daxing International Airport"
+    ],
+    [
+     "Purpose of Entry",
+     "Transit"
+    ],
+    [
+     "Date of Entry",
+     "2026-11-03"
+    ],
+    [
+     "Destination City",
+     "Beijing"
+    ],
+    [
+     "Address in China",
+     "Beijing, Yanqing; Dongmen Inn, No. 25 Chadao Village, Badaling Town"
+    ],
+    [
+     "Date of Departure",
+     "2026-11-04"
+    ],
+    [
+     "Transportation Mode for Departure",
+     "Flight"
+    ],
+    [
+     "Departure Number",
+     "CZ673"
+    ],
+    [
+     "City of Departure",
+     "Beijing"
+    ],
+    [
+     "Port of Departure",
+     "Beijing Daxing International Airport"
+    ]
+   ]
+  ]
+ ],
+ "cards_note": "Ваш вибір для картки 28.10: виїзд пішки через Gongbei. Якщо на West Kowloon покажете квиток на пором Wanzai, картка і квиток вказуватимуть на різні пункти виїзду; офіцер може про це запитати. Узгоджено було б так: або в картці Vessel + Wanzai, або показувати документ, що відповідає Gongbei. Порада: дані картки мають збігатися з документами, які показуєте на кордоні (квитки, бронювання). Сашу можна додати на кроці 5 «Accompanying Person(s)» або подати окрему картку (як ви робили раніше). Назви пунктів у списку «Purpose of Entry» перевірте в самій формі (KNOWN_UNVERIFIED).",
+ "heathrow": [
+  "Джерело часу стійки: сторінка рейсу CZ674 на heathrow.com (стійка з 17:00, зона C). Раніше стійка не відкривається; онлайн-реєстрація в застосунку China Southern прискорює, але валізи все одно здаються на стійці.",
+  "Blush Lounge для власників карток у неділю: 07:00-10:30 і 15:30-17:30 (сайт Plaza Premium). Якщо прийти після 17:30 - за карткою не пустять; Plaza Premium T4 працює до 22:00.",
+  "Обидва лаунджі є в LoungeKey (Mastercard Airport Experiences). Обмеження другого візиту не в правилах «безлімітних» візитів, а в годинах Blush; максимум 3 години перебування.",
+  "Шанс на два лаунджі: бути першими на стійці о 17:00, пройти безпеку до ≈17:25 і зайти в Blush, потім перейти в Plaza Premium (умови LoungeKey для двох візитів перевірте в застосунку).",
+  "Гонконг (HKG), Terminal 1 біля виходу 40: з серпня 2026 працює Mastercard Taste by Priceless - клуб-ресторан для власників карток Mastercard; умови доступу для вашої картки перевірте в застосунку Mastercard Airport Experiences."
+ ]
+}

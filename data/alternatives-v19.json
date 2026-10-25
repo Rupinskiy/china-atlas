@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wikivoyage",
+    "url": "https://en.wikivoyage.org/wiki/Hong_Kong",
+    "use": "CC BY-SA 4.0, статті мандрівників, можна з вказанням авторів, історії і share-alike; перевіряти POI."
+  },
+  {
+    "name": "Wikivoyage Macau",
+    "url": "https://en.wikivoyage.org/wiki/Macau",
+    "use": "Маршрути, готелі, локальні райони; регулярно звіряти дати редагування."
+  },
+  {
+    "name": "Wikidata",
+    "url": "https://query.wikidata.org/",
+    "use": "Відкриті структурні POI, координати/посилання; об’єктні центри не входи."
+  },
+  {
+    "name": "OpenStreetMap + Overpass",
+    "url": "https://overpass-turbo.eu/",
+    "use": "Вузли entrance=*, pedestrian ways; ODbL, потрібна атрибуція; зміщення з GCJ-02."
+  },
+  {
+    "name": "Wikimedia Commons",
+    "url": "https://commons.wikimedia.org/",
+    "use": "Фото та зображення з індивідуальними ліцензіями, автором і умовами адаптації."
+  },
+  {
+    "name": "HK Tourism Board",
+    "url": "https://www.discoverhongkong.com/eng/neighbourhoods/old-town-central.html",
+    "use": "Сучасні локальні маршрути; не автоматично CC для повторного копіювання."
+  },
+  {
+    "name": "HK Open Data / GTFS",
+    "url": "https://data.gov.hk/en-data/dataset/hk-td-tis_11-pt-headway-en",
+    "use": "Свіжі маршрути, частоти автобусів, GTFS; перевірка тимчасових змін у перевізників."
+  },
+  {
+    "name": "Macau Official Walking Route Map",
+    "url": "https://routemap.dscc.gov.mo/",
+    "use": "Офіційні карти пішохідних зв’язків і топографії."
+  },
+  {
+    "name": "Macau Tourism Office",
+    "url": "https://www.macaotourism.gov.mo/en",
+    "use": "Офіційні пам’ятки, актуальні заходи та туристичні маршрути."
+  },
+  {
+    "name": "Hong Kong LCSD",
+    "url": "https://www.lcsd.gov.hk/en/parks/nlg/index.html",
+    "use": "Режим роботи офіційних садів і музеїв, входи, адреси."
+  },
+  {
+    "name": "12306 + MTR",
+    "url": "https://www.highspeed.mtr.com.hk/en/guide/local-guides.html",
+    "use": "Залізничні процедури, рівні й виходи; бронювання окремо на 12306."
+  },
+  {
+    "name": "Valhalla OSS",
+    "url": "https://valhalla.github.io/valhalla/",
+    "use": "Open-source pedestrian routing engine; demo fair use, не вбудовано як гарантований production API."
+  },
+  {
+    "name": "Organic Maps",
+    "url": "https://organicmaps.app/",
+    "use": "Офлайн навігація OSM; потребує попередньо завантажених карт."
+  },
+  {
+    "name": "HK Gov attractions",
+    "url": "https://data.gov.hk/en-data/dataset/hk-cstb-cstb_tc-tc-hk-major-attractions-general-info/resource/9aed9df8-2d2d-47ff-b043-55c8ca308a00",
+    "use": "CSV з координатами й адресами, але датоване 2020, лише довідково."
+  }
+]

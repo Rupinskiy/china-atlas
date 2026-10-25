@@ -1,0 +1,236 @@
+[
+ {
+  "cat": "Переклад офлайн (мова і розмова)",
+  "name": "RTranslator",
+  "where": "github.com/niedev/RTranslator/releases (APK)",
+  "offline": "Так: Whisper + NLLB на телефоні",
+  "predownload": "Моделі 1.2 ГБ при першому запуску (Wi-Fi)",
+  "note": "Режим розмови з одним телефоном; китайська, українська, англійська, російська",
+  "status": "VERIFIED_WEB"
+ },
+ {
+  "cat": "Переклад офлайн",
+  "name": "Google Translate",
+  "where": "Google Play",
+  "offline": "Так, з офлайн-пакетами (текст і камера)",
+  "predownload": "Пакети: китайська, англійська, українська",
+  "note": "У материковому Китаї онлайн-функції Google працюють лише через роумінгову eSIM",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Переклад офлайн",
+  "name": "Microsoft Translator",
+  "where": "Google Play",
+  "offline": "Так, з офлайн-пакетами",
+  "predownload": "Китайська (спрощена і традиційна), українська",
+  "note": "Камера-OCR і розмова",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Словник і OCR",
+  "name": "Pleco",
+  "where": "Google Play / pleco.com",
+  "offline": "Так (словники); OCR - платний модуль",
+  "predownload": "Безкоштовні офлайн-словники",
+  "note": "Найкращий китайсько-англійський словник; рукописний ввід ієрогліфів",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Переклад (китайські)",
+  "name": "有道翻译官 Youdao",
+  "where": "офіційний сайт Youdao / китайські магазини",
+  "offline": "Частково (офлайн-пакети)",
+  "predownload": "Офлайн-пакет китайська-англійська",
+  "note": "Сильний OCR меню і табличок",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Переклад (китайські)",
+  "name": "百度翻译 Baidu Translate",
+  "where": "офіційний сайт Baidu",
+  "offline": "Частково",
+  "predownload": "Офлайн-пакет",
+  "note": "Альтернатива Youdao",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Диктування офлайн",
+  "name": "FUTO Voice Input",
+  "where": "futo.org (APK)",
+  "offline": "Так (Whisper на телефоні)",
+  "predownload": "Модель мови",
+  "note": "Українська/англійська/китайська диктовка в будь-яку клавіатуру",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Китайське голосове введення",
+  "name": "讯飞输入法 iFlytek Input",
+  "where": "офіційний сайт iFlytek",
+  "offline": "Обмежено (найкраще онлайн)",
+  "predownload": "-",
+  "note": "Найкраще розпізнавання мандаринської і кантонської",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "ШІ на телефоні офлайн",
+  "name": "Google AI Edge Gallery",
+  "where": "github.com/google-ai-edge/gallery (APK)",
+  "offline": "Так (моделі Gemma на телефоні)",
+  "predownload": "Модель 1-4 ГБ",
+  "note": "Питання по фото, переклад без мережі",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "ШІ на телефоні офлайн",
+  "name": "PocketPal AI",
+  "where": "GitHub / Google Play",
+  "offline": "Так",
+  "predownload": "Модель Qwen (сильна китайська)",
+  "note": "Резерв для перекладу і пояснень без мережі",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "OCR офлайн",
+  "name": "Text Fairy",
+  "where": "Google Play / F-Droid",
+  "offline": "Так (Tesseract)",
+  "predownload": "Китайський мовний пакет",
+  "note": "Розпізнає текст із фото без мережі",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Карти і навігація офлайн",
+  "name": "Organic Maps",
+  "where": "organicmaps.app / F-Droid",
+  "offline": "Так: справжня офлайн-маршрутизація пішки",
+  "predownload": "Регіони: Beijing, Guangdong, Hong Kong, Macau",
+  "note": "Пошук адрес офлайн; координати WGS84 (не плутати з китайськими картами GCJ-02)",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Карти і навігація офлайн",
+  "name": "OsmAnd",
+  "where": "osmand.net / F-Droid",
+  "offline": "Так",
+  "predownload": "Ті самі регіони",
+  "note": "Більше деталей, складніший інтерфейс",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Карти Китаю (онлайн)",
+  "name": "高德地图 Amap",
+  "where": "amap.com (APK)",
+  "offline": "Ні (найкращі дані онлайн)",
+  "predownload": "Офлайн-карта міста в застосунку",
+  "note": "Найточніші дані і транспорт у материку; вбудований виклик таксі",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Карти Китаю (онлайн)",
+  "name": "百度地图 Baidu Maps",
+  "where": "map.baidu.com (APK)",
+  "offline": "Частково",
+  "predownload": "Офлайн-пакет міста",
+  "note": "Резерв до Amap",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Залізниця",
+  "name": "铁路12306 China Railway",
+  "where": "12306.cn (APK)",
+  "offline": "Ні",
+  "predownload": "Увійти і зберегти квитки",
+  "note": "QR-квитки, зміни, повернення",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Транспорт HK",
+  "name": "MTR Mobile, Citymapper, KMB",
+  "where": "Google Play",
+  "offline": "Частково",
+  "predownload": "-",
+  "note": "Маршрути HK; Octopus окремо",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Оплата",
+  "name": "Alipay, WeChat (Weixin Pay)",
+  "where": "Google Play / офіційні сайти",
+  "offline": "Ні",
+  "predownload": "Прив'язати картку заздалегідь",
+  "note": "Метро, таксі, магазини материка",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Таксі",
+  "name": "DiDi (у застосунку або міні-програмі Alipay)",
+  "where": "Google Play",
+  "offline": "Ні",
+  "predownload": "Акаунт заздалегідь",
+  "note": "Ціна відома до поїздки",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Їжа і відгуки",
+  "name": "美团 Meituan, 大众点评 Dianping, 饿了么 Ele.me",
+  "where": "офіційні сайти / Alipay",
+  "offline": "Ні",
+  "predownload": "-",
+  "note": "Доставка в готель, купони, рейтинги",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Покупки і довідкові ціни",
+  "name": "京东 JD, 淘宝 Taobao, 闲鱼 Xianyu",
+  "where": "офіційні сайти",
+  "offline": "Ні",
+  "predownload": "-",
+  "note": "JD = орієнтир офіційної ціни перед торгом",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Що радять місцеві",
+  "name": "小红书 RedNote",
+  "where": "офіційний сайт / Google Play",
+  "offline": "Ні",
+  "predownload": "-",
+  "note": "Огляди місць і товарів китайською",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Китайські ШІ без VPN",
+  "name": "豆包 Doubao, DeepSeek, 千问 Qwen, Kimi, 元宝 Yuanbao",
+  "where": "офіційні сайти / магазини",
+  "offline": "Ні",
+  "predownload": "-",
+  "note": "Працюють у материку через місцеву мережу; фото-переклад меню",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Офлайн-енциклопедія",
+  "name": "Kiwix",
+  "where": "kiwix.org (APK)",
+  "offline": "Так",
+  "predownload": "ZIM: Wikivoyage (en), Wikipedia (uk) без фото",
+  "note": "Довідник без інтернету",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Офлайн-путівники",
+  "name": "Читач EPUB/PDF (ReadEra, Moon+)",
+  "where": "Google Play",
+  "offline": "Так",
+  "predownload": "13 путівників із вашої теки Drive",
+  "note": "Скачати файли на телефон до вильоту",
+  "status": "KNOWN_UNVERIFIED"
+ },
+ {
+  "cat": "Картка в'їзду",
+  "name": "移民局12367 NIA 12367",
+  "where": "офіційний сайт NIA / магазини",
+  "offline": "Ні",
+  "predownload": "Зберегти QR офлайн",
+  "note": "Нові картки на 26.10 (якщо вихід), 28.10, 03.11",
+  "status": "VERIFIED_WEB"
+ }
+]

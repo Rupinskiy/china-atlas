@@ -1,0 +1,110 @@
+[
+ {
+  "cat": "Транспорт",
+  "uk": "Мені потрібно на вокзал Shenzhen (Luohu), не Shenzhen North.",
+  "en": "I need Shenzhen Railway Station (Luohu), not Shenzhen North.",
+  "zh": "我要去深圳站（罗湖），不是深圳北站。"
+ },
+ {
+  "cat": "Транспорт",
+  "uk": "Будь ласка, відвезіть нас за адресою з телефону.",
+  "en": "Please take us to the address on my phone.",
+  "zh": "请送我们到我手机上的地址。"
+ },
+ {
+  "cat": "Транспорт",
+  "uk": "Скільки коштує до цього місця?",
+  "en": "How much to this place?",
+  "zh": "到这里多少钱？"
+ },
+ {
+  "cat": "Транспорт",
+  "uk": "Де вхід на поїзд G388?",
+  "en": "Where is the entrance for train G388?",
+  "zh": "G388次列车在哪里进站？"
+ },
+ {
+  "cat": "Транспорт",
+  "uk": "Ми спізнюємося на потяг, можна швидше?",
+  "en": "We are late for the train, can you go faster?",
+  "zh": "我们赶火车，能快一点吗？"
+ },
+ {
+  "cat": "Кордон",
+  "uk": "Ми громадяни України, транзит 240 годин, виїзд до Макао 31.10.",
+  "en": "We are Ukrainian citizens on 240-hour transit, leaving for Macau on 31 October.",
+  "zh": "我们是乌克兰公民，办理240小时过境免签，10月31日离境去澳门。"
+ },
+ {
+  "cat": "Кордон",
+  "uk": "Це мій син, йому 16 років; ось згода матері.",
+  "en": "This is my son, he is 16; here is his mother's consent.",
+  "zh": "这是我儿子，16岁；这是他母亲的同意书。"
+ },
+ {
+  "cat": "Готель",
+  "uk": "У нас бронювання на два гості, ось підтвердження.",
+  "en": "We have a booking for two guests, here is the confirmation.",
+  "zh": "我们预订了两位客人，这是确认单。"
+ },
+ {
+  "cat": "Готель",
+  "uk": "Можна залишити дві валізи до 31 жовтня?",
+  "en": "Can we leave two suitcases until 31 October?",
+  "zh": "我们可以把两个行李箱寄存到10月31日吗？"
+ },
+ {
+  "cat": "Готель",
+  "uk": "Ми приїдемо пізно, після 23:00.",
+  "en": "We will arrive late, after 23:00.",
+  "zh": "我们会很晚到，23点以后。"
+ },
+ {
+  "cat": "Їжа",
+  "uk": "Без гострого, будь ласка.",
+  "en": "Not spicy, please.",
+  "zh": "请不要辣。"
+ },
+ {
+  "cat": "Їжа",
+  "uk": "Що ви порадите з місцевих страв?",
+  "en": "What local dish do you recommend?",
+  "zh": "有什么本地菜推荐？"
+ },
+ {
+  "cat": "Їжа",
+  "uk": "Рахунок, будь ласка; можна карткою?",
+  "en": "The bill, please; can I pay by card?",
+  "zh": "请结账，可以刷卡吗？"
+ },
+ {
+  "cat": "Покупки",
+  "uk": "Це оригінал? Яка гарантія?",
+  "en": "Is it original? What is the warranty?",
+  "zh": "这是正品吗？保修多久？"
+ },
+ {
+  "cat": "Покупки",
+  "uk": "Можна дешевше?",
+  "en": "Can you make it cheaper?",
+  "zh": "可以便宜一点吗？"
+ },
+ {
+  "cat": "Допомога",
+  "uk": "Мені потрібна допомога.",
+  "en": "I need help.",
+  "zh": "我需要帮助。"
+ },
+ {
+  "cat": "Допомога",
+  "uk": "Де найближча лікарня?",
+  "en": "Where is the nearest hospital?",
+  "zh": "最近的医院在哪里？"
+ },
+ {
+  "cat": "Допомога",
+  "uk": "Я загубив телефон / паспорт.",
+  "en": "I lost my phone / passport.",
+  "zh": "我丢了手机/护照。"
+ }
+]

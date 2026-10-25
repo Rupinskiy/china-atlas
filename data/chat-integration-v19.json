@@ -1,0 +1,102 @@
+[
+  {
+    "topic": "Маршрут 11 днів, рейси CZ, географічне кільце",
+    "status": "included",
+    "basis": "current thread; 00_orientation.md; canonical guide"
+  },
+  {
+    "topic": "24h PKX + 240h HSR, Visa/entry permit/Gongbei",
+    "status": "partial",
+    "basis": "Правило підтверджене NIA; відсутній зафіксований прийнятий прикордонником доказ пішохідного виходу."
+  },
+  {
+    "topic": "HSR actual bought departures/platforms",
+    "status": "missing",
+    "basis": "Немає підтверджених PNR, реальних поїздів, платформ."
+  },
+  {
+    "topic": "China Southern transit hotels vs Qinghe overnight",
+    "status": "conflict",
+    "basis": "Архів CLD080 пропонує Qinghe 3 Nov; Atlas тримав China Southern PKX на обидві ночі."
+  },
+  {
+    "topic": "LHR/PKX/HKG lounges and welcome Mastercard",
+    "status": "partial",
+    "basis": "Зали й умови описані; немає індивідуального confirmed entitlement або guest entry."
+  },
+  {
+    "topic": "Checked-through baggage + Hong Kong 3-day storage",
+    "status": "partial",
+    "basis": "Умови описані; потрібне підтвердження baggage tag і hotel storage."
+  },
+  {
+    "topic": "Hotels by exact date / confirmed booking",
+    "status": "partial",
+    "basis": "Інтервали заплановані; фінальних бронювань не знайдено."
+  },
+  {
+    "topic": "WeChat/Alipay Android KYC / Octopus",
+    "status": "partial",
+    "basis": "Є інструкції; немає перевірки успішного платежу."
+  },
+  {
+    "topic": "eSIM Sidekick and Google China translation stack",
+    "status": "partial",
+    "basis": "Описані додатки й витрати; не перевірено на живому Pixel."
+  },
+  {
+    "topic": "Visa Infinite actual insurance certificate",
+    "status": "missing",
+    "basis": "Немає персонального сертифіката із застрахованими та територіями."
+  },
+  {
+    "topic": "Parental consent / travel documents for minor",
+    "status": "partial",
+    "basis": "Шаблон є; законний підпис/оригінал не підтверджений."
+  },
+  {
+    "topic": "Food guide / street eats / Chinese fast food",
+    "status": "included",
+    "basis": "Текстова енциклопедія є, але ціни не верифіковано по закладах; фото неповні."
+  },
+  {
+    "topic": "Museums cultural encyclopaedia/EPUB sources",
+    "status": "included",
+    "basis": "Контент присутній, але історичні книги 2010-2024 не доказ чинних правил."
+  },
+  {
+    "topic": "POI entrances, exact routing and timed itineraries",
+    "status": "partial",
+    "basis": "Верифіковано деякі назви входів; GPX містить waypoints, не route line."
+  },
+  {
+    "topic": "Netlify public/private and offline cache",
+    "status": "partial",
+    "basis": "Статична збірка є, не тестовано на реальній Netlify URL і Pixel."
+  },
+  {
+    "topic": "5G Three UK router, AI glasses, Shenzhen shopping",
+    "status": "partial",
+    "basis": "Технічні вимоги й кандидати є; модель, SKU та реальна покупка не підтверджені."
+  },
+  {
+    "topic": "End-to-end cost calculator, FX, VAT",
+    "status": "partial",
+    "basis": "Калькулятор є, але суми остаточних бронювань не підставлені."
+  },
+  {
+    "topic": "Layover Badaling on 4 Nov verified train and buffer",
+    "status": "conflict",
+    "basis": "Реальний зворотний поїзд і час до PKX не підтверджено; високоризиковий сценарій."
+  },
+  {
+    "topic": "Source-based attribution and provenance",
+    "status": "partial",
+    "basis": "Книги/зовнішні сайти частково позначені; потрібен claim-level provenance."
+  },
+  {
+    "topic": "Real 2026 opening hours, prices, transport for ALL POIs",
+    "status": "partial",
+    "basis": "Вибіркова перевірка першоджерел, НЕ глобальний аудит кожної позиції."
+  }
+]

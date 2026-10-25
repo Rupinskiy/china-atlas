@@ -1,0 +1,111 @@
+/* China Atlas v4.0 PRIVATE: navigator, Wikipedia auto-links with tooltips, merged places, health/exams, decisions, books report */
+(()=>{'use strict';
+const $=id=>document.getElementById(id);const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const J=u=>fetch(u).then(r=>{if(!r.ok)throw Error(u+' '+r.status);return r.json()});
+const LS={get:k=>{try{return JSON.parse(localStorage.getItem(k)||'null')}catch(e){return null}},set:(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const say=t=>{try{const u=new SpeechSynthesisUtterance(t);u.lang=/[\u4e00-\u9fff]/.test(t)?'zh-CN':'uk-UA';u.rate=.9;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}};
+const st=document.createElement('style');st.textContent=`
+#v40navbtn{position:fixed;right:12px;bottom:72px;z-index:9998;border-radius:50%;width:52px;height:52px;font-size:22px;border:0;background:#1f4e79;color:#fff;box-shadow:0 2px 8px rgba(0,0,0,.3)}
+#v40top{position:fixed;right:12px;bottom:12px;z-index:9998;border-radius:50%;width:48px;height:48px;border:0;background:#555;color:#fff;font-size:20px}
+#v40nav{position:fixed;inset:0 0 0 auto;width:min(420px,100%);background:#fff;color:#111;z-index:9999;box-shadow:-4px 0 16px rgba(0,0,0,.3);overflow:auto;padding:12px;display:none}
+#v40nav.open{display:block}#v40nav h3{margin:12px 0 4px}#v40nav a{display:block;padding:8px 6px;border-bottom:1px solid #eee;color:#1f4e79;text-decoration:none}
+#v40nav input{width:100%;padding:10px;font-size:16px;box-sizing:border-box}
+.v40w{text-decoration:underline dotted;text-underline-offset:3px;color:inherit;cursor:help}
+#v40tip{position:fixed;z-index:10000;max-width:min(360px,92vw);background:#fffbe6;color:#111;border:1px solid #c9a100;border-radius:8px;padding:10px;box-shadow:0 4px 16px rgba(0,0,0,.25);font-size:14px;display:none}
+#v40tip b{display:block;margin-bottom:4px}#v40tip button{margin-top:6px}
+.v40badge{display:inline-block;font-size:12px;padding:1px 6px;border-radius:10px;background:#e8eef6;margin:2px}
+.v40conf{background:#ffe1e1}.v40skip{position:absolute;left:-999px}.v40skip:focus{left:8px;top:8px;z-index:10001;background:#fff;padding:8px}
+.v40place summary{cursor:pointer}.v40thumbs img{width:31%;margin:1%;border-radius:6px}
+:focus-visible{outline:3px solid #c98a00;outline-offset:2px}
+html,body{max-width:100%;overflow-x:hidden}.v32note,.note{color:#454545}@media (prefers-color-scheme: dark){.v32note,.note{color:#c8c8c8}}section table{display:block;max-width:100%;overflow-x:auto}.v32tw{max-width:100%;overflow-x:auto}section a,section p,section li,section td{overflow-wrap:anywhere}header nav{overflow-x:auto;max-width:100%}
+@media (prefers-color-scheme: dark){#v40nav{background:#1b1b1b;color:#eee}#v40nav a{color:#9cc3ff;border-color:#333}#v40tip{background:#2a2614;color:#eee}}`;
+document.head.appendChild(st);
+/* a11y basics */
+const skip=document.createElement('a');skip.href='#v40places';skip.className='v40skip';skip.textContent='Перейти до місць';document.body.prepend(skip);
+const labelBtns=()=>document.querySelectorAll('button:not([aria-label])').forEach(b=>{const t=(b.textContent||'').trim();if(!t||/^[\p{Extended_Pictographic}\s]+$/u.test(t)){const m={'🔊':'Озвучити','✕':'Закрити','☰':'Навігатор','↑':'Нагору'};b.setAttribute('aria-label',m[t]||b.title||'Кнопка')}})
+const labelFields=()=>{document.querySelectorAll('input:not([type=hidden]):not([aria-label]),select:not([aria-label]),textarea:not([aria-label])').forEach(f=>{if(f.id&&document.querySelector('label[for="'+f.id+'"]'))return;if(f.closest('label'))return;const prev=f.previousElementSibling;const t=f.placeholder||f.title||(prev&&prev.textContent.trim().slice(0,60))||(f.tagName==='SELECT'?'Фільтр':'Поле введення');f.setAttribute('aria-label',t)});document.querySelectorAll('.v32tw,section table').forEach(w=>{if(w.scrollWidth>w.clientWidth+2&&!w.hasAttribute('tabindex')){w.setAttribute('tabindex','0');w.setAttribute('role','region');w.setAttribute('aria-label','Таблиця, гортайте вбік')}})};
+document.querySelectorAll('img:not([alt])').forEach(i=>i.setAttribute('alt',''));
+/* navigator */
+const GROUPS=[['Підготовка і сьогодні',/^(v413today|v421metro|v421photo|v417check|v417audio|v417taxi|v417maps|v417money|v413waiter|v412apps|v40decide|v40deploy|v39today|v34|v32|v31|today|prep)/],['Місця і маршрут',/^(v40places|v33|v36alt|v37free|v38lp|day|route|map)/],['Їжа',/^(v37food)/],['Покупки',/^(v414shop|v36shop|v37buy|v38trend|v38power|v38unique|v35shop|shop)/],['Здоров\'я',/^(v39med|v40health)/],['Культура і історія',/^(v414hist|v39culture)/],['Джерела і перевірка',/^(v40books|v40wiki|v39verify|v38wiki|v37dk|v35|v34wv)/]];
+const nav=document.createElement('nav');nav.id='v40nav';nav.setAttribute('aria-label','Навігатор по Atlas');
+const btn=document.createElement('button');btn.id='v40navbtn';btn.textContent='☰';btn.setAttribute('aria-label','Навігатор');btn.setAttribute('aria-expanded','false');
+const top=document.createElement('button');top.id='v40top';top.textContent='↑';top.setAttribute('aria-label','Нагору');top.onclick=()=>scrollTo({top:0,behavior:'smooth'});
+document.body.append(nav,btn,top);
+let IDX=[];
+const buildNav=()=>{const secs=[...document.querySelectorAll('section[id]')].map(s=>({id:s.id,t:(s.querySelector('h2')||{}).textContent||s.id}));const used=new Set();
+ let h='<button type="button" id="v40navclose" aria-label="Закрити">✕</button><label for="v40q"><b>Пошук по всьому Atlas</b></label><input id="v40q" type="search" placeholder="Місце, страва, ліки, термін..." autocomplete="off"><div id="v40res" aria-live="polite"></div>';
+ GROUPS.forEach(([g,re])=>{const it=secs.filter(s=>re.test(s.id)&&!used.has(s.id));if(!it.length)return;it.forEach(s=>used.add(s.id));h+='<h3>'+esc(g)+'</h3>'+it.map(s=>'<a href="#'+s.id+'">'+esc(s.t.replace(/^v\d\.\d+\s*·\s*/,''))+'</a>').join('')});
+ const rest=secs.filter(s=>!used.has(s.id));if(rest.length)h+='<h3>Інше</h3>'+rest.map(s=>'<a href="#'+s.id+'">'+esc(s.t.replace(/^v\d\.\d+\s*·\s*/,''))+'</a>').join('');
+ nav.innerHTML=h;$('v40navclose').onclick=()=>toggle(false);
+ $('v40q').addEventListener('input',e=>{const q=e.target.value.trim().toLowerCase();if(q.length<2){$('v40res').innerHTML='';return}const r=IDX.filter(x=>x.k.includes(q)).slice(0,40);$('v40res').innerHTML=r.length?r.map(x=>'<a href="#'+x.a+'" data-open="'+(x.o||'')+'" data-q="'+esc(String(x.t).split(' · ')[0])+'">'+esc(x.t)+' <span class="v40badge">'+esc(x.g)+'</span></a>').join(''):'<p>Нічого не знайдено</p>'});
+ nav.addEventListener('click',e=>{const a=e.target.closest('a[href^="#"]');if(!a)return;toggle(false);const id=a.dataset.open;let o=id&&document.getElementById(id);if(id&&!o&&/^pl\d+/.test(id)&&$('v40pq')){e.preventDefault();['v40pr','v40pk'].forEach(i=>{if($(i))$(i).value=''});if($('v40pi'))$('v40pi').checked=false;const q=$('v40pq');q.value=a.dataset.q||'';q.dispatchEvent(new Event('input'));setTimeout(()=>{const d=document.getElementById(id);if(d){d.open=true;d.scrollIntoView({block:'start'})}},120);return}if(o&&o.tagName==='DETAILS')o.open=true});};
+const toggle=v=>{nav.classList.toggle('open',v);btn.setAttribute('aria-expanded',String(v));if(v){buildNav();setTimeout(()=>$('v40q')&&$('v40q').focus(),50)}};
+btn.onclick=()=>toggle(!nav.classList.contains('open'));
+document.addEventListener('keydown',e=>{if(e.key==='Escape'){toggle(false);hideTip()}});
+/* Wikipedia catalogue, auto-linker, tooltips */
+let CAT={},RX=[],TERMS=[];
+const tip=document.createElement('div');tip.id='v40tip';tip.setAttribute('role','tooltip');document.body.appendChild(tip);
+const hideTip=()=>{tip.style.display='none';tip.dataset.for=''};
+const place=(el)=>{const r=el.getBoundingClientRect();tip.style.display='block';const w=tip.offsetWidth,h=tip.offsetHeight;let x=Math.min(Math.max(8,r.left),innerWidth-w-8),y=r.bottom+6;if(y+h>innerHeight-8)y=Math.max(8,r.top-h-6);tip.style.left=x+'px';tip.style.top=y+'px'};
+const wkey=t=>'v40wk:'+t;
+async function resolve(en){const c=LS.get(wkey(en));if(c)return c;if(!navigator.onLine)return null;
+ try{const u='https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=langlinks|extracts&exintro=1&explaintext=1&exsentences=2&lllimit=50&titles='+encodeURIComponent(en);
+  const d=await (await fetch(u)).json();const p=Object.values((d.query||{}).pages||{})[0]||{};if(p.missing!==undefined){const r={lang:'en',title:en,extract:'',url:'https://en.wikipedia.org/wiki/Special:Search?search='+encodeURIComponent(en),missing:1};LS.set(wkey(en),r);return r}
+  const ll=p.langlinks||[];for(const lg of ['uk','ru']){const L=ll.find(x=>x.lang===lg);if(L){const t=L['*'];try{const s=await (await fetch('https://'+lg+'.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t.replace(/ /g,'_')))).json();const r={lang:lg,title:t,extract:(s.extract||'').slice(0,320),url:'https://'+lg+'.wikipedia.org/wiki/'+encodeURIComponent(t.replace(/ /g,'_'))};LS.set(wkey(en),r);return r}catch(e){}}}
+  const r={lang:'en',title:p.title||en,extract:(p.extract||'').slice(0,320),url:'https://en.wikipedia.org/wiki/'+encodeURIComponent((p.title||en).replace(/ /g,'_'))};LS.set(wkey(en),r);return r}catch(e){return null}}
+const enOf=a=>{const id=a.dataset.wikiId||a.dataset.w;return (CAT[id]||{}).enTitle||a.dataset.en||''};
+async function showTip(a){const en=enOf(a);if(!en)return;tip.dataset.for=en;const nm=(CAT[a.dataset.wikiId||a.dataset.w]||{}).name||en;
+ tip.innerHTML='<b>'+esc(a.textContent.trim()||nm)+'</b><div>'+(navigator.onLine?'Завантаження опису...':'Офлайн: короткий опис з’явиться, коли буде інтернет (або натисніть «Завантажити описи» в розділі Вікіпедія).')+'</div><button type="button" id="v40open">Відкрити у Вікіпедії</button>';place(a);
+ $('v40open').onclick=()=>{const r=LS.get(wkey(en));window.open(r?r.url:'https://uk.wikipedia.org/w/index.php?search='+encodeURIComponent(en),'_blank','noopener')};
+ const r=await resolve(en);if(tip.dataset.for!==en)return;if(r){tip.querySelector('div').textContent=(r.extract||'Опис статті недоступний')+' ['+r.lang+']';place(a)}}
+let tapped=null,hov=false;
+document.addEventListener('mouseover',e=>{const a=e.target.closest&&e.target.closest('a.v40w,a.v23wiki');if(a&&matchMedia('(hover:hover)').matches){hov=true;showTip(a)}});
+document.addEventListener('mouseout',e=>{const a=e.target.closest&&e.target.closest('a.v40w,a.v23wiki');if(a&&hov&&!tip.contains(e.relatedTarget))setTimeout(()=>{if(hov&&!tip.matches(':hover'))hideTip()},500)});
+document.addEventListener('click',e=>{if(tip.contains(e.target))return;const a=e.target.closest('a.v40w,a.v23wiki');if(!a){hideTip();tapped=null;return}
+ if(tapped!==a){e.preventDefault();e.stopImmediatePropagation();tapped=a;hov=false;showTip(a);return}
+ if(a.classList.contains('v40w')){e.preventDefault();e.stopImmediatePropagation();const en=enOf(a);const r=LS.get(wkey(en));window.open(r?r.url:'https://uk.wikipedia.org/w/index.php?search='+encodeURIComponent(en),'_blank','noopener')}},true);
+const SKIP='A,BUTTON,INPUT,TEXTAREA,SELECT,SCRIPT,STYLE,SUMMARY,OPTION,LABEL,CODE,svg,#v40nav,#v40tip,[data-v40-nolink],[data-v23-noindex],.v23price,.v23box';
+let queue=[],busy=false,linked=0;const seenBlock=new WeakMap();
+const blockOf=n=>n.parentElement&&(n.parentElement.closest('.v32card,.v33stop,details,li,tr,.v34wv,section')||document.body);
+function linkNode(tn){const p=tn.parentElement;if(!p||p.closest(SKIP))return;const txt=tn.nodeValue;if(!txt||txt.length<3)return;
+ const blk=blockOf(tn);let used=seenBlock.get(blk);if(!used){used=new Set();seenBlock.set(blk,used)}
+ let best=null;for(const [re,ids] of RX){re.lastIndex=0;let m;while((m=re.exec(txt))){const gi=m.slice(1).findIndex(x=>x!==undefined);const id=ids[gi];if(id&&!used.has(id)&&(!best||m.index<best.i)){best={i:m.index,l:m[0].length,id};break}}}
+ if(!best)return;used.add(best.id);const r=document.createRange();r.setStart(tn,best.i);r.setEnd(tn,best.i+best.l);const a=document.createElement('a');a.href='#';a.className='v40w';a.dataset.w=best.id;r.surroundContents(a);linked++;
+ const rest=a.nextSibling;if(rest&&rest.nodeType===3)queue.unshift(rest)}
+function pump(dl){let n=0;while(queue.length&&(dl&&!dl.didTimeout?(dl.timeRemaining()>3||n<20):n<200)){try{linkNode(queue.shift())}catch(e){}n++}document.documentElement.dataset.v40linked=String(linked);if(queue.length)schedule();else busy=false}
+const schedule=()=>{busy=true;if('requestIdleCallback' in window)window.requestIdleCallback(pump,{timeout:400});else setTimeout(()=>pump(null),16)};
+function scan(root){const w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:n=>/\S/.test(n.nodeValue)?1:2});let n;while((n=w.nextNode()))queue.push(n);if(!busy&&queue.length)schedule()}
+Promise.all([J('data/wiki-entities-v23.json'),J('data/terms-v40.json')]).then(([cat,terms])=>{cat.forEach(e=>CAT[e.id]=e);TERMS=terms;
+ for(let i=0;i<terms.length;i+=120){const ch=terms.slice(i,i+120);try{RX.push([new RegExp(ch.map(t=>'('+t[0]+')').join('|'),'giu'),ch.map(t=>t[1])])}catch(e){console.warn('rx',e)}}
+ const io=new IntersectionObserver(es=>es.forEach(en=>{const t=en.target;if(en.isIntersecting&&!t.dataset.v40l){t.dataset.v40l='1';scan(t)}}),{rootMargin:'1200px 0px'});
+ document.querySelectorAll('section[id]').forEach(x=>io.observe(x));
+ const act=n=>{const sec=(n.nodeType===1?n:n.parentElement)&&(n.nodeType===1?n:n.parentElement).closest('section[id]');return sec&&sec.dataset.v40l==='1'};
+ new MutationObserver(ms=>{ms.forEach(m=>m.addedNodes.forEach(n=>{if(n.nodeType===1&&n.matches&&n.matches('section[id]'))io.observe(n);if(!act(n))return;if(n.nodeType===1&&!n.closest('#v40nav,#v40tip'))scan(n);else if(n.nodeType===3)queue.push(n)}));if(queue.length&&!busy)schedule();labelBtns();labelFields()}).observe(document.body,{childList:true,subtree:true});labelBtns();labelFields()}).catch(e=>console.warn('v40 terms',e));
+/* data-driven sections */
+Promise.all([J('data/v40.json'),J('data/translations-uk.json').catch(()=>({}))]).then(([V,TR])=>{(V.places||[]).forEach(p=>{if(TR[p.id]){p.uk=TR[p.id];p.s+=' '+String(TR[p.id]).toLowerCase()}});
+ IDX=V.index||[];
+ const w=$('v40wikidata');if(w){const done=()=>Object.keys(localStorage).filter(k=>k.startsWith('v40wk:')).length;
+  w.innerHTML='<p>Посилання на Вікіпедію додаються автоматично в усьому тексті Atlas: терміни, події, люди, будівлі, місця ('+V.wiki.terms+' шаблонів, '+V.wiki.catalog+' статей у каталозі). Наведіть курсор або торкніться підкресленого слова, щоб побачити короткий опис; друге торкання відкриває статтю (українська, далі російська, далі англійська).</p><p>Описів збережено на телефоні: <b id="v40done">'+done()+'</b> з '+V.wiki.catalog+'. <span id="v41st"></span> <button type="button" id="v40pref">Завантажити описи (на Wi-Fi)</button> <span id="v40prog" aria-live="polite"></span></p><p class="v32note">Зараз у тексті підсвічено посилань: <b id="v40cnt">рахую...</b></p>';
+  setInterval(()=>{const c=$('v40cnt');const v=String(linked+document.querySelectorAll('a.v23wiki').length);if(c&&c.textContent!==v)c.textContent=v},3000);
+  $('v40pref').onclick=async()=>{if(!navigator.onLine){$('v40prog').textContent='Немає інтернету';return}const all=Object.values(CAT).map(e=>e.enTitle).filter(Boolean);let i=0,ok=0;const work=async()=>{while(i<all.length){const t=all[i++];if(LS.get(wkey(t))){ok++;continue}if(await resolve(t))ok++;$('v40prog').textContent=ok+' / '+all.length;$('v40done').textContent=done()}};await Promise.all([work(),work(),work()]);$('v40prog').textContent='Готово: '+ok}}
+ const p=$('v40placesdata');if(p){const P=V.places;const regs=[...new Set(P.map(x=>x.region))];const types=[...new Set(P.map(x=>x.kind))];
+  p.innerHTML='<p>'+esc(V.places_note)+'</p><p><select id="v40pr" aria-label="Місто"><option value="">Усі міста</option>'+regs.map(r=>'<option>'+esc(r)+'</option>').join('')+'</select> <select id="v40pk" aria-label="Тип"><option value="">Усі типи</option>'+types.map(r=>'<option>'+esc(r)+'</option>').join('')+'</select> <label><input type="checkbox" id="v40pi"> лише з фото</label></p><input id="v40pq" type="search" placeholder="Пошук: українською, англійською або китайською" aria-label="Пошук місць" style="width:100%;padding:8px;box-sizing:border-box"><p id="v40pn" class="v32note" aria-live="polite"></p><div id="v40pl"></div><p><button type="button" id="v40more">Показати ще</button></p>';
+  let lim=60;const draw=()=>{const r=$('v40pr').value,k=$('v40pk').value,im=$('v40pi').checked,q=$('v40pq').value.trim().toLowerCase();const L=P.filter(x=>(!r||x.region===r)&&(!k||x.kind===k)&&(!im||x.img.length)&&(!q||x.s.includes(q)));$('v40pn').textContent='Знайдено: '+L.length+' з '+P.length;
+   $('v40pl').innerHTML=L.slice(0,lim).map(x=>'<details class="v33stop v40place" id="'+x.id+'"><summary><b>'+esc(x.uk_name||x.name)+'</b> '+(x.zh?esc(x.zh)+' ':'')+'<span class="v40badge">'+esc(x.region)+'</span><span class="v40badge">'+esc(x.kind)+'</span>'+(x.conflict?'<span class="v40badge v40conf">джерела розходяться</span>':'')+'<span class="v40badge">'+x.src.length+' джерел</span></summary>'+
+    (x.uk?'<p>'+esc(x.uk)+'</p>':'')+(x.en?'<p lang="en">'+esc(x.en)+'</p>'+(x.uk?'':'<p><button type="button" class="v40tr" data-t="'+esc(x.en)+'">Перекласти українською</button></p>'):'')+
+    (x.hours?'<p><b>Години (найсвіжіше джерело):</b> '+esc(x.hours)+'</p>':'')+(()=>{const yrs=x.src.map(s=>+((s.b.match(/(19|20)\d\d/)||[0])[0])).filter(Boolean);const fresh=x.src.some(s=>/АКТУАЛЬНО|Atlas/.test(s.b))||yrs.some(y=>y>=2024);if(fresh)return '';const q=encodeURIComponent((x.zh||x.name).replace(/\s+[A-Z&' ]{3,}(\s*[¥$]+)?$/,''));const ql=encodeURIComponent(x.name.replace(/\s+[A-Z&' ]{3,}(\s*[¥$]+)?$/,''));const city={'Пекін':'北京','Гуандун':'广州','Гонконг':'Hong Kong','Макао':'Macau'}[x.region]||'';const ml=/Пекін|Гуандун/.test(x.region);return '<p class="v48chk"><b>Перевірити, чи працює зараз:</b> '+(ml?'<a href="https://uri.amap.com/search?keyword='+q+'&city='+encodeURIComponent(city)+'" target="_blank" rel="noopener">Amap (高德)</a> · <a href="https://map.baidu.com/search/'+q+'" target="_blank" rel="noopener">Baidu</a>':'<a href="https://www.google.com/maps/search/?api=1&query='+ql+'+'+encodeURIComponent(city)+'" target="_blank" rel="noopener">Google Maps</a> · <a href="https://www.openrice.com/en/'+(x.region==='Макао'?'macau':'hongkong')+'/restaurants?what='+ql+'" target="_blank" rel="noopener">OpenRice</a>')+' <span class="v32note">(дані джерела старші за 2024 рік)</span></p>'})()+'<ul>'+x.src.map(s=>'<li><span class="v40badge">'+esc(s.b)+'</span> '+esc(s.i)+'</li>').join('')+'</ul>'+
+    (x.img.length?'<div class="v40thumbs">'+x.img.map(i=>'<img src="'+i[0]+'" data-full="'+i[1]+'" alt="'+esc(i[2])+'" loading="lazy">').join('')+'</div>':'')+
+    '<p>'+(x.wiki?'<a class="v23wiki" data-wiki-id="'+x.wiki+'" href="#">Вікіпедія</a> · ':'')+(x.geo?'<a href="'+esc(x.geo)+'">На мапі</a>':'')+(x.stop?' · <a href="#stop-'+x.stop+'">Картка-екскурсія</a>':'')+'</p></details>').join('');$('v40more').style.display=L.length>lim?'':'none'};
+  ['v40pr','v40pk','v40pi'].forEach(i=>$(i).addEventListener('change',()=>{lim=60;draw()}));$('v40pq').addEventListener('input',()=>{lim=60;draw()});$('v40more').onclick=()=>{lim+=60;draw()};draw();
+  p.addEventListener('click',async e=>{const b=e.target.closest('.v40tr');if(!b)return;const t=b.dataset.t;try{if('Translator' in self){const tr=await Translator.create({sourceLanguage:'en',targetLanguage:'uk'});b.parentElement.outerHTML='<p>'+esc(await tr.translate(t))+' <span class="v32note">(машинний переклад)</span></p>';return}}catch(err){}window.open('https://translate.google.com/?sl=en&tl=uk&op=translate&text='+encodeURIComponent(t),'_blank','noopener')})}
+ const h=$('v40healthdata');if(h)h.innerHTML='<div class="v32tw"><table><tr><th>Що</th><th>Сила доказів</th><th>Пояснення</th><th>Ціна</th><th>Де краще</th></tr>'+V.vit.map(x=>'<tr class="v40vit"><td><b>'+esc(x[0])+'</b></td><td>'+esc(x[1])+'</td><td>'+esc(x[2])+'</td><td>'+esc(x[3])+'</td><td>'+esc(x[4])+'</td></tr>').join('')+'</table></div><ul>'+V.vit_note.map(x=>'<li>'+esc(x)+'</li>').join('')+'</ul>';
+ const d=$('v40decidedata');if(d)d.innerHTML='<h3>Повернення ПДВ: робимо миттєве</h3><ol>'+V.vat.map(x=>'<li class="v40vat">'+esc(x)+'</li>').join('')+'</ol><button type="button" data-say40="我想办即买即退，从北京大兴机场十一月四日离境。">🔊 Сказати продавцю</button><h3>Костюм: Китай, Гонконг, Британія</h3><p>'+esc(V.four)+'</p><div class="v32tw"><table><tr><th>Варіант</th><th>Ціна</th><th>Примітка</th></tr>'+V.tailor.map(x=>'<tr class="v40tl"><td><b>'+esc(x[0])+'</b></td><td>'+esc(x[1])+'</td><td>'+esc(x[2])+'</td></tr>').join('')+'</table></div>';
+ const dp=$('v40deploydata');if(dp)dp.innerHTML=V.deploy.map(x=>'<div class="v32card v40dp"><b>'+esc(x[0])+'</b><p>'+esc(x[1])+'</p><span class="v32note">'+esc(x[2])+'</span></div>').join('');
+ const bk=$('v40booksdata');if(bk)bk.innerHTML='<div class="v32tw"><table><tr><th>Книга</th><th>Рік</th><th>Зображень взято / доступно</th><th>Точок</th><th>Рядків у зупинках</th><th>Текст і мапи</th><th>Інтеграція</th></tr>'+V.books.map(b=>'<tr class="v40bk"><td><b>'+esc(b.name)+'</b></td><td>'+esc(b.year)+'</td><td>'+esc(b.img)+'</td><td>'+esc(b.pois)+'</td><td>'+esc(b.lines)+'</td><td>'+esc(b.text)+'</td><td>'+esc(b.level)+'</td></tr>').join('')+'</table></div><p class="v32note">'+esc(V.books_note)+'</p>';
+}).catch(e=>{const p=$('v40placesdata');if(p)p.textContent='Помилка: '+e.message});
+document.addEventListener('click',e=>{const b=e.target.closest('[data-say40]');if(b)say(b.dataset.say40)});
+})();
+
+/* v4.1: ask the browser to keep Atlas data (offline Wikipedia descriptions, settings) even under storage pressure */
+(async()=>{try{let p=false;if(navigator.storage&&navigator.storage.persisted){p=await navigator.storage.persisted();if(!p&&navigator.storage.persist)p=await navigator.storage.persist()}
+ const e=navigator.storage&&navigator.storage.estimate?await navigator.storage.estimate():null;const show=()=>{const s=document.getElementById('v41st');if(s)s.textContent='Сховище: '+(p?'постійне (браузер не видалить)':'звичайне')+(e?', зайнято '+Math.round((e.usage||0)/1048576)+' МБ з '+Math.round((e.quota||0)/1048576)+' МБ':'')+'.'};show();setTimeout(show,3000);setTimeout(show,8000)}catch(err){}})();

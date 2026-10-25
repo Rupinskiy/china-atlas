@@ -1,0 +1,819 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pkx",
+        "day": "26",
+        "city": "beijing",
+        "name": "Beijing Daxing Airport",
+        "zh": "北京大兴国际机场",
+        "category": "transport",
+        "precision": "area",
+        "note": "Аеропорт. Вихід із транзитної зони лише після дозволу; стійку готелю уточніть на місці.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4109,
+          39.5099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "qianmen",
+        "day": "26",
+        "city": "beijing",
+        "name": "Qianmen Street",
+        "zh": "前门大街",
+        "category": "sight",
+        "precision": "area",
+        "note": "Історична вулиця. Прикордонні й транспортні процедури мають пріоритет.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3987,
+          39.8953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "dashilan",
+        "day": "26",
+        "city": "beijing",
+        "name": "Dashilar",
+        "zh": "大栅栏",
+        "category": "sight",
+        "precision": "area",
+        "note": "Торгові провулки; для дощу можна скоротити маршрут.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.3936,
+          39.8951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hkg",
+        "day": "27",
+        "city": "hongkong",
+        "name": "Hong Kong International Airport",
+        "zh": "香港國際機場",
+        "category": "transport",
+        "precision": "area",
+        "note": "HKG T1. До міста: офіційні автобуси та Airport Express.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9185,
+          22.308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tsim",
+        "day": "27",
+        "city": "hongkong",
+        "name": "Tsim Sha Tsui Promenade",
+        "zh": "尖沙咀海濱長廊",
+        "category": "sight",
+        "precision": "area",
+        "note": "Набережна і вид на Victoria Harbour.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1721,
+          22.2949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "star",
+        "day": "27",
+        "city": "hongkong",
+        "name": "Star Ferry Tsim Sha Tsui Pier",
+        "zh": "天星碼頭",
+        "category": "transport",
+        "precision": "area",
+        "note": "Пором через Victoria Harbour; перевірте причал на місці.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1687,
+          22.2937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "peak",
+        "day": "27",
+        "city": "hongkong",
+        "name": "Victoria Peak viewpoint",
+        "zh": "太平山頂",
+        "category": "sight",
+        "precision": "area",
+        "note": "Точка огляду; за туману краще інше місце.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1456,
+          22.2759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "westkowloon",
+        "day": "28",
+        "city": "hongkong",
+        "name": "Hong Kong West Kowloon Station",
+        "zh": "香港西九龍站",
+        "category": "transport",
+        "precision": "area",
+        "note": "MTR: перевірка квитка B1, кордон B3, посадка B3. Офіційна схема виходів на сторінці станції.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1616,
+          22.3047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "futian",
+        "day": "28",
+        "city": "shenzhen",
+        "name": "Futian Railway Station",
+        "zh": "福田站",
+        "category": "transport",
+        "precision": "area",
+        "note": "Прибуття HSR; орієнтир станції, не конкретний турнікет.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.062,
+          22.5375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "huaqiangbei",
+        "day": "28",
+        "city": "shenzhen",
+        "name": "Huaqiangbei Electronics District",
+        "zh": "华强北电子市场",
+        "category": "shopping",
+        "precision": "area",
+        "note": "Електронні ринки, OEM; порівнюйте SKU й офіційні ціни.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0857,
+          22.5447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "lianhuashan",
+        "day": "28",
+        "city": "shenzhen",
+        "name": "Lianhuashan Park",
+        "zh": "莲花山公园",
+        "category": "sight",
+        "precision": "area",
+        "note": "Огляд міста та зелена зона; не для грози.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0602,
+          22.5538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sznorth",
+        "day": "archive",
+        "city": "shenzhen",
+        "name": "Shenzhen North Railway Station",
+        "zh": "深圳北站",
+        "category": "transport",
+        "precision": "area",
+        "note": "ІСТОРІЯ/АРХІВ: не використовується. Оплачений C8004 29.10 відправляється зі Shenzhen 深圳站 (Luohu), не з Shenzhen North.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.0295,
+          22.6096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gzsouth",
+        "day": "30",
+        "city": "guangzhou",
+        "name": "Guangzhou South Railway Station",
+        "zh": "广州南站",
+        "category": "transport",
+        "precision": "area",
+        "note": "Відправлення D1899 30.10 о 21:59. 29.10 оплачений C8004 прибуває на Guangzhou East 广州东, не сюди.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2691,
+          22.9897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "chen",
+        "day": "29",
+        "city": "guangzhou",
+        "name": "Chen Clan Ancestral Hall",
+        "zh": "陈家祠",
+        "category": "sight",
+        "precision": "area",
+        "note": "Архітектура Ліннань; частина огляду в приміщенні. [Геоприв’язку виправлено за OSM. Вхід від станції 陈家祠 D: пішки 2-3 хв; точна геометрія маршруту невідома.]",
+        "coordinate_status": "osm_museum_polygon_centroid_not_entrance",
+        "coordinate_source": "https://mapcarta.com/W520935699"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.24013,
+          23.12983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "shamian",
+        "day": "29",
+        "city": "guangzhou",
+        "name": "Shamian Island",
+        "zh": "沙面岛",
+        "category": "sight",
+        "precision": "area",
+        "note": "Колишні міжнародні квартали, будівлі XIX століття.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2381,
+          23.1073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nanyue",
+        "day": "29",
+        "city": "guangzhou",
+        "name": "Museum of the Mausoleum of the Nanyue King",
+        "zh": "南越王博物院",
+        "category": "sight",
+        "precision": "area",
+        "note": "Археологія Наньюе; час і квитки потребують перевірки.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2599,
+          23.1426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "cantontower",
+        "day": "29",
+        "city": "guangzhou",
+        "name": "Canton Tower",
+        "zh": "广州塔",
+        "category": "sight",
+        "precision": "area",
+        "note": "Зовнішній нічний огляд можливий без підйому на вежу.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.3245,
+          23.1065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "beijingroad",
+        "day": "30",
+        "city": "guangzhou",
+        "name": "Beijing Road Pedestrian Street",
+        "zh": "北京路步行街",
+        "category": "sight",
+        "precision": "area",
+        "note": "Торгова вулиця з археологічними фрагментами старих доріг.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2694,
+          23.1237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "sacredheart",
+        "day": "30",
+        "city": "guangzhou",
+        "name": "Sacred Heart Cathedral",
+        "zh": "石室圣心大教堂",
+        "category": "sight",
+        "precision": "area",
+        "note": "Неоготичний собор; графік вхідного доступу може змінюватись.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2582,
+          23.1176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zhstation",
+        "day": "30",
+        "city": "zhuhai",
+        "name": "Zhuhai Railway Station",
+        "zh": "珠海站",
+        "category": "transport",
+        "precision": "area",
+        "note": "Вихід до Gongbei; точне місце готелю ще не встановлене.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5504,
+          22.2176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "gongbei",
+        "day": "31",
+        "city": "zhuhai",
+        "name": "Gongbei Port",
+        "zh": "拱北口岸",
+        "category": "border",
+        "precision": "area",
+        "note": "Пішохідний пункт; необхідні паспорт і процедури двох територій.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5523,
+          22.2162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ama",
+        "day": "31",
+        "city": "macau",
+        "name": "A-Ma Temple",
+        "zh": "媽閣廟",
+        "category": "sight",
+        "precision": "area",
+        "note": "Традиційний храм; поруч історична прибережна зона.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5322,
+          22.1859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "senado",
+        "day": "31",
+        "city": "macau",
+        "name": "Senado Square",
+        "zh": "議事亭前地",
+        "category": "sight",
+        "precision": "area",
+        "note": "Центр історичного Макао UNESCO.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5394,
+          22.1936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "stpaul",
+        "day": "31",
+        "city": "macau",
+        "name": "Ruins of St Paul’s",
+        "zh": "大三巴牌坊",
+        "category": "sight",
+        "precision": "area",
+        "note": "Фасад комплексу São Paulo. Можливі великі черги.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5405,
+          22.1978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "taipa",
+        "day": "31",
+        "city": "macau",
+        "name": "Taipa Village",
+        "zh": "氹仔舊城區",
+        "category": "sight",
+        "precision": "area",
+        "note": "Стара міська структура, вулична їжа, португальські впливи.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.5587,
+          22.1551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hzmbmacau",
+        "day": "31",
+        "city": "macau",
+        "name": "HZMB Macau Port",
+        "zh": "港珠澳大橋澳門口岸",
+        "category": "transport",
+        "precision": "area",
+        "note": "Автобус HZMB до Гонконгу; звіряйте пункт посадки.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.585,
+          22.2009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "tianbud",
+        "day": "01",
+        "city": "hongkong",
+        "name": "Tian Tan Buddha",
+        "zh": "天壇大佛",
+        "category": "sight",
+        "precision": "area",
+        "note": "Відкриті сходи; у грозу або сильний туман краще перенести.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.905,
+          22.2546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "taio",
+        "day": "01",
+        "city": "hongkong",
+        "name": "Tai O Fishing Village",
+        "zh": "大澳",
+        "category": "sight",
+        "precision": "area",
+        "note": "Рибальське село на палях; остерігатися зливи.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.8628,
+          22.2535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "polin",
+        "day": "01",
+        "city": "hongkong",
+        "name": "Po Lin Monastery",
+        "zh": "寶蓮禪寺",
+        "category": "sight",
+        "precision": "area",
+        "note": "Монастир поряд із Tian Tan Buddha.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9043,
+          22.2553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "nanlian",
+        "day": "02",
+        "city": "hongkong",
+        "name": "Nan Lian Garden",
+        "zh": "南蓮園池",
+        "category": "sight",
+        "precision": "area",
+        "note": "Сад у стилі Тан; при сильній зливі відвідування скоротити.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2045,
+          22.3386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "shamshuipo",
+        "day": "02",
+        "city": "hongkong",
+        "name": "Sham Shui Po",
+        "zh": "深水埗",
+        "category": "shopping",
+        "precision": "area",
+        "note": "Тканинні ринки, електроніка, локальна кухня.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1629,
+          22.3306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "stanley",
+        "day": "02",
+        "city": "hongkong",
+        "name": "Stanley Market",
+        "zh": "赤柱市集",
+        "category": "sight",
+        "precision": "area",
+        "note": "Узбережжя й ринок; відмовитися за шторму.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.2135,
+          22.2196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "hkgreturn",
+        "day": "03",
+        "city": "hongkong",
+        "name": "Hong Kong International Airport",
+        "zh": "香港國際機場",
+        "category": "transport",
+        "precision": "area",
+        "note": "Виліт CZ356 о 14:05, плануйте повернення завчасно.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.9185,
+          22.308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pkxreturn",
+        "day": "04",
+        "city": "beijing",
+        "name": "Beijing Daxing Airport",
+        "zh": "北京大兴国际机场",
+        "category": "transport",
+        "precision": "area",
+        "note": "CZ673 о 15:15; відвідання Стіни лише якщо гарантований запас.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4109,
+          39.5099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "badaling",
+        "day": "04",
+        "city": "beijing",
+        "name": "Badaling Great Wall",
+        "zh": "八达岭长城",
+        "category": "sight",
+        "precision": "area",
+        "note": "Віддалена екскурсія; немає підтвердженого часу поїзда чи квитка.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas map reference; not surveyed; confirm exact pin in destination app"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.0184,
+          40.355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "heathrow",
+        "day": "25",
+        "city": "london",
+        "name": "London Heathrow Airport Terminal 4",
+        "zh": "伦敦希思罗机场4号航站楼",
+        "category": "transport",
+        "precision": "area",
+        "note": "Рейс CZ674, виліт 21:30. Координата - територія T4, не реєстраційна стійка.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas reference estimate; not surveyed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.447,
+          51.4593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "pkxback",
+        "day": "03",
+        "city": "beijing",
+        "name": "Beijing Daxing Airport (arrival)",
+        "zh": "北京大兴国际机场",
+        "category": "transport",
+        "precision": "area",
+        "note": "Приліт CZ356 о 17:25; нічний транзит, готель за доступністю.",
+        "coordinate_status": "representative_approximate_not_entrance",
+        "coordinate_source": "Atlas reference estimate; not surveyed"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4109,
+          39.5099
+        ]
+      }
+    }
+  ]
+}

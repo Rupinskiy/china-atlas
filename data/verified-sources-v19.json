@@ -1,0 +1,97 @@
+{
+  "mtr_process": {
+    "title": "MTR HSR departure procedures",
+    "url": "https://www.highspeed.mtr.com.hk/en/guide/process-departure.html",
+    "checked_at": "2026-10-24"
+  },
+  "mtr_maps": {
+    "title": "MTR official station exit plans",
+    "url": "https://www.highspeed.mtr.com.hk/en/guide/local-guides.html",
+    "checked_at": "2026-10-24"
+  },
+  "hk_transport": {
+    "title": "Hong Kong Transport Department access",
+    "url": "https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/access_to_hong_kong_west_kowloon_station/index_t.html",
+    "checked_at": "2026-10-24"
+  },
+  "ferry": {
+    "title": "Hong Kong Transport Department Star Ferry boarding piers",
+    "url": "https://www.td.gov.hk/en/transport_in_hong_kong/public_transport/ferries/service_details/index_t.html",
+    "checked_at": "2026-10-24"
+  },
+  "nanlian": {
+    "title": "HK LCSD Nan Lian Garden official",
+    "url": "https://www.lcsd.gov.hk/en/parks/nlg/index.html",
+    "checked_at": "2026-10-24"
+  },
+  "gz_d": {
+    "title": "Guangzhou station exit D directions (July 2026)",
+    "url": "https://gz.bendibao.com/news/2026730/content370418.shtml",
+    "checked_at": "2026-10-24"
+  },
+  "gz_osm": {
+    "title": "Chen Clan Hall OSM way geographic centre",
+    "url": "https://mapcarta.com/W520935699",
+    "checked_at": "2026-10-24"
+  },
+  "gz_photo": {
+    "title": "Chen Clan station Exit D camera geolocation",
+    "url": "https://commons.wikimedia.org/wiki/File:Exit_D,_Chen_Clan_Academy_Station,_Liwan_District,_Guangzhou.jpg",
+    "checked_at": "2026-10-24"
+  },
+  "gz_tower": {
+    "title": "Guangzhou government Canton Tower Tram transfer",
+    "url": "https://www.eguangzhou.gov.cn/gzlatest/content/post_38354.html",
+    "checked_at": "2026-10-24"
+  },
+  "macau_gate": {
+    "title": "Macao customs border hours Feb 2026",
+    "url": "https://www.customs.gov.mo/cn/notice_passengers_item4.html",
+    "checked_at": "2026-10-24"
+  },
+  "macau_route": {
+    "title": "Macao government designated walking route",
+    "url": "https://content.macaotourism.gov.mo/uploads/mgto_planyourtrip/Route01leaflet_en.pdf",
+    "checked_at": "2026-10-24"
+  },
+  "macau_map": {
+    "title": "Macao official walking route maps",
+    "url": "https://routemap.dscc.gov.mo/",
+    "checked_at": "2026-10-24"
+  },
+  "hzmb_bus": {
+    "title": "HZMB shuttle operator timetable and boarding",
+    "url": "https://www.hzmbus.com/en/",
+    "checked_at": "2026-10-24"
+  },
+  "hzmb_hk": {
+    "title": "Hong Kong government HZMB port",
+    "url": "https://www.td.gov.hk/en/transport_in_hong_kong/land_based_cross_boundary_transport/access_to_hzmb_hong_kong_port/",
+    "checked_at": "2026-10-24"
+  },
+  "nia": {
+    "title": "NIA official visa-free transit Aug 2026",
+    "url": "https://en.nia.gov.cn/n147418/n147463/c183412/content.html",
+    "checked_at": "2026-10-24"
+  },
+  "nia_wk": {
+    "title": "NIA West Kowloon eligible entry port update",
+    "url": "https://en.nia.gov.cn/n147413/c187308/content.html",
+    "checked_at": "2026-10-24"
+  },
+  "nlb": {
+    "title": "HK Transport Dept Lantau bus routes",
+    "url": "https://www.td.gov.hk/en/transport_in_hong_kong/trts/ntwis/index.html",
+    "checked_at": "2026-10-24"
+  },
+  "gtfs": {
+    "title": "HK GTFS government 15 Oct 2026",
+    "url": "https://data.gov.hk/en-data/dataset/hk-td-tis_11-pt-headway-en/resource/2192268b-dac1-4574-99ee-a4c46e388338",
+    "checked_at": "2026-10-24"
+  },
+  "osm_entrance": {
+    "title": "OSM entrance geotag schema",
+    "url": "https://wiki.openstreetmap.org/wiki/Key:entrance",
+    "checked_at": "2026-10-24"
+  }
+}

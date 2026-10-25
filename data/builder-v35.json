@@ -1,0 +1,261 @@
+{
+ "features": [
+  {
+   "dev": "glasses",
+   "id": "chip_ar1",
+   "uk": "Чип Qualcomm AR1 або AR1+",
+   "zh": "高通AR1或AR1+芯片",
+   "en": "Qualcomm AR1 or AR1+ chip"
+  },
+  {
+   "dev": "glasses",
+   "id": "chip_bes2800",
+   "uk": "Чип BES2800 (або новіший)",
+   "zh": "恒玄BES2800（或更新）",
+   "en": "BES2800 chip (or newer)"
+  },
+  {
+   "dev": "glasses",
+   "id": "dual",
+   "uk": "Дві мікросхеми (камера + звук)",
+   "zh": "双芯片方案",
+   "en": "dual-chip design"
+  },
+  {
+   "dev": "glasses",
+   "id": "cam12",
+   "uk": "Камера 12 Мп (Sony IMX681)",
+   "zh": "1200万像素摄像头（索尼IMX681）",
+   "en": "12 MP camera (Sony IMX681)"
+  },
+  {
+   "dev": "glasses",
+   "id": "video",
+   "uk": "Відео 3K або 4K зі стабілізацією",
+   "zh": "3K或4K视频，带防抖",
+   "en": "3K or 4K video with stabilisation"
+  },
+  {
+   "dev": "glasses",
+   "id": "display",
+   "uk": "Дисплей Micro-LED з хвилеводом",
+   "zh": "Micro-LED光波导显示",
+   "en": "Micro-LED waveguide display"
+  },
+  {
+   "dev": "glasses",
+   "id": "mics",
+   "uk": "5 мікрофонів + кістковий",
+   "zh": "五麦克风加骨传导",
+   "en": "5 microphones + bone conduction"
+  },
+  {
+   "dev": "glasses",
+   "id": "leak",
+   "uk": "Мало чути назовні",
+   "zh": "漏音小",
+   "en": "low sound leakage"
+  },
+  {
+   "dev": "glasses",
+   "id": "intl",
+   "uk": "Працює без китайського номера і акаунта",
+   "zh": "不需要中国手机号和中国账号",
+   "en": "works without a Chinese phone number or account"
+  },
+  {
+   "dev": "glasses",
+   "id": "ai",
+   "uk": "Можна підключити Gemini або ChatGPT",
+   "zh": "可以接谷歌Gemini或ChatGPT",
+   "en": "can use Gemini or ChatGPT"
+  },
+  {
+   "dev": "glasses",
+   "id": "app",
+   "uk": "Застосунок англійською, у Google Play",
+   "zh": "App有英文版，在谷歌商店",
+   "en": "English app on Google Play"
+  },
+  {
+   "dev": "glasses",
+   "id": "rx",
+   "uk": "Можна поставити лінзи з діоптріями",
+   "zh": "可以配近视镜片",
+   "en": "prescription lenses possible"
+  },
+  {
+   "dev": "glasses",
+   "id": "batt",
+   "uk": "Батарея 8 годин і більше",
+   "zh": "续航8小时以上",
+   "en": "8+ hours battery"
+  },
+  {
+   "dev": "router",
+   "id": "mod551",
+   "uk": "Модуль Quectel RM551E-GL (X75)",
+   "zh": "移远RM551E-GL模块（骁龙X75）",
+   "en": "Quectel RM551E-GL module (X75)"
+  },
+  {
+   "dev": "router",
+   "id": "mod520",
+   "uk": "Модуль Quectel RM520N-GL (X62)",
+   "zh": "移远RM520N-GL模块（骁龙X62）",
+   "en": "Quectel RM520N-GL module (X62)"
+  },
+  {
+   "dev": "router",
+   "id": "fg370",
+   "uk": "Модуль Fibocom FG370-EAU (MediaTek T830)",
+   "zh": "广和通FG370-EAU模块（联发科T830）",
+   "en": "Fibocom FG370-EAU (MediaTek T830)"
+  },
+  {
+   "dev": "router",
+   "id": "ukbands",
+   "uk": "Діапазони UK: B1/B3/B7/B8/B20/B32, n1/n3/n28/n78",
+   "zh": "英国频段：B1/B3/B7/B8/B20/B32，n1/n3/n28/n78",
+   "en": "UK bands B1/B3/B7/B8/B20/B32, n1/n3/n28/n78"
+  },
+  {
+   "dev": "router",
+   "id": "sa",
+   "uk": "5G SA і NSA",
+   "zh": "支持SA和NSA",
+   "en": "5G SA and NSA"
+  },
+  {
+   "dev": "router",
+   "id": "ant",
+   "uk": "4 роз'єми для зовнішніх антен",
+   "zh": "四个外置天线接口",
+   "en": "4 external antenna ports"
+  },
+  {
+   "dev": "router",
+   "id": "lock",
+   "uk": "Блокування частоти і соти",
+   "zh": "可以锁频锁小区",
+   "en": "band and cell locking"
+  },
+  {
+   "dev": "router",
+   "id": "owrt",
+   "uk": "Прошивка OpenWrt, англійський інтерфейс",
+   "zh": "OpenWrt固件，英文界面",
+   "en": "OpenWrt firmware, English UI"
+  },
+  {
+   "dev": "router",
+   "id": "lan",
+   "uk": "Порти 2.5 Гбіт/с",
+   "zh": "2.5G网口",
+   "en": "2.5 GbE ports"
+  },
+  {
+   "dev": "router",
+   "id": "wifi7",
+   "uk": "Wi-Fi 7",
+   "zh": "WiFi 7",
+   "en": "Wi-Fi 7"
+  },
+  {
+   "dev": "router",
+   "id": "imei",
+   "uk": "Оригінальний IMEI, не змінений",
+   "zh": "原厂IMEI，没改过",
+   "en": "original, unmodified IMEI"
+  },
+  {
+   "dev": "router",
+   "id": "psu",
+   "uk": "Блок живлення під британську розетку або перехідник",
+   "zh": "配英标电源或转换头",
+   "en": "UK plug power supply or adapter"
+  }
+ ],
+ "replies": [
+  {
+   "zh": "有",
+   "uk": "Є / так, є"
+  },
+  {
+   "zh": "没有",
+   "uk": "Немає"
+  },
+  {
+   "zh": "可以",
+   "uk": "Можна"
+  },
+  {
+   "zh": "不行 / 不可以",
+   "uk": "Не можна"
+  },
+  {
+   "zh": "多少钱？",
+   "uk": "Скільки коштує?"
+  },
+  {
+   "zh": "最低价",
+   "uk": "Найнижча ціна"
+  },
+  {
+   "zh": "这个是国际版",
+   "uk": "Це міжнародна версія"
+  },
+  {
+   "zh": "这个是国内版",
+   "uk": "Це внутрішня китайська версія"
+  },
+  {
+   "zh": "需要中国手机号激活",
+   "uk": "Потрібен китайський номер для активації"
+  },
+  {
+   "zh": "需要下载App",
+   "uk": "Треба завантажити застосунок"
+  },
+  {
+   "zh": "可以试戴",
+   "uk": "Можна приміряти"
+  },
+  {
+   "zh": "保修一年",
+   "uk": "Гарантія рік"
+  },
+  {
+   "zh": "不能退",
+   "uk": "Не повертається"
+  },
+  {
+   "zh": "现在没货",
+   "uk": "Зараз немає в наявності"
+  },
+  {
+   "zh": "可以定做 / 可以组装",
+   "uk": "Можна зібрати під замовлення"
+  },
+  {
+   "zh": "明天来拿",
+   "uk": "Заберіть завтра"
+  },
+  {
+   "zh": "要先付定金",
+   "uk": "Спершу передоплата"
+  },
+  {
+   "zh": "全网通",
+   "uk": "Підтримує всі мережі (переважно Китаю)"
+  },
+  {
+   "zh": "锁频",
+   "uk": "Блокування частоти"
+  },
+  {
+   "zh": "刷机",
+   "uk": "Перепрошивка"
+  }
+ ]
+}

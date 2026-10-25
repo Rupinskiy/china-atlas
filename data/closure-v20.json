@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "topic": "Маршрут 11 днів, рейси CZ, географічне кільце",
+    "knowledge_status": "documented",
+    "detail": "Фіксовані дати й сегменти внесені; посадкові талони і можливі зміни рейсів перевіряйте у перевізника.",
+    "historical_v19_status": "included",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 2,
+    "topic": "24h PKX + 240h HSR, Visa/entry permit/Gongbei",
+    "knowledge_status": "rules_verified_external_decision",
+    "detail": "NIA 20.08.2026 підтверджує українців та правила. Gongbei як пункт виїзду підтримано Guangdong. Доказ подальшого виїзду без квитка з місцем залишається питанням рішення конкретного офіцера.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 3,
+    "topic": "HSR actual bought departures/platforms",
+    "knowledge_status": "awaiting_personal_booking",
+    "detail": "Здійснити покупку можна лише з конкретним PNR/вільними місцями; файл і екран перевірки в Atlas, але квитків немає.",
+    "historical_v19_status": "missing",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 4,
+    "topic": "China Southern transit hotels vs Qinghe overnight",
+    "knowledge_status": "scenario_decision_required",
+    "detail": "Два незалежні варіанти 3-4.11, рішення залежить від Badaling та готелю. Не стверджувати, що другий готель підтверджений.",
+    "historical_v19_status": "conflict",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 5,
+    "topic": "LHR/PKX/HKG lounges and welcome Mastercard",
+    "knowledge_status": "awaiting_bank_status",
+    "detail": "Відображені lounge locations; банк має підтвердити entitlement/guest/welcome period по конкретній картці.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 6,
+    "topic": "Checked-through baggage + Hong Kong 3-day storage",
+    "knowledge_status": "awaiting_supplier_confirmation",
+    "detail": "Модель наскрізної бірки до HKG/LHR, готель HK із залишенням валіз 28-31.10, безкоштовний PKX склад і платні Qinghe локери.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 7,
+    "topic": "Hotels by exact date / confirmed booking",
+    "knowledge_status": "awaiting_personal_booking",
+    "detail": "Усі дати та райони внесено, але бронювання й оплата можуть бути не здійснені.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 8,
+    "topic": "WeChat/Alipay Android KYC / Octopus",
+    "knowledge_status": "device_test_required",
+    "detail": "Мініпутівник, паспортна ідентифікація, резерв готівки/картки - включено. Жива оплата не перевірена.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 9,
+    "topic": "eSIM Sidekick and Google China translation stack",
+    "knowledge_status": "device_test_required",
+    "detail": "Включено платний тригер Sidekick, dual SIM, офлайн OCR та резервні інструменти; потрібен тест на Pixel.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 10,
+    "topic": "Visa Infinite actual insurance certificate",
+    "knowledge_status": "awaiting_personal_document",
+    "detail": "Не можна генерувати або гарантувати поліс. Потрібен чинний сертифікат із прізвищами/територіями.",
+    "historical_v19_status": "missing",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 11,
+    "topic": "Parental consent / travel documents for minor",
+    "knowledge_status": "awaiting_signed_document",
+    "detail": "Є форма підписаної згоди, але невідомо чи підпис отримано та чи є документи спорідненості.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 12,
+    "topic": "Food guide / street eats / Chinese fast food",
+    "knowledge_status": "documented_with_live_price_caveat",
+    "detail": "68+ страв і мережі є; ціни лише діапазони, фактична ціна за QR-меню.",
+    "historical_v19_status": "included",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 13,
+    "topic": "Museums cultural encyclopaedia/EPUB sources",
+    "knowledge_status": "documented_with_licence_caveat",
+    "detail": "Приватні та відкриті джерела, понад 100 фото приватної версії; актуальні години перевіряти з офіційних ресурсів.",
+    "historical_v19_status": "included",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 14,
+    "topic": "POI entrances, exact routing and timed itineraries",
+    "knowledge_status": "partial_geodata",
+    "detail": "11 джерельних описів входів; Valhalla доданий як опційний розрахунок пішого шляху онлайн із fallback AMap/Organic Maps. Не всі входи мають точний GPS.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 15,
+    "topic": "Netlify public/private and offline cache",
+    "knowledge_status": "implemented_not_device_tested",
+    "detail": "PWA, кеш, версіонування та JSON backup; реальний тест на URL Netlify не виконано.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 16,
+    "topic": "5G Three UK router, AI glasses, Shenzhen shopping",
+    "knowledge_status": "documented_shop_tests_needed",
+    "detail": "Частоти/модулі/локальна та глобальна ревізія описані; наявність певного SKU не підтверджена.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 17,
+    "topic": "End-to-end cost calculator, FX, VAT",
+    "knowledge_status": "functional_without_actuals",
+    "detail": "Локальний кошторис/курси/покупки; фінальні готелі і фактичні витрати можуть бути відсутні.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 18,
+    "topic": "Layover Badaling on 4 Nov verified train and buffer",
+    "knowledge_status": "conditional_high_risk",
+    "detail": "Зимовий вхід після 07:30, повернення з Badaling та прибуття у PKX до 12:15. Точний куплений поїзд НЕ підтверджений.",
+    "historical_v19_status": "conflict",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 19,
+    "topic": "Source-based attribution and provenance",
+    "knowledge_status": "documented_audit",
+    "detail": "Додано список джерел, дату, відмінність архівних та поточних; не всі сотні старих тверджень окремо перевірено.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  },
+  {
+    "id": 20,
+    "topic": "Real 2026 opening hours, prices, transport for ALL POIs",
+    "knowledge_status": "partial_currentness",
+    "detail": "Для ключових Badaling, таксі, West Kowloon, Gongbei, PKX багаж актуальні джерела. Для решти об’єктів лише live links та оглядові позначки.",
+    "historical_v19_status": "partial",
+    "verified_on": "2026-10-24",
+    "source_urls": []
+  }
+]

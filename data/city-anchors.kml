@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document><name>China Atlas 2026 · approximate city points</name>
+<Placemark><name>Пекін</name><description>Approximate city anchor ONLY</description><Point><coordinates>116.4074,39.9042,0</coordinates></Point></Placemark>
+<Placemark><name>Гонконг</name><description>Approximate city anchor ONLY</description><Point><coordinates>114.1694,22.3193,0</coordinates></Point></Placemark>
+<Placemark><name>Шеньчжень</name><description>Approximate city anchor ONLY</description><Point><coordinates>114.0579,22.5431,0</coordinates></Point></Placemark>
+<Placemark><name>Гуанчжоу</name><description>Approximate city anchor ONLY</description><Point><coordinates>113.2644,23.1291,0</coordinates></Point></Placemark>
+<Placemark><name>Чжухай</name><description>Approximate city anchor ONLY</description><Point><coordinates>113.576,22.271,0</coordinates></Point></Placemark>
+<Placemark><name>Макао</name><description>Approximate city anchor ONLY</description><Point><coordinates>113.5439,22.1987,0</coordinates></Point></Placemark></Document></kml>

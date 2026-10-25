@@ -1,0 +1,124 @@
+[
+  {
+    "id": "r-westkowloon",
+    "date": "2026-10-28",
+    "city": "hongkong",
+    "title": "Austin Station → West Kowloon HSR",
+    "mode": "walk+station",
+    "origin": "Austin Station, Hong Kong",
+    "destination": "Hong Kong West Kowloon Station",
+    "waypoints": [
+      "Austin Station Exit K/N connection",
+      "West Kowloon B1 Ticketing Concourse",
+      "B3 Immigration and Boarding",
+      "B4 train platform"
+    ],
+    "level": "official_indoor_wayfinding_not_gps_geometry",
+    "source": [
+      "hk_transport",
+      "mtr_maps",
+      "mtr_process"
+    ],
+    "notice": "Офіційно підтверджено з’єднання і послідовність поверхів. Точне GPS-входження в пішохідний тунель та конкретна платформа не підтверджені."
+  },
+  {
+    "id": "r-nanlian",
+    "date": "2026-11-02",
+    "city": "hongkong",
+    "title": "Diamond Hill MTR Exit C2 → Nan Lian Garden",
+    "mode": "walk",
+    "origin": "Diamond Hill Station Exit C2, Hong Kong",
+    "destination": "Nan Lian Garden 60 Fung Tak Road, Hong Kong",
+    "waypoints": [
+      "Diamond Hill Exit C2",
+      "Nan Lian Garden"
+    ],
+    "level": "official_exit_destination_no_door_gps",
+    "source": [
+      "nanlian"
+    ],
+    "notice": "Коротка офіційна інструкція до парку; тротуарну геометрію й час маршруту розраховує зовнішній навігатор."
+  },
+  {
+    "id": "r-chen",
+    "date": "2026-10-29",
+    "city": "guangzhou",
+    "title": "Chen Clan Academy Station Exit D → музей",
+    "mode": "walk",
+    "origin": "陈家祠地铁站D口 广州",
+    "destination": "陈家祠 广东民间工艺博物馆 广州",
+    "waypoints": [
+      "陈家祠地铁站 D 出口",
+      "陈家祠 正门"
+    ],
+    "level": "exit_confirmed_2026_geotag_2025",
+    "source": [
+      "gz_d",
+      "gz_photo",
+      "gz_osm"
+    ],
+    "notice": "Офіційна/місцева інструкція вказує D і приблизно 2-3 хв; точна геометрія тротуару не завантажена."
+  },
+  {
+    "id": "r-tst",
+    "date": "2026-10-27",
+    "city": "hongkong",
+    "title": "Star Ferry Pier → Tsim Sha Tsui Waterfront",
+    "mode": "walk",
+    "origin": "Tsim Sha Tsui Star Ferry Pier Salisbury Road",
+    "destination": "Avenue of Stars Hong Kong",
+    "waypoints": [
+      "Star Ferry Pier, Salisbury Road",
+      "Hong Kong Cultural Centre / Clock Tower",
+      "Tsim Sha Tsui Promenade",
+      "Avenue of Stars"
+    ],
+    "level": "proposed_landmark_sequence",
+    "source": [
+      "ferry"
+    ],
+    "notice": "Підтверджено місце причалу, але конкретну пішохідну трасу та доступність переходів не перевірено; відкрийте маршрут у карті."
+  },
+  {
+    "id": "r-macau-heritage",
+    "date": "2026-10-31",
+    "city": "macau",
+    "title": "MGTO історична пішохідна стежка від Senado Square",
+    "mode": "walk",
+    "origin": "Senado Square Macau",
+    "destination": "Inner Harbour Macau",
+    "waypoints": [
+      "Senado Square",
+      "St. Dominic’s Church",
+      "Sam Kai Vui Kun",
+      "Rua da Felicidade",
+      "Inner Harbour"
+    ],
+    "level": "official_published_historical_route_check_current_access",
+    "source": [
+      "macau_route",
+      "macau_map"
+    ],
+    "notice": "Підмножина офіційної тематичної стежки MGTO, первинний буклет старий: перевіряйте теперішній стан вулиць, доступ і безпеку."
+  },
+  {
+    "id": "r-gongbei",
+    "date": "2026-10-31",
+    "city": "zhuhai",
+    "title": "Zhuhai Railway / Gongbei area → Macau Border Gate",
+    "mode": "walk+border",
+    "origin": "Zhuhai Railway Station 珠海站",
+    "destination": "Gongbei Port 拱北口岸",
+    "waypoints": [
+      "Zhuhai railway station public exit",
+      "Signposts for 拱北口岸",
+      "Mainland departure immigration",
+      "Macau Border Gate arrival immigration"
+    ],
+    "level": "border_location_confirmed_route_not_surveyed",
+    "source": [
+      "macau_gate"
+    ],
+    "notice": "НЕ стверджується конкретний залізничний вихід чи трасування пішки; користуйтеся офіційними покажчиками на місці."
+  }
+]

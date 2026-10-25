@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark><name>Beijing Daxing Airport</name><description>POI center, not entrance</description><Point><coordinates>116.4109,39.5099</coordinates></Point></Placemark>
+<Placemark><name>Qianmen Street</name><description>POI center, not entrance</description><Point><coordinates>116.3987,39.8953</coordinates></Point></Placemark>
+<Placemark><name>Dashilar</name><description>POI center, not entrance</description><Point><coordinates>116.3936,39.8951</coordinates></Point></Placemark>
+<Placemark><name>Hong Kong International Airport</name><description>POI center, not entrance</description><Point><coordinates>113.9185,22.308</coordinates></Point></Placemark>
+<Placemark><name>Tsim Sha Tsui Promenade</name><description>POI center, not entrance</description><Point><coordinates>114.1721,22.2949</coordinates></Point></Placemark>
+<Placemark><name>Star Ferry Tsim Sha Tsui Pier</name><description>POI center, not entrance</description><Point><coordinates>114.1687,22.2937</coordinates></Point></Placemark>
+<Placemark><name>Victoria Peak viewpoint</name><description>POI center, not entrance</description><Point><coordinates>114.1456,22.2759</coordinates></Point></Placemark>
+<Placemark><name>Hong Kong West Kowloon Station</name><description>POI center, not entrance</description><Point><coordinates>114.1616,22.3047</coordinates></Point></Placemark>
+<Placemark><name>Futian Railway Station</name><description>POI center, not entrance</description><Point><coordinates>114.062,22.5375</coordinates></Point></Placemark>
+<Placemark><name>Huaqiangbei Electronics District</name><description>POI center, not entrance</description><Point><coordinates>114.0857,22.5447</coordinates></Point></Placemark>
+<Placemark><name>Lianhuashan Park</name><description>POI center, not entrance</description><Point><coordinates>114.0602,22.5538</coordinates></Point></Placemark>
+<Placemark><name>Shenzhen North Railway Station (ARCHIVE, not booked C8004)</name><description>POI center, not entrance</description><Point><coordinates>114.0295,22.6096</coordinates></Point></Placemark>
+<Placemark><name>Guangzhou South Railway Station</name><description>POI center, not entrance</description><Point><coordinates>113.2691,22.9897</coordinates></Point></Placemark>
+<Placemark><name>Chen Clan Ancestral Hall</name><description>POI center, not entrance</description><Point><coordinates>113.24013,23.12983</coordinates></Point></Placemark>
+<Placemark><name>Shamian Island</name><description>POI center, not entrance</description><Point><coordinates>113.2381,23.1073</coordinates></Point></Placemark>
+<Placemark><name>Museum of the Mausoleum of the Nanyue King</name><description>POI center, not entrance</description><Point><coordinates>113.2599,23.1426</coordinates></Point></Placemark>
+<Placemark><name>Canton Tower</name><description>POI center, not entrance</description><Point><coordinates>113.3245,23.1065</coordinates></Point></Placemark>
+<Placemark><name>Beijing Road Pedestrian Street</name><description>POI center, not entrance</description><Point><coordinates>113.2694,23.1237</coordinates></Point></Placemark>
+<Placemark><name>Sacred Heart Cathedral</name><description>POI center, not entrance</description><Point><coordinates>113.2582,23.1176</coordinates></Point></Placemark>
+<Placemark><name>Zhuhai Railway Station</name><description>POI center, not entrance</description><Point><coordinates>113.5504,22.2176</coordinates></Point></Placemark>
+<Placemark><name>Gongbei Port</name><description>POI center, not entrance</description><Point><coordinates>113.5523,22.2162</coordinates></Point></Placemark>
+<Placemark><name>A-Ma Temple</name><description>POI center, not entrance</description><Point><coordinates>113.5322,22.1859</coordinates></Point></Placemark>
+<Placemark><name>Senado Square</name><description>POI center, not entrance</description><Point><coordinates>113.5394,22.1936</coordinates></Point></Placemark>
+<Placemark><name>Ruins of St Paul’s</name><description>POI center, not entrance</description><Point><coordinates>113.5405,22.1978</coordinates></Point></Placemark>
+<Placemark><name>Taipa Village</name><description>POI center, not entrance</description><Point><coordinates>113.5587,22.1551</coordinates></Point></Placemark>
+<Placemark><name>HZMB Macau Port</name><description>POI center, not entrance</description><Point><coordinates>113.585,22.2009</coordinates></Point></Placemark>
+<Placemark><name>Tian Tan Buddha</name><description>POI center, not entrance</description><Point><coordinates>113.905,22.2546</coordinates></Point></Placemark>
+<Placemark><name>Tai O Fishing Village</name><description>POI center, not entrance</description><Point><coordinates>113.8628,22.2535</coordinates></Point></Placemark>
+<Placemark><name>Po Lin Monastery</name><description>POI center, not entrance</description><Point><coordinates>113.9043,22.2553</coordinates></Point></Placemark>
+<Placemark><name>Nan Lian Garden</name><description>POI center, not entrance</description><Point><coordinates>114.2045,22.3386</coordinates></Point></Placemark>
+<Placemark><name>Sham Shui Po</name><description>POI center, not entrance</description><Point><coordinates>114.1629,22.3306</coordinates></Point></Placemark>
+<Placemark><name>Stanley Market</name><description>POI center, not entrance</description><Point><coordinates>114.2135,22.2196</coordinates></Point></Placemark>
+<Placemark><name>Hong Kong International Airport</name><description>POI center, not entrance</description><Point><coordinates>113.9185,22.308</coordinates></Point></Placemark>
+<Placemark><name>Beijing Daxing Airport</name><description>POI center, not entrance</description><Point><coordinates>116.4109,39.5099</coordinates></Point></Placemark>
+<Placemark><name>Badaling Great Wall</name><description>POI center, not entrance</description><Point><coordinates>116.0184,40.355</coordinates></Point></Placemark>
+<Placemark><name>London Heathrow Airport Terminal 4</name><description>POI center, not entrance</description><Point><coordinates>-0.447,51.4593</coordinates></Point></Placemark>
+<Placemark><name>Beijing Daxing Airport (arrival)</name><description>POI center, not entrance</description><Point><coordinates>116.4109,39.5099</coordinates></Point></Placemark>
+</Document></kml>

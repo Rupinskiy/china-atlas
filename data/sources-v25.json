@@ -1,0 +1,117 @@
+{
+  "nia240": {
+    "title": "NIA · Visa-Free Transit Policies (20.08.2026)",
+    "url": "https://en.nia.gov.cn/n147418/n147463/c183412/content.html",
+    "date": "2026-08-20"
+  },
+  "niawest": {
+    "title": "NIA · West Kowloon entry port (effective 05.11.2025)",
+    "url": "https://en.nia.gov.cn/n147413/c187308/content.html",
+    "date": "2025-11-03"
+  },
+  "macau": {
+    "title": "Macao SAR · Immigration Clearance of Non-residents",
+    "url": "https://www.gov.mo/en/services/ps-1474/ps-1474b/",
+    "date": "checked 2026-10-24"
+  },
+  "bordergate": {
+    "title": "Macao SAR · Border Gate operating hours",
+    "url": "https://www.cdqq.gov.mo/en/home-coming/living/transportation/",
+    "date": "checked 2026-10-24"
+  },
+  "hkvisa": {
+    "title": "Hong Kong Immigration · Visit Visa / Entry Permit table",
+    "url": "https://www.immd.gov.hk/eng/services/visas/visit-transit/visit-visa-entry-permit.html",
+    "date": "checked 2026-10-24"
+  },
+  "mtrproc": {
+    "title": "MTR · High Speed Rail departure procedure",
+    "url": "https://www.highspeed.mtr.com.hk/en/guide/process-departure.html",
+    "date": "checked 2026-10-24"
+  },
+  "mtrbag": {
+    "title": "MTR · High Speed Rail baggage regulations",
+    "url": "https://www.highspeed.mtr.com.hk/en/guide/carriage-of-luggage.html",
+    "date": "checked 2026-10-24"
+  },
+  "mtr15": {
+    "title": "MTR · Rules for cross-boundary passengers, chapter 2, rule 6",
+    "url": "https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-en.pdf",
+    "date": "2023 rules checked 2026-10-24"
+  },
+  "czhotel": {
+    "title": "China Southern · Free Accommodations for Transfer Passengers, 2026",
+    "url": "https://www.csair.com/mcms/mcmsNewSite/en/cn/build/index.html?page=free&title=Free",
+    "date": "2026 terms"
+  },
+  "czpower": {
+    "title": "China Southern · Safety Tips for Transporting Lithium Batteries",
+    "url": "https://www.csair.com/newh5/en/tourguide/booking/orders/order/battery/",
+    "date": "checked 2026-10-24"
+  },
+  "caac3c": {
+    "title": "CAAC · Domestic flight power bank CCC rule",
+    "url": "https://www.caac.gov.cn/English/News/202507/t20250709_227894.html",
+    "date": "2025-07-09"
+  },
+  "hzmb": {
+    "title": "HZMB Shuttle Bus · Official fares and currency",
+    "url": "https://www.hzmbus.com/en/message.html?tab=2",
+    "date": "checked 2026-10-24"
+  },
+  "hzmbgov": {
+    "title": "HZMB Hong Kong Authority · Cross-boundary shuttle",
+    "url": "https://www.hzmb.gov.hk/en/cross-boundary.html",
+    "date": "checked 2026-10-24"
+  },
+  "ukvisa": {
+    "title": "GOV.UK · Travel with your eVisa",
+    "url": "https://www.gov.uk/evisa/travel-with-evisa",
+    "date": "checked 2026-10-24"
+  },
+  "ukminor": {
+    "title": "GOV.UK · Get permission to take a child abroad",
+    "url": "https://www.gov.uk/permission-take-child-abroad",
+    "date": "checked 2026-10-24"
+  },
+  "payments": {
+    "title": "Shanghai Government · Pay with overseas bank cards (2026-09-21)",
+    "url": "https://english.shanghai.gov.cn/en-Individuals-BankingandPayments-Payments/20260921/c2c94d06a0454c8fa05386b80d0ae865.html",
+    "date": "2026-09-21"
+  },
+  "wechatwaiver": {
+    "title": "Beijing Government · WeChat Pay promotion, 2026",
+    "url": "https://english.beijing.gov.cn/travellinginbeijing/essentials/inboundtourismfacilitationmeasures/202603/t20260326_4566766.html",
+    "date": "2026-03-26"
+  },
+  "octopus": {
+    "title": "Octopus · Tourist Octopus China T-Union sold card",
+    "url": "https://www.octopus.com.hk/en/consumer/octopus-cards/products/sold-tourist/mot.html",
+    "date": "checked 2026-10-24"
+  },
+  "privat": {
+    "title": "PrivatBank · Premium MAX card services & spend conditions",
+    "url": "https://privatbank.ua/premium-banking/premium-max",
+    "date": "checked 2026-10-24"
+  },
+  "badaling": {
+    "title": "Beijing Government · Badaling hours / ticket discounts",
+    "url": "https://english.beijing.gov.cn/specials/ticketing/attractions/202407/t20240717_3751609.html",
+    "date": "2024-07-17 checked 2026-10-24"
+  },
+  "officialuk": {
+    "title": "GOV.UK · Entering the UK with an eVisa",
+    "url": "https://www.gov.uk/uk-border-control/before-you-leave-for-the-uk",
+    "date": "checked 2026-10-24"
+  },
+  "mtrage": {
+    "title": "MTR · Ticket Types age thresholds",
+    "url": "https://www.highspeed.mtr.com.hk/en/ticket/ticket-type.html",
+    "date": "checked 2026-10-24"
+  },
+  "tencent90": {
+    "title": "Tencent · 90-day Fee Waiver for International Cards at APEC 2026",
+    "url": "https://www.tencent.com/tencent-announces-three-initiatives-to-make-inbound-payments-for-international-visitors-easier-than-ever-during-apec-2026/",
+    "date": "published 2026; checked 2026-10-24"
+  }
+}

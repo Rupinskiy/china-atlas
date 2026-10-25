@@ -1,0 +1,131 @@
+{
+ "source": "China - 2021.epub (Drive: 01_chapters_and_navigation.zip + 02-04_media_part); manifest.json",
+ "note": "Список за назвами файлів (ключові слова маршруту). Вміст зображень не переглядався: медіа-частини 100-125 МБ не завантажувалися в цій сесії.",
+ "images": [
+  {
+   "path": "EPUB/images/32-macau-chap-op-chi16.jpg",
+   "kb": 506,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/13-dashilar-xicheng-sth-chi16.jpg",
+   "kb": 1115,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/33-guangdong-loc-chi16.jpg",
+   "kb": 37,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/31-central-hong-kong-kowloon-chi16.jpg",
+   "kb": 1727,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/32-macau-peninsula-chi16.jpg",
+   "kb": 1415,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/macau-cc.jpg",
+   "kb": 111,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/33-guangzhou-chi16.jpg",
+   "kb": 1154,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/forbidden-city-IH.jpg",
+   "kb": 1472,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/hongkong-cc.jpg",
+   "kb": 115,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/33-guangdong-chap-op-chi16.jpg",
+   "kb": 1287,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/31-hong-kong-wt-chi16.jpg",
+   "kb": 715,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/14-great-wall-chi16.jpg",
+   "kb": 900,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/guangzhou-cc.jpg",
+   "kb": 115,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/33-east-guangzhou-chi16.jpg",
+   "kb": 742,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/beijing-cc.jpg",
+   "kb": 110,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/13-beijing-loc-chi16.jpg",
+   "kb": 38,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/31-hong-kong-chap-op-chi16.jpg",
+   "kb": 901,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/31-kowloon-chi16.jpg",
+   "kb": 1030,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/33-zhuhai-chi16.jpg",
+   "kb": 897,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/32-macau-loc-chi16.jpg",
+   "kb": 37,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/13-beijing-chap-op-chi16.jpg",
+   "kb": 893,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/08-itin-beijing-mongolia-chi16.jpg",
+   "kb": 165,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/31-hong-kong-loc-chi16.jpg",
+   "kb": 38,
+   "already_in_atlas": false
+  },
+  {
+   "path": "EPUB/images/32-macau-central-chi16.jpg",
+   "kb": 703,
+   "already_in_atlas": true
+  },
+  {
+   "path": "EPUB/images/13-forbidden-city-chi16.jpg",
+   "kb": 1456,
+   "already_in_atlas": false
+  }
+ ]
+}

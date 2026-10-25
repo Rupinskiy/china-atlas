@@ -1,0 +1,476 @@
+[
+  {
+    "id": "TR01",
+    "topic": "24-hour airside transit",
+    "status": "confirmed",
+    "finding_en": "24-hour visa-free transit requires onward international transport within 24 hours; leaving the port controlled area requires temporary entry permission.",
+    "source_ids": [
+      "nia240"
+    ],
+    "topic_uk": "24-годинний транзит",
+    "finding_uk": "До 24 годин транзит можливий за умов підтвердженого подальшого міжнародного рейсу; вихід із контрольованої транзитної зони потребує тимчасового дозволу."
+  },
+  {
+    "id": "TR02",
+    "topic": "240-hour eligibility",
+    "status": "confirmed",
+    "finding_en": "Ukraine is among 57 eligible passport countries as of 20 August 2026.",
+    "source_ids": [
+      "nia240"
+    ],
+    "topic_uk": "Право України на 240 годин",
+    "finding_uk": "Україна у чинному переліку 57 країн 240-годинного безвізового транзиту станом на 20.08.2026."
+  },
+  {
+    "id": "TR03",
+    "topic": "65 entry ports",
+    "status": "confirmed",
+    "finding_en": "65 designated entry ports in 24 regions as of 20 Aug 2026.",
+    "source_ids": [
+      "nia240"
+    ],
+    "topic_uk": "65 пунктів в’їзду",
+    "finding_uk": "Програма діє для 65 визначених пунктів в’їзду у 24 адміністративних регіонах."
+  },
+  {
+    "id": "TR04",
+    "topic": "West Kowloon allowed for entry",
+    "status": "confirmed",
+    "finding_en": "West Kowloon Station Port added effective 5 Nov 2025.",
+    "source_ids": [
+      "niawest"
+    ],
+    "topic_uk": "West Kowloon - пункт в’їзду",
+    "finding_uk": "West Kowloon увійшов до програми як пункт в’їзду 05.11.2025."
+  },
+  {
+    "id": "TR05",
+    "topic": "Onward requirement for China",
+    "status": "confirmed_with_condition",
+    "finding_en": "A confirmed dated onward ticket to third country/region is required. Specific pedestrian exit at Gongbei with Macau hotel booking has not been pre-authorized.",
+    "source_ids": [
+      "nia240"
+    ],
+    "topic_uk": "Доказ подальшої поїздки",
+    "finding_uk": "Потрібний підтверджений маршрут/квиток до третьої країни або регіону з визначеними датами; бронь готелю Макао сама по собі не гарантує прийнятність."
+  },
+  {
+    "id": "TR06",
+    "topic": "Gongbei exit via pedestrian lane",
+    "status": "unresolved",
+    "finding_en": "A general border crossing does not independently prove onward arrangement acceptance for 240-hour TWOV. Seek NIA 12367 written clarification.",
+    "source_ids": [
+      "nia240"
+    ],
+    "topic_uk": "Піший Gongbei - невизначеність",
+    "finding_uk": "Прийняття конкретних доказів пішого виїзду через Gongbei не підтверджено. Потрібна відповідь NIA 12367."
+  },
+  {
+    "id": "HK01",
+    "topic": "Ukrainian passport Hong Kong",
+    "status": "confirmed",
+    "finding_en": "Ukrainian passport holders receive 14-day visa-free visit per current HK Immigration table.",
+    "source_ids": [
+      "hkvisa"
+    ],
+    "topic_uk": "Гонконг: паспорт України",
+    "finding_uk": "Офіційна таблиця HK Immigration передбачає 14 днів безвізового відвідування для українського паспорта."
+  },
+  {
+    "id": "MC01",
+    "topic": "Macau arrival visa fee",
+    "status": "confirmed_with_condition",
+    "finding_en": "For travellers not visa-exempt: individual one-off Macau entry permit MOP200; two ordinary passports MOP400 if both require permits.",
+    "source_ids": [
+      "macau"
+    ],
+    "topic_uk": "Макао: вартість дозволу",
+    "finding_uk": "За відсутності безвізового звільнення одноразовий Entry Permit коштує MOP 200 з паспорта; за два - MOP 400."
+  },
+  {
+    "id": "MC02",
+    "topic": "Macau sufficient means",
+    "status": "confirmed",
+    "finding_en": "MOP5000 per person for an intended stay of up to 7 days (proof of means, not fee).",
+    "source_ids": [
+      "macau"
+    ],
+    "topic_uk": "Макао: засоби існування",
+    "finding_uk": "Для запланованого перебування до 7 днів потрібне підтвердження щонайменше MOP 5 000 на людину; це не плата."
+  },
+  {
+    "id": "MC03",
+    "topic": "Macau onward travel",
+    "status": "confirmed",
+    "finding_en": "Visitors need onward/return ticket unless they prove residence in Mainland or Hong Kong under rules.",
+    "source_ids": [
+      "macau"
+    ],
+    "topic_uk": "Макао: подальша поїздка",
+    "finding_uk": "Відвідувачеві зазвичай потрібний квиток на виїзд, крім передбачених винятків для мешканців Гонконгу/материка."
+  },
+  {
+    "id": "MC04",
+    "topic": "Macau passport validity",
+    "status": "confirmed",
+    "finding_en": "Passport generally must be valid at least 90 days beyond intended stay.",
+    "source_ids": [
+      "macau"
+    ],
+    "topic_uk": "Макао: строк паспорта",
+    "finding_uk": "Паспорт за загальним правилом має бути чинним щонайменше 90 днів понад період запланованого перебування."
+  },
+  {
+    "id": "MC05",
+    "topic": "Border Gate (Gongbei) hours",
+    "status": "confirmed",
+    "finding_en": "Macao Border Gate generally 06:00-01:00 next day; not 24 hours.",
+    "source_ids": [
+      "bordergate"
+    ],
+    "topic_uk": "Gongbei: години роботи",
+    "finding_uk": "Border Gate у Макао за офіційним графіком працює 06:00-01:00 наступної доби, а не цілодобово."
+  },
+  {
+    "id": "MT01",
+    "topic": "West Kowloon B1/B3",
+    "status": "confirmed",
+    "finding_en": "B1 document/ticket checks, B3 both immigration procedures and boarding.",
+    "source_ids": [
+      "mtrproc"
+    ],
+    "topic_uk": "West Kowloon: рівні B1/B3",
+    "finding_uk": "B1 - реєстрація документа й перевірка квитка, B3 - прикордонні процедури та посадка."
+  },
+  {
+    "id": "MT02",
+    "topic": "West Kowloon 30-minute deadline",
+    "status": "confirmed",
+    "finding_en": "Real-name document / ticket checks end 30 minutes before scheduled departure.",
+    "source_ids": [
+      "mtrproc"
+    ],
+    "topic_uk": "HSR: закриття перевірки",
+    "finding_uk": "Перевірка імені та квитка припиняється за 30 хв до відправлення."
+  },
+  {
+    "id": "MT03",
+    "topic": "Boarding gate closure",
+    "status": "confirmed",
+    "finding_en": "Boarding gate opens 15 min prior and closes during last 5 minutes before departure.",
+    "source_ids": [
+      "mtrproc"
+    ],
+    "topic_uk": "HSR: посадка",
+    "finding_uk": "Посадка відкривається приблизно за 15 хв та припиняється в останні 5 хв перед відправленням."
+  },
+  {
+    "id": "MT04",
+    "topic": "HSR adult baggage limits",
+    "status": "confirmed",
+    "finding_en": "20 kg total per adult; max 130 cm length+width+height per item, no checked luggage service.",
+    "source_ids": [
+      "mtrbag"
+    ],
+    "topic_uk": "HSR: норма багажу",
+    "finding_uk": "Дорослий пасажир: до 20 кг; сума габаритів кожної одиниці до 130 см. Послуги здачі багажу на HSR немає."
+  },
+  {
+    "id": "MT05",
+    "topic": "HSR advance ticket availability",
+    "status": "confirmed",
+    "finding_en": "Default presale period 15 days including departure day; changes may be announced.",
+    "source_ids": [
+      "mtr15"
+    ],
+    "topic_uk": "HSR: продаж квитків",
+    "finding_uk": "Стандартне вікно попереднього продажу - 15 днів включно з датою поїздки; можливі опубліковані зміни."
+  },
+  {
+    "id": "CZ01",
+    "topic": "China Southern transit hotel",
+    "status": "confirmed_with_condition",
+    "finding_en": "2026 programme exists for eligible itineraries at Daxing, subject to exact ticket/class/routes and availability.",
+    "source_ids": [
+      "czhotel"
+    ],
+    "topic_uk": "CZ: транзитний готель",
+    "finding_uk": "Програма безкоштовного проживання в Daxing існує, але застосовуються конкретні вимоги до квитків/класу/маршруту й наявності номерів."
+  },
+  {
+    "id": "CZ02",
+    "topic": "China Southern hotel booking",
+    "status": "unresolved",
+    "finding_en": "No actual room voucher supplied in baseline for either PKX layover. Eligibility is not a booked room.",
+    "source_ids": [
+      "czhotel"
+    ],
+    "topic_uk": "CZ: відсутній ваучер",
+    "finding_uk": "Із переданих матеріалів не підтверджено виданий ваучер жодної ночі PKX. Потенційне право ≠ бронювання."
+  },
+  {
+    "id": "CZ03",
+    "topic": "China Southern online booking",
+    "status": "confirmed",
+    "finding_en": "2026 published channel includes Beijing online booking; older web pages still describe offline-only Beijing, so 2026 version takes priority.",
+    "source_ids": [
+      "czhotel"
+    ],
+    "topic_uk": "CZ: онлайн-канал 2026",
+    "finding_uk": "Офіційні умови 2026 включають онлайн-бронювання в Пекіні, попри старі сторінки з описом лише офлайн-оформлення."
+  },
+  {
+    "id": "CZ04",
+    "topic": "China Southern power banks",
+    "status": "confirmed",
+    "finding_en": "Must be carry-on; do not use or recharge power banks during flight; not overhead bin; keep accessible under seat or pocket.",
+    "source_ids": [
+      "czpower"
+    ],
+    "topic_uk": "CZ: павербанк у літаку",
+    "finding_uk": "Лише ручна поклажа; заборонено використовувати й заряджати під час польоту; тримати доступним під сидінням/у кишені сидіння."
+  },
+  {
+    "id": "PW01",
+    "topic": "Power banks under 100 Wh",
+    "status": "confirmed",
+    "finding_en": "Up to 100 Wh generally no airline pre-approval; 100-160 Wh requires airline approval; over 160 Wh prohibited.",
+    "source_ids": [
+      "czpower"
+    ],
+    "topic_uk": "Павербанк: місткість",
+    "finding_uk": "До 100 Wh зазвичай без окремого погодження; 100-160 Wh - погодження перевізника, понад 160 Wh - не можна."
+  },
+  {
+    "id": "PW02",
+    "topic": "3C rule for domestic China flights",
+    "status": "confirmed",
+    "finding_en": "Since 28 Jun 2025, domestic flights ban power banks without legible CCC marking or recalled units.",
+    "source_ids": [
+      "caac3c"
+    ],
+    "topic_uk": "CCC на внутрішніх авіарейсах",
+    "finding_uk": "З 28.06.2025 на внутрішніх рейсах КНР не приймають павербанки без читабельного CCC/3C-маркування та відкликані моделі."
+  },
+  {
+    "id": "BUS01",
+    "topic": "HZMB Macau-to-Hong Kong",
+    "status": "confirmed",
+    "finding_en": "Standard fare MOP65 (06:00-23:59), MOP70 (00:00-05:59) from Macau port.",
+    "source_ids": [
+      "hzmb"
+    ],
+    "topic_uk": "Автобус Макао → Гонконг",
+    "finding_uk": "Gold Bus з порту Макао: MOP 65 удень (06:00-23:59), MOP 70 вночі."
+  },
+  {
+    "id": "BUS02",
+    "topic": "HZMB Hong Kong-to-Macau",
+    "status": "confirmed",
+    "finding_en": "Standard fare HKD65 daytime and HKD70 overnight when departing HK port.",
+    "source_ids": [
+      "hzmb"
+    ],
+    "topic_uk": "Автобус Гонконг → Макао",
+    "finding_uk": "Gold Bus з порту Гонконгу: HKD 65 удень, HKD 70 вночі."
+  },
+  {
+    "id": "BUS03",
+    "topic": "HZMB vehicle operating hours",
+    "status": "confirmed",
+    "finding_en": "Cross-boundary HZMB shuttle bus is 24-hour; travel between city and port requires separate connections.",
+    "source_ids": [
+      "hzmbgov"
+    ],
+    "topic_uk": "HZMB: автобус між портами",
+    "finding_uk": "Човниковий автобус HZMB працює цілодобово. Трансфер між портом та центром міста оплачується й планується окремо."
+  },
+  {
+    "id": "UK01",
+    "topic": "UKVI eVisa linkage",
+    "status": "confirmed",
+    "finding_en": "Active passport/travel document must be correctly linked to UKVI status before travel.",
+    "source_ids": [
+      "ukvisa"
+    ],
+    "topic_uk": "UKVI: паспорт і eVisa",
+    "finding_uk": "Перед поверненням чинний паспорт повинен бути правильно прив’язаний до UKVI-акаунта."
+  },
+  {
+    "id": "UK02",
+    "topic": "UK eVisa share code",
+    "status": "confirmed",
+    "finding_en": "Travel share code valid for 90 days, supplementary to passport/eVisa, not sole entry authorisation.",
+    "source_ids": [
+      "ukvisa"
+    ],
+    "topic_uk": "UKVI: travel share code",
+    "finding_uk": "Travel share code чинний 90 днів; це додатковий доказ статусу, а не заміна паспорта."
+  },
+  {
+    "id": "UK03",
+    "topic": "Minor parental consent",
+    "status": "confirmed_with_condition",
+    "finding_en": "Permission from people with parental responsibility, ordinarily evidenced by written letter; individual orders/exceptions apply.",
+    "source_ids": [
+      "ukminor"
+    ],
+    "topic_uk": "Дозвіл на виїзд неповнолітнього",
+    "finding_uk": "Згода осіб із parental responsibility зазвичай оформлюється письмово, але можуть діяти судові винятки."
+  },
+  {
+    "id": "PAY01",
+    "topic": "Mainland Alipay/WeChat foreign cards",
+    "status": "confirmed",
+    "finding_en": "Eligible foreign Visa/Mastercard may be linked, subject to issuer approval and app KYC.",
+    "source_ids": [
+      "payments"
+    ],
+    "topic_uk": "Оплата іноземною карткою",
+    "finding_uk": "Відповідні іноземні Visa/Mastercard можна прив’язати до Alipay та WeChat Pay за умови підтвердження емітента й перевірок застосунку."
+  },
+  {
+    "id": "PAY02",
+    "topic": "Alipay and WeChat service fees",
+    "status": "confirmed_with_condition",
+    "finding_en": "At or below CNY200 usually no service fee, above CNY200 potentially 3% on entire payment; app promo may waive.",
+    "source_ids": [
+      "payments"
+    ],
+    "topic_uk": "Комісія при оплаті",
+    "finding_uk": "Платіж до CNY 200 зазвичай без комісії платформи; вище CNY 200 може стягуватися 3% від усієї суми."
+  },
+  {
+    "id": "PAY03",
+    "topic": "WeChat new cardholder waiver",
+    "status": "confirmed_with_condition",
+    "finding_en": "Tencent announced in 2026 a 90-consecutive-day waiver of the 3% international card processing fee for eligible first-time WeChat Pay international-card users, starting with the first transaction, up to RMB1,000 daily. Must check actual account eligibility.",
+    "source_ids": [
+      "tencent90"
+    ],
+    "topic_uk": "WeChat Pay: тимчасова акція",
+    "finding_uk": "Tencent офіційно повідомила у 2026 році про пільгу на комісію 3% для нових користувачів із міжнародною карткою протягом 90 календарних днів від першої транзакції; витрати в межах пільги - до CNY 1 000 на день. Участь залежить від акаунта."
+  },
+  {
+    "id": "OCT01",
+    "topic": "Tourist China T-Union Octopus",
+    "status": "confirmed",
+    "finding_en": "Sold tourist card price HKD42 excludes initial stored value/deposit; top-up separately.",
+    "source_ids": [
+      "octopus"
+    ],
+    "topic_uk": "Octopus T-Union",
+    "finding_uk": "Ціна туристичної фізичної T-Union Octopus - HKD 42 без початкового балансу й депозиту."
+  },
+  {
+    "id": "PB01",
+    "topic": "Visa Infinite Premium lounge spend",
+    "status": "confirmed_with_condition",
+    "finding_en": "Privat MAX page states spend threshold increases to UAH30,000 from 1 Oct 2026 for the relevant Visa airport service; eligibility/service-specific.",
+    "source_ids": [
+      "privat"
+    ],
+    "topic_uk": "Visa Infinite: витратна умова",
+    "finding_uk": "ПриватБанк повідомив про підвищення порога витрат до 30 000 грн з 01.10.2026 для відповідного Visa-сервісу в аеропорту."
+  },
+  {
+    "id": "PB02",
+    "topic": "Visa Airport Companion / DragonPass",
+    "status": "confirmed_with_condition",
+    "finding_en": "Visa Infinite Premium DragonPass programme and nominal two free guests subject to bank/network conditions and account eligibility.",
+    "source_ids": [
+      "privat"
+    ],
+    "topic_uk": "Visa DragonPass",
+    "finding_uk": "Visa Infinite Premium передбачає DragonPass і вказаний банком ліміт гостей, але персональне право залежить від умов картки й сервісу."
+  },
+  {
+    "id": "BW01",
+    "topic": "Badaling November hours",
+    "status": "confirmed_as_published",
+    "finding_en": "Beijing Government page lists 07:30-16:00 Nov-Mar; may change for individual day.",
+    "source_ids": [
+      "badaling"
+    ],
+    "topic_uk": "Badaling: листопадові години",
+    "finding_uk": "Довідник уряду Пекіна вказує 07:30-16:00 для листопада-березня; на конкретну дату можливі зміни."
+  },
+  {
+    "id": "BW02",
+    "topic": "Badaling minor ticket",
+    "status": "confirmed_as_published",
+    "finding_en": "Badaling ordinary admission free for under-18s with valid identification; other services extra.",
+    "source_ids": [
+      "badaling"
+    ],
+    "topic_uk": "Badaling: пільга до 18 років",
+    "finding_uk": "Звичайний вхід до Badaling безкоштовний до 18 років при наявності документа; додаткові послуги оплачуються."
+  },
+  {
+    "id": "BW03",
+    "topic": "Badaling outbound transit risk",
+    "status": "unresolved",
+    "finding_en": "Exact 4 Nov 2026 early and return HSR ticket, taxi duration and hotel have not been verified.",
+    "source_ids": [
+      "badaling"
+    ],
+    "topic_uk": "Badaling: маршрут 4 листопада",
+    "finding_uk": "Не підтверджені квитки HSR, ранній транспорт, точний час у дорозі та готель; це незакритий ризик рейсу CZ673."
+  },
+  {
+    "id": "FLT01",
+    "topic": "Flight schedule",
+    "status": "personal_document_not_revalidated",
+    "finding_en": "Four flight segments and booking times are user-supplied e-ticket data; no PNR live-status access.",
+    "source_ids": [],
+    "topic_uk": "Авіарейси: персональні документи",
+    "finding_uk": "Чотири сегменти й точні часи отримано з попереднього електронного квитка; бронювання PNR у живій базі не перевірено."
+  },
+  {
+    "id": "H01",
+    "topic": "Hotel nights",
+    "status": "personal_document_not_revalidated",
+    "finding_en": "Night-by-night locations are a plan; no confirmed payable accommodation vouchers established from baseline.",
+    "source_ids": [],
+    "topic_uk": "Готелі: статус підтвердження",
+    "finding_uk": "Ночівлі вказані як план. Індивідуальні підтверджені ваучери з матеріалів не встановлені."
+  },
+  {
+    "id": "FX01",
+    "topic": "Historical FX rates",
+    "status": "estimate_not_settlement",
+    "finding_en": "Archive cross-rate snapshots and bank assumptions are not confirmed debit rates on 24 Oct 2026.",
+    "source_ids": [],
+    "topic_uk": "Обмінні курси: оцінка",
+    "finding_uk": "Курси з історії Atlas не є підтвердженим курсом майбутнього списання банком."
+  },
+  {
+    "id": "AG01",
+    "topic": "Agoda Trip Savings",
+    "status": "account_specific_unresolved",
+    "finding_en": "Banner confirms automatic discount on eligible follow-on property at checkout; amount/limits not proven by screenshot.",
+    "source_ids": [],
+    "topic_uk": "Agoda Trip Savings: умови",
+    "finding_uk": "Банер обіцяє застосування знижки до відповідного наступного бронювання; розмір, ліміт і комбінація акцій не доведені."
+  },
+  {
+    "id": "AUDIO01",
+    "topic": "Audio offline readiness",
+    "status": "device_test_required",
+    "finding_en": "Text scripts are cached, but Ukrainian TTS voice, background playback, and real Pixel offline behaviour not device-tested.",
+    "source_ids": [],
+    "topic_uk": "Аудіогіди: офлайн-тест",
+    "finding_uk": "Тексти збережені, але український Android TTS, фонова робота й поведінка на Pixel не протестовані."
+  },
+  {
+    "id": "MT06",
+    "topic": "HSR tickets for 16-year-old",
+    "topic_uk": "HSR: квиток для пасажира 16 років",
+    "status": "confirmed",
+    "finding_en": "For cross-boundary HSR, passenger aged 14 or over needs an adult-fare ticket; minor consent and adult fare are separate concepts.",
+    "finding_uk": "На транскордонній HSR пасажирам віком від 14 років потрібен квиток за дорослим тарифом. Саша (16 років) не має права на дитячий тариф 6-13 років.",
+    "source_ids": [
+      "mtrage"
+    ]
+  }
+]

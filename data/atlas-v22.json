@@ -1,0 +1,557 @@
+{
+  "terms": {
+    "HSR": [
+      "High-Speed Rail",
+      "Швидкісна залізниця Китаю. G/D - типи поїздів; квитки через 12306 або посередника."
+    ],
+    "PKX": [
+      "Beijing Daxing International Airport",
+      "Аеропорт Пекін-Дасін, де ви робите обидві нічні пересадки."
+    ],
+    "HKG": [
+      "Hong Kong International Airport",
+      "Міжнародний аеропорт Гонконгу на острові Chek Lap Kok."
+    ],
+    "LHR": [
+      "London Heathrow",
+      "Аеропорт Лондон-Гітроу. China Southern використовує термінал T4."
+    ],
+    "NIA": [
+      "National Immigration Administration",
+      "Китайський державний орган, що встановлює правила в’їзду і транзиту."
+    ],
+    "TWOV": [
+      "Transit Without Visa",
+      "Транзит без попередньо оформленої візи за окремими умовами (24h або 240h)."
+    ],
+    "240-hour": [
+      "240-hour visa-free transit",
+      "Окремий китайський режим до 240 годин для громадян визначених країн; потрібна допустима схема транзиту."
+    ],
+    "RBD": [
+      "Reservation Booking Designator",
+      "Літера тарифного класу авіаквитка, наприклад Economy Z; може впливати на привілеї."
+    ],
+    "PNR": [
+      "Passenger Name Record",
+      "Шестизначний або інший референс бронювання авіаквитка (не номер електронного квитка)."
+    ],
+    "LoungeKey": [
+      "Mastercard Airport Experiences provided by LoungeKey",
+      "Сервіс доступу до залів і спеціальних пропозицій; кожен заклад може мати власні обмеження та подальші списання."
+    ],
+    "DCC": [
+      "Dynamic Currency Conversion",
+      "Пропозиція банкомата/термінала конвертувати платіж у валюту вашої картки; часто невигідно."
+    ],
+    "3DS": [
+      "3-D Secure",
+      "Банківське підтвердження платежу через застосунок, SMS або код."
+    ],
+    "eSIM": [
+      "Embedded SIM",
+      "Цифровий профіль мобільного оператора, який встановлюється без фізичної SIM-карти."
+    ],
+    "GCJ-02": [
+      "Chinese map coordinate system",
+      "Система координат, використовувана багатьма картографічними сервісами материкового Китаю; не збігається з WGS84."
+    ],
+    "WGS84": [
+      "World Geodetic System 1984",
+      "Глобальна GPS-система координат, яку використовують OSM/GPX."
+    ],
+    "Octopus": [
+      "Hong Kong contactless stored-value card",
+      "Передплачена транспортна/платіжна картка для Гонконгу."
+    ],
+    "RSRP": [
+      "Reference Signal Received Power",
+      "Показник потужності прийнятого LTE/5G сигналу: для 5G-роутера нижче за модулем краще."
+    ],
+    "SINR": [
+      "Signal-to-Interference-plus-Noise Ratio",
+      "Співвідношення сигналу до шуму/завад; впливає на швидкість 5G навіть за сильної потужності."
+    ],
+    "MIMO": [
+      "Multiple Input Multiple Output",
+      "Технологія паралельних антенних потоків для мобільної мережі/Wi-Fi."
+    ],
+    "DiDi": [
+      "Didi Chuxing",
+      "Сервіс виклику таксі та перевезень у Китаї; є міжнародна версія для іноземців."
+    ],
+    "QR": [
+      "Quick Response code",
+      "Двовимірний код, який використовують для платежів, пропусків, бронювань та меню."
+    ],
+    "SKU": [
+      "Stock Keeping Unit",
+      "Точний товарний артикул/апаратна ревізія, критичний при покупці роутера й окулярів."
+    ],
+    "PWA": [
+      "Progressive Web App",
+      "Сайт, який можна встановити на Android, а Service Worker кешує для офлайн-роботи."
+    ],
+    "HSR-квиток": [
+      "High-Speed Rail ticket",
+      "Квиток на швидкісний поїзд, прив’язаний до даних закордонного паспорта."
+    ]
+  },
+  "apps": [
+    {
+      "n": "DiDi Greater China 滴滴出行",
+      "region": "CN",
+      "type": "Таксі",
+      "site": "https://www.didiglobal.com/",
+      "play": "https://play.google.com/store/search?q=DiDi%20Greater%20China&c=apps",
+      "setup": "Привʼязати +44 і карту або відкрити DiDi через Alipay; геолокація → точка посадки → пункт призначення → Express/Taxi → оцінка → виклик.",
+      "saving": "Порівняти Express/Taxi/Premier, час пік та AMap Aggregator; не вмикати платний upgrade.",
+      "deal": "Не гарантовано; лише промокод, який додаток показує перед оплатою",
+      "risk": "Водій телефонує китайською; копіюйте фразу з адресою; у PKX використовуйте офіційну rideshare pickup zone."
+    },
+    {
+      "n": "AMap 高德地图",
+      "region": "CN",
+      "type": "Карти і таксі",
+      "site": "https://www.amap.com/",
+      "play": "https://play.google.com/store/search?q=AMap%20Gaode&c=apps",
+      "setup": "Пошук місця китайською → 路线 маршрут → 步行 пішки / 公交 транспорт / 打车 таксі; обрати агрегатор та кінцеву ціну.",
+      "saving": "Порівнювати пропозиції різних водіїв і агрегаторів на одному екрані; обирати 优惠券 якщо доступно.",
+      "deal": "Купони на поїздки можуть бути регіональними, не гарантуються",
+      "risk": "Карта використовує GCJ-02; не копіювати її сирі координати у WGS84 GPX."
+    },
+    {
+      "n": "Alipay 支付宝",
+      "region": "CN",
+      "type": "Платежі / таксі",
+      "site": "https://www.alipay.com/",
+      "play": "https://play.google.com/store/apps/details?id=com.eg.android.AlipayGphone",
+      "setup": "Me → Bank Cards → Add Card → паспортне KYC за потреби; Transport → Taxi / Travel; зберігати британський номер для 3DS.",
+      "saving": "Дивитися купони у конкретній мініпрограмі до підтвердження замовлення.",
+      "deal": "Можливі персональні бонуси після верифікації",
+      "risk": "Не всі торговці/прямі особисті QR приймають іноземні картки."
+    },
+    {
+      "n": "WeChat 微信",
+      "region": "CN",
+      "type": "Платежі / звʼязок",
+      "site": "https://weixin.qq.com/",
+      "play": "https://play.google.com/store/apps/details?id=com.tencent.mm",
+      "setup": "Me → Services → Wallet → Add a Card. QR платежі, мініпрограми готелів та ресторанів.",
+      "saving": "Merchant mini-program promotions; копіювати китайську адресу для водія.",
+      "deal": "Промо залежать від ідентифікації",
+      "risk": "Може знадобитися підтвердження іншого користувача або банку."
+    },
+    {
+      "n": "Meituan Waimai 美团外卖",
+      "region": "CN",
+      "type": "Доставка їжі",
+      "site": "https://waimai.meituan.com/mobile/download",
+      "play": "https://play.google.com/store/search?q=Meituan%20Waimai&c=apps",
+      "setup": "Встановити → вказати адресу готелю китайською та телефон → 外卖 → ресторан → страви → 包装费 + 配送费 → оплата → чекати в лобі.",
+      "saving": "红包 купон, 满减 знижка від суми, 拼单 груповий кошик, 到店自取 самовивіз; порівнювати фінальний чек.",
+      "deal": "Для новачків можливі персональні купони; сума непідтверджена",
+      "risk": "Курʼєр може телефонувати лише китайською; погодити доставку з рецепцією."
+    },
+    {
+      "n": "Taobao Instant Commerce 淘宝闪购",
+      "region": "CN",
+      "type": "Доставка їжі / товари",
+      "site": "https://www.taobao.com/",
+      "play": "https://play.google.com/store/search?q=Taobao%20Instant%20Commerce&c=apps",
+      "setup": "У Taobao: вкладка 闪购 → місце → їжа/супермаркет → ваучер/акційна ціна → сплатити Alipay.",
+      "saving": "Порівнювати з Meituan той самий кошик; купони 首单 (перше замовлення), 满减.",
+      "deal": "Ele.me перейменовано у 2025-26, старі рекомендації потребують оновлення.",
+      "risk": "Інтерфейс переважно китайською; місто і доставка критичні."
+    },
+    {
+      "n": "JD Takeaway 京东外卖",
+      "region": "CN",
+      "type": "Доставка їжі",
+      "site": "https://www.jd.com/",
+      "play": "https://play.google.com/store/search?q=JD%20Jingdong&c=apps",
+      "setup": "У JD знайти 外卖; адреса готелю, вибір страв і порівняння з Meituan/Taobao.",
+      "saving": "Порівняти доставку, пакування, платформні та стартові купони.",
+      "deal": "Термін і наявність акцій перевіряти в застосунку",
+      "risk": "Доступність для іноземних карток/номерів залежить від конкретного сервісу."
+    },
+    {
+      "n": "Dianping 大众点评",
+      "region": "CN",
+      "type": "Відгуки / заклади",
+      "site": "https://www.dianping.com/",
+      "play": "https://play.google.com/store/search?q=Dianping&c=apps",
+      "setup": "Пошук ресторану або 咖啡 → перевірити меню/відгуки → знайти 团购 group deal → показати код на касі.",
+      "saving": "团购 набір / 双人餐 набір для двох часто дешевший за суму окремих позицій.",
+      "deal": "Ціна набору залежить від ресторану",
+      "risk": "Деякі ваучери потребують китайський номер або певні години."
+    },
+    {
+      "n": "Douyin 抖音",
+      "region": "CN",
+      "type": "Знижки / локальні пропозиції",
+      "site": "https://www.douyin.com/",
+      "play": "https://play.google.com/store/search?q=Douyin&c=apps",
+      "setup": "Пошук назви закладу → 团购 → перевірити обмеження і дійсність купона → оплата.",
+      "saving": "Купон лише коли реально потрібна страва і заклад неподалік.",
+      "deal": "Акції змінюються швидко",
+      "risk": "Китайська регіональна версія відрізняється від TikTok."
+    },
+    {
+      "n": "12306 中国铁路",
+      "region": "CN",
+      "type": "HSR квитки",
+      "site": "https://www.12306.cn/en/",
+      "play": "https://play.google.com/store/search?q=China%20Railway%2012306&c=apps",
+      "setup": "English site → passport verification → From/To + дата → G/D train → 2nd class → payment. Паспорт - проїзний документ.",
+      "saving": "Порівняти ціну з Trip.com без посередницької комісії; не купувати зайву страховку.",
+      "deal": "Офіційний тариф; динамічна наявність",
+      "risk": "Строк попереднього продажу переважно 15 діб; фактичні рейси й платформи звіряти перед посадкою."
+    },
+    {
+      "n": "Trip.com 携程国际版",
+      "region": "CN/HK",
+      "type": "Готелі / HSR / таксі",
+      "site": "https://www.trip.com/",
+      "play": "https://play.google.com/store/apps/details?id=ctrip.english",
+      "setup": "Пошук 2 гостей → тариф із податками і скасуванням; HSR → номер паспорта кожного; Airport Transfer для резерву.",
+      "saving": "Порівняти повний чек із Booking/Agoda/12306, а не лише початкову ціну.",
+      "deal": "Промокоди і loyalty залежать від акаунту",
+      "risk": "У HSR може бути сервісний збір/бронювання до старту продажів."
+    },
+    {
+      "n": "Klook 客路",
+      "region": "CN/HK",
+      "type": "Атракції / трансфери",
+      "site": "https://www.klook.com/",
+      "play": "https://play.google.com/store/apps/details?id=com.klook",
+      "setup": "Вибрати активність з датою → квиток/QR → умови скасування → показати з телефона.",
+      "saving": "Порівняти з офіційним сайтом і Trip.com; акційні комбо можуть бути вигідними.",
+      "deal": "Знижки новим користувачам непостійні",
+      "risk": "Не всі ваучери підтримують український паспорт або потрібну годину входу."
+    },
+    {
+      "n": "Fliggy 飞猪",
+      "region": "CN",
+      "type": "Поїздки / готелі",
+      "site": "https://www.fliggy.com/",
+      "play": "https://play.google.com/store/search?q=Fliggy&c=apps",
+      "setup": "Шукати 酒店 готель / 门票 квиток → перевірити умови для іноземців.",
+      "saving": "Місцеві тарифи, купони, порівняння із Trip.com.",
+      "deal": "Деякі ціни лише з китайським ID",
+      "risk": "Перевірити прийом іноземців, KYC, спосіб оплати."
+    },
+    {
+      "n": "JD.com 京东",
+      "region": "CN",
+      "type": "Купівля товарів",
+      "site": "https://www.jd.com/",
+      "play": "https://play.google.com/store/search?q=JD%20Jingdong&c=apps",
+      "setup": "Шукати конкретний SKU → 自营 (JD self-operated) → доставка до готелю після погодження → огляд упаковки.",
+      "saving": "自营 для гарантії; порівняти 旗舰店 official flagship / JD price / Huaqiangbei.",
+      "deal": "Купони на картці товару; перевірити фінальну ціну",
+      "risk": "Не вся електроніка international unlocked, повернення може не встигнути до виїзду."
+    },
+    {
+      "n": "Taobao / Tmall 淘宝/天猫",
+      "region": "CN",
+      "type": "Купівля товарів",
+      "site": "https://www.taobao.com/",
+      "play": "https://play.google.com/store/search?q=Taobao&c=apps",
+      "setup": "Ввести SKU китайською → перевірити 旗舰店, рейтинг, повернення, адресу готелю.",
+      "saving": "Великі порівняння ціни, офіційна Tmall flagship і купони; дешевший сумнівний товар не брати.",
+      "deal": "Акції різняться по SKU",
+      "risk": "Регіональні версії, китайська гарантія, доставка й повернення."
+    },
+    {
+      "n": "1688 阿里巴巴1688",
+      "region": "CN",
+      "type": "B2B / OEM",
+      "site": "https://www.1688.com/",
+      "play": "https://play.google.com/store/search?q=1688&c=apps",
+      "setup": "Пошук заводського коду → кількість MOQ → повідомлення постачальнику; не замовляти без готового складу.",
+      "saving": "Для OEM/модулів часто нижча ціна, але враховувати MOQ та доставку.",
+      "deal": "Оптові ціни не обов’язково за 1 шт",
+      "risk": "Часто потрібен китайський акаунт; не туристичний роздрібний сервіс."
+    },
+    {
+      "n": "Pinduoduo 拼多多",
+      "region": "CN",
+      "type": "Дешевий ритейл",
+      "site": "https://www.pinduoduo.com/",
+      "play": "https://play.google.com/store/search?q=Pinduoduo&c=apps",
+      "setup": "Зіставити реальні фото і SKU → final price → перевірити автентичність і повернення.",
+      "saving": "Групові ціни 拼单 / ваучери",
+      "deal": "Дешевше не означає справжній товар",
+      "risk": "Вищий ризик підробок для техніки."
+    },
+    {
+      "n": "Xianyu 闲鱼",
+      "region": "CN",
+      "type": "Вживані товари",
+      "site": "https://www.goofish.com/",
+      "play": "https://play.google.com/store/search?q=Xianyu&c=apps",
+      "setup": "Вживаний локальний ринок; огляд наживо; діагностика SIM/батареї/активації перед оплатою.",
+      "saving": "Вживана техніка і прототипи дешевше, але ризики високі.",
+      "deal": "Без гарантованих купонів",
+      "risk": "Можливе шахрайство і відсутність повернення."
+    },
+    {
+      "n": "Foodpanda Hong Kong",
+      "region": "HK",
+      "type": "Доставка їжі",
+      "site": "https://www.foodpanda.hk/contents/deals",
+      "play": "https://play.google.com/store/search?q=foodpanda%20hong%20kong&c=apps",
+      "setup": "Ввести готель Hong Kong → Delivery або Pick-up → застосувати купон → перевірити delivery/platform fees.",
+      "saving": "Відбір Pick-up іноді дає до 50% за офіційною акційною сторінкою; промокоди перевіряти в кошику.",
+      "deal": "Код FP120 для першого замовлення заявлено на офіційній сторінці до 31.12.2026; умови неоднозначні, перевірити checkout.",
+      "risk": "Умови доступності і мінімум замовлення змінюються."
+    },
+    {
+      "n": "Keeta Hong Kong",
+      "region": "HK",
+      "type": "Доставка їжі",
+      "site": "https://www.keeta.com/",
+      "play": "https://play.google.com/store/search?q=Keeta%20Hong%20Kong&c=apps",
+      "setup": "Адреса готелю → меню → fee і delivery time → підтвердити.",
+      "saving": "Порівняти кошик Foodpanda проти Keeta; поріг free delivery.",
+      "deal": "Купони для нових акаунтів можуть бути персональними",
+      "risk": "Кур’єрський контакт і прийом доставки в готелі."
+    }
+  ],
+  "phrases": [
+    [
+      "Авіакомпанія",
+      "Наскрізний багаж",
+      "Could you check both suitcases through to Hong Kong / London? We have an overnight connection but do not want to collect baggage in Beijing. Please show the final destination on the baggage tags.",
+      "请问可以将我们两件托运行李直挂到香港／伦敦吗？我们在北京过夜转机，不想提取行李。请让我确认行李牌上的最终目的地。"
+    ],
+    [
+      "Авіакомпанія",
+      "Безкоштовний транзитний готель",
+      "The online transit hotel says fully booked. Could you arrange a complimentary room for one adult and one minor, and show us where the free shuttle leaves?",
+      "网上免费中转酒店显示已满。请问能为一名成人和一名未成年人安排免费中转酒店吗？免费班车在哪里乘坐？"
+    ],
+    [
+      "Міграція",
+      "24-годинний вихід у Пекін",
+      "We are Ukrainian passport holders transiting for under 24 hours and would like a temporary entry permit to use the airline transit hotel.",
+      "我们持乌克兰普通护照，在北京转机不超过24小时，想申请临时入境许可前往航空公司安排的中转酒店。"
+    ],
+    [
+      "Міграція",
+      "240-годинний транзит Hong Kong → Macau",
+      "We are Ukrainian passport holders entering at Hong Kong West Kowloon, visiting Shenzhen, Guangzhou and Zhuhai, then leaving mainland China via Gongbei on foot for Macau on 31 October. What proof of onward travel do you require?",
+      "我们持乌克兰普通护照，从香港西九龙口岸入境，途经深圳、广州、珠海，计划10月31日从拱北口岸步行出境前往澳门。请问需要提供哪些后续行程证明？"
+    ],
+    [
+      "Міграція",
+      "Запит щодо підтвердження дитячого супроводу",
+      "This is my son, aged 16. Here are our passports and documents proving our relationship. Please tell us if you require any additional parental consent.",
+      "这是我16岁的儿子。这里是我们的护照及亲子关系证明。请问是否还需要其他家长同意文件？"
+    ],
+    [
+      "Готель",
+      "Проживання неповнолітнього",
+      "Will you accept one adult and one 16-year-old in the same room? Please confirm check-in and late arrival rules.",
+      "请问一名成人和一名16岁的未成年人可以入住同一间客房吗？请确认入住时间和晚到规定。"
+    ],
+    [
+      "Готель",
+      "Зберігання валіз у Гонконгу",
+      "We will stay here on 27 October and return on 31 October. Can you securely store two suitcases between these stays, preferably free of charge?",
+      "我们10月27日入住，10月31日再次入住。请问能在这两次入住之间安全地寄存两个行李箱吗？最好免费。"
+    ],
+    [
+      "HSR",
+      "Паспорт і посадка",
+      "We have tickets on this train linked to our Ukrainian passports. Which counter handles foreign passports, and when does boarding close?",
+      "我们的高铁票绑定了乌克兰护照。请问外国护照在哪里核验？检票何时停止？"
+    ],
+    [
+      "Таксі",
+      "Ранковий виклик о 04:15",
+      "Can you arrange a licensed car from our actual hotel address to Qinghe railway station at 04:15? Please confirm the all-in price including tolls.",
+      "请帮我们预订凌晨4点15分从酒店到清河火车站的正规车辆。请确认含高速费的总价。"
+    ],
+    [
+      "Таксі",
+      "Повернення з Великого муру",
+      "We must reach Beijing Daxing Airport before noon for an international flight. Can you take us directly back from the Great Wall, and what is the total fare including tolls?",
+      "我们必须在中午12点前到达北京大兴机场赶国际航班。您可以从长城直接送我们回机场吗？含过路费一共多少钱？"
+    ],
+    [
+      "Лаунж",
+      "Безкоштовне чи платне?",
+      "My LoungeKey account shows unlimited complimentary visits for me and guests. Before you register us, please confirm whether THIS visit for two people is complimentary or will be charged later.",
+      "我的LoungeKey账户显示本人和客人均可无限次免费使用。请在登记前确认我们两人的本次使用是否免费，或之后是否会收费。"
+    ],
+    [
+      "Лаунж",
+      "Повторні відвідування",
+      "We already used another lounge or restaurant benefit at this airport. Would this be an additional free visit? Please do not register us if any fee will be charged.",
+      "我们在本机场已经使用过另一个贵宾厅或餐饮礼遇。本次是否仍然免费？如果会收费，请不要登记。"
+    ],
+    [
+      "Доставка",
+      "Залишити на рецепції",
+      "Please deliver the meal to the hotel reception, call or message me in the app, and do not leave it outside.",
+      "请把外卖送到酒店前台，通过App给我发消息或打电话，不要放在外面。"
+    ],
+    [
+      "Доставка",
+      "Курʼєр не може знайти готель",
+      "I am a foreign traveller. I cannot speak Chinese on the phone. Please message the reception or send me the exact pickup location.",
+      "我是外国游客，电话里不太会说中文。请联系酒店前台，或发消息告诉我准确取餐位置。"
+    ],
+    [
+      "Покупки",
+      "Посилка на адресу готелю",
+      "Can you accept a parcel addressed to me before I arrive? How long can you hold it, and is there a fee?",
+      "我到达前能否将快递寄到贵酒店并由前台代收？可以保管多久？是否收费？"
+    ],
+    [
+      "Покупки",
+      "Роутер UK-сумісність",
+      "Please show the exact hardware version, real 5G bands n78/n28, SA/NSA, 4x4 MIMO, modem chipset and whether it works with a Three UK SIM.",
+      "请展示准确的硬件版本、真实支持的5G频段n78/n28、SA/NSA、4×4 MIMO、调制解调器芯片，并确认能否使用英国Three的SIM卡。"
+    ],
+    [
+      "Ресторан",
+      "Запит про ціну й гостроту",
+      "What is the total price for two including service, packaging and delivery? Please make it not spicy.",
+      "两个人一共多少钱？包括服务费、包装费和配送费吗？请做不辣。"
+    ],
+    [
+      "Ресторан",
+      "Вегетаріанські/алергії",
+      "Please tell me if this contains peanuts, shellfish or pork. I need accurate ingredient information.",
+      "请问这道菜含有花生、贝类或猪肉吗？我需要准确的配料信息。"
+    ],
+    [
+      "Проблема",
+      "Повернення грошей",
+      "This order was not delivered / this product is defective. Please show the refund process and whether the refund goes to the original bank card.",
+      "订单没有送达／商品有质量问题。请说明退款流程，以及退款是否退回原支付银行卡。"
+    ]
+  ],
+  "hotels": [
+    [
+      "2026-10-26",
+      "2026-10-27",
+      "Beijing PKX",
+      "Безкоштовний CZ; запасний номер з free cancellation",
+      "TRANSIT",
+      "Перша пересадка - очікується офлайн-оформлення, не гарантовано"
+    ],
+    [
+      "2026-10-27",
+      "2026-10-28",
+      "Hong Kong TST/Jordan",
+      "West Kowloon access + luggage holding till 31.10",
+      "HKD",
+      "Спільне з 31.10 бронювання для зберігання валіз"
+    ],
+    [
+      "2026-10-28",
+      "2026-10-29",
+      "Shenzhen Huaqiangbei",
+      "Science Museum / Yannan / Huaqiangbei metro",
+      "CNY",
+      "Одне коротке проживання"
+    ],
+    [
+      "2026-10-29",
+      "2026-10-30",
+      "Guangzhou Beijing Road",
+      "Haizhu Square / Gongyuanqian",
+      "CNY",
+      "Недалеко від метро"
+    ],
+    [
+      "2026-10-30",
+      "2026-10-31",
+      "Zhuhai Gongbei",
+      "Gongbei checkpoint / Zhuhai station",
+      "CNY",
+      "Умови скасування до перевірки документів виходу"
+    ],
+    [
+      "2026-10-31",
+      "2026-11-03",
+      "Hong Kong TST/Jordan",
+      "Late check-in 31.10 + baggage",
+      "HKD",
+      "Три ночі; повернення з Макао ввечері"
+    ],
+    [
+      "2026-11-03",
+      "2026-11-04",
+      "Beijing PKX або Qinghe",
+      "Залежить від маршруту Badaling",
+      "CNY",
+      "Не оплачувати невідшкодовуваний тариф перед рішенням"
+    ]
+  ],
+  "wall_options": [
+    [
+      "Badaling 八达岭长城",
+      "Бадалін",
+      "07:30 (зимовий/осінній режим уточнити)",
+      35,
+      "Найкраща залізнична логістика: HSR Qinghe ↔ Badaling; часто багато людей.",
+      "https://english.beijing.gov.cn/specials/ticketing/",
+      "https://www.12306.cn/en/",
+      "Рекомендовано, лише з двома квитками і резервом до PKX"
+    ],
+    [
+      "Juyongguan 居庸关长城",
+      "Цзюйюнгуань",
+      "07:30 до 15 листопада",
+      45,
+      "Укріплений перевал і круті сходи; лише таксі або приватний трансфер; не має прямого HSR.",
+      "https://english.beijing.gov.cn/specials/ticketing/",
+      "https://www.amap.com/",
+      "Альтернатива автомобілем, заздалегідь домовитись про повернення"
+    ],
+    [
+      "Mutianyu 慕田峪长城",
+      "Мутяньюй",
+      "08:30 у будні листопада",
+      45,
+      "Мальовничі башти, канатка, але пізній вхід і довгий трансфер.",
+      "https://english.beijing.gov.cn/specials/ticketing/",
+      "https://www.amap.com/",
+      "Не рекомендовано перед CZ673"
+    ],
+    [
+      "Huanghuacheng 黄花城水长城",
+      "Хуанхуачен",
+      "Перевірити сезонний графік",
+      60,
+      "Стіна й озеро; найгірша логістика для короткого транзиту.",
+      "https://english.beijing.gov.cn/",
+      "https://www.amap.com/",
+      "Лише для окремої поїздки"
+    ],
+    [
+      "Shuiguan 水关长城",
+      "Шуйгуань",
+      "Перевірити графік і доступ",
+      35,
+      "Ближче до Badaling; може бути підміною Badaling у деяких турах - перевіряти точний вхід.",
+      "https://english.beijing.gov.cn/",
+      "https://www.amap.com/",
+      "Лише якщо є підтверджений водій"
+    ]
+  ],
+  "rates_as_of": "2026-10-24",
+  "reference_rates": {
+    "CNY_GBP": 0.112,
+    "HKD_GBP": 0.0953,
+    "MOP_GBP": 0.0925,
+    "GBP_UAH_MASTERCARD": 61.2374,
+    "GBP_UAH_VISA": 61.2419
+  },
+  "disclaimer": "Indicative references only, not live PrivatBank CNY/HKD/MOP card exchange rates"
+}

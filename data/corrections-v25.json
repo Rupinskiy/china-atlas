@@ -1,0 +1,86 @@
+[
+  {
+    "code": "C01",
+    "severity": "critical",
+    "what": "Gold Bus Macau→HK currency",
+    "action": "Add explicit MOP65/70 for Macau-origin journey and separate HKD65/70 for HK-origin journey",
+    "source": "hzmb"
+  },
+  {
+    "code": "C02",
+    "severity": "critical",
+    "what": "Flight power banks",
+    "action": "Flag charging/use on board forbidden; accessible under-seat stowage, domestic CCC requirement distinct",
+    "source": "czpower"
+  },
+  {
+    "code": "C03",
+    "severity": "critical",
+    "what": "UK eVisa return",
+    "action": "Travel share code 90-day validity; current passport must match UKVI; carrier may decline mismatch",
+    "source": "ukvisa"
+  },
+  {
+    "code": "C04",
+    "severity": "critical",
+    "what": "China Southern accommodation",
+    "action": "2026 official rules supersede obsolete counter-only Beijing descriptions; subject to space/flight eligibility",
+    "source": "czhotel"
+  },
+  {
+    "code": "C05",
+    "severity": "critical",
+    "what": "China onward booking",
+    "action": "Distinguish general TWOV eligibility from officer acceptance of pedestrian Gongbei exit proof",
+    "source": "nia240"
+  },
+  {
+    "code": "C06",
+    "severity": "high",
+    "what": "Macao Border Gate hours",
+    "action": "Add official 06:00-01:00 schedule and no 24h promise",
+    "source": "bordergate"
+  },
+  {
+    "code": "C07",
+    "severity": "high",
+    "what": "HSR advance bookings",
+    "action": "Confirm 15-day presale and 30-minute B1 / 5-minute boarding closure",
+    "source": "mtr15"
+  },
+  {
+    "code": "C08",
+    "severity": "high",
+    "what": "Foreign-card payment fees",
+    "action": "Differentiate normal 3% above CNY200 from promotional waiver conditions",
+    "source": "payments"
+  },
+  {
+    "code": "C09",
+    "severity": "high",
+    "what": "Wikipedia direct validity",
+    "action": "Stop treating catalogue ukVerified entries as automatically verified; online QID check required on first click",
+    "source": ""
+  },
+  {
+    "code": "C10",
+    "severity": "high",
+    "what": "FX currency guess",
+    "action": "No inferred local CNY in ambiguous multi-city paragraphs for GBP/UAH; conversion marked indicative",
+    "source": ""
+  },
+  {
+    "code": "C11",
+    "severity": "high",
+    "what": "Offline PWA installation",
+    "action": "Make precache atomic for core assets and count failures; no claim of physical Pixel success",
+    "source": ""
+  },
+  {
+    "code": "C12",
+    "severity": "high",
+    "what": "An unverified statement ≠ verified fact",
+    "action": "Add searchable fact register and source/uncertainty index with exhaustive textual extraction",
+    "source": ""
+  }
+]

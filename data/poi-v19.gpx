@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" creator="China Atlas v1.9">
+<wpt lat="39.509900" lon="116.410900"><name>Beijing Daxing Airport</name><desc>北京大兴国际机场: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="39.895300" lon="116.398700"><name>Qianmen Street</name><desc>前门大街: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="39.895100" lon="116.393600"><name>Dashilar</name><desc>大栅栏: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.308000" lon="113.918500"><name>Hong Kong International Airport</name><desc>香港國際機場: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.294900" lon="114.172100"><name>Tsim Sha Tsui Promenade</name><desc>尖沙咀海濱長廊: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.293700" lon="114.168700"><name>Star Ferry Tsim Sha Tsui Pier</name><desc>天星碼頭: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.275900" lon="114.145600"><name>Victoria Peak viewpoint</name><desc>太平山頂: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.304700" lon="114.161600"><name>Hong Kong West Kowloon Station</name><desc>香港西九龍站: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.537500" lon="114.062000"><name>Futian Railway Station</name><desc>福田站: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.544700" lon="114.085700"><name>Huaqiangbei Electronics District</name><desc>华强北电子市场: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.553800" lon="114.060200"><name>Lianhuashan Park</name><desc>莲花山公园: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.609600" lon="114.029500"><name>Shenzhen North Railway Station (ARCHIVE)</name><desc>深圳北站: ARCHIVE, not the booked C8004 station (booked: 深圳站 Shenzhen/Luohu)</desc></wpt>
+<wpt lat="22.989700" lon="113.269100"><name>Guangzhou South Railway Station</name><desc>广州南站: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="23.129830" lon="113.240130"><name>Chen Clan Ancestral Hall</name><desc>陈家祠: osm_museum_polygon_centroid_not_entrance</desc></wpt>
+<wpt lat="23.107300" lon="113.238100"><name>Shamian Island</name><desc>沙面岛: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="23.142600" lon="113.259900"><name>Museum of the Mausoleum of the Nanyue King</name><desc>南越王博物院: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="23.106500" lon="113.324500"><name>Canton Tower</name><desc>广州塔: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="23.123700" lon="113.269400"><name>Beijing Road Pedestrian Street</name><desc>北京路步行街: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="23.117600" lon="113.258200"><name>Sacred Heart Cathedral</name><desc>石室圣心大教堂: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.217600" lon="113.550400"><name>Zhuhai Railway Station</name><desc>珠海站: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.216200" lon="113.552300"><name>Gongbei Port</name><desc>拱北口岸: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.185900" lon="113.532200"><name>A-Ma Temple</name><desc>媽閣廟: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.193600" lon="113.539400"><name>Senado Square</name><desc>議事亭前地: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.197800" lon="113.540500"><name>Ruins of St Paul’s</name><desc>大三巴牌坊: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.155100" lon="113.558700"><name>Taipa Village</name><desc>氹仔舊城區: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.200900" lon="113.585000"><name>HZMB Macau Port</name><desc>港珠澳大橋澳門口岸: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.254600" lon="113.905000"><name>Tian Tan Buddha</name><desc>天壇大佛: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.253500" lon="113.862800"><name>Tai O Fishing Village</name><desc>大澳: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.255300" lon="113.904300"><name>Po Lin Monastery</name><desc>寶蓮禪寺: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.338600" lon="114.204500"><name>Nan Lian Garden</name><desc>南蓮園池: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.330600" lon="114.162900"><name>Sham Shui Po</name><desc>深水埗: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.219600" lon="114.213500"><name>Stanley Market</name><desc>赤柱市集: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="22.308000" lon="113.918500"><name>Hong Kong International Airport</name><desc>香港國際機場: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="39.509900" lon="116.410900"><name>Beijing Daxing Airport</name><desc>北京大兴国际机场: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="40.355000" lon="116.018400"><name>Badaling Great Wall</name><desc>八达岭长城: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="51.459300" lon="-0.447000"><name>London Heathrow Airport Terminal 4</name><desc>伦敦希思罗机场4号航站楼: representative_approximate_not_entrance</desc></wpt>
+<wpt lat="39.509900" lon="116.410900"><name>Beijing Daxing Airport (arrival)</name><desc>北京大兴国际机场: representative_approximate_not_entrance</desc></wpt>
+</gpx>
