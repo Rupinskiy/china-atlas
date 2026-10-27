@@ -1,5 +1,5 @@
 {
- "version": "5.0.4",
+ "version": "5.0.5",
  "base": "v4.27 (встановлена, звірена)",
  "changed_or_new": [
   "index5.html",
@@ -9,19 +9,16 @@
   "data/v5-days.json"
  ],
  "sha256": {
-  "index5.html": "fdb30c9ead64a7cd0e84075f491f0ccd6662d9b70615a9bc48e382fa2a09e6c0",
+  "index5.html": "f7a3e0912e844b4b9886202c6051acd47e1310aa0f6697a7f0885679c6c45f99",
   "manifest5.webmanifest": "8291f92e49ebf16f98b0a2035cff80ac559941c4cea057125e9570787e51f023",
-  "service-worker.js": "2ee895fc50becaf1836323295ad9bbadbccc5b3e485cae38730fc00153596f66",
-  "data/v5-core.json": "fd8368b441b205832b327f8a59c4dd0cb831f2c99beac297965ab81e0bb24c92",
-  "data/v5-days.json": "80371d94212f79ab9b30ccaadba9c63b149c346e808184598862ba24ca3b83ca"
+  "service-worker.js": "8d563fdf11abcb974a51f8422c36dd1f323637ef846816d7766b8bf43d4545ca",
+  "data/v5-core.json": "2b00f46e919d626727f7a64123533eb625467999aed8226867b82e8b97841795",
+  "data/v5-days.json": "0d0e16c6674e7d00f66457beb691965fb8c23b849cb1b913ea358bb503f85173"
  },
- "qa": [
-  "32 з 32 перевірок пройдено",
-  "30 з 30 перевірок пройдено"
- ],
+ "qa": "32 з 32 перевірок пройдено",
  "links": {
-  "links": 11879,
-  "unique": 2610,
-  "nmissing": 0
+  "links": 20092,
+  "unique": 2633,
+  "broken": 0
  }
 }
