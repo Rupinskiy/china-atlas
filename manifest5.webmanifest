@@ -1,0 +1,55 @@
+{
+ "id": "china-atlas-5",
+ "name": "China Atlas 5",
+ "short_name": "Atlas 5",
+ "lang": "uk",
+ "start_url": "index5.html#01",
+ "scope": "./",
+ "display": "standalone",
+ "display_override": [
+  "standalone",
+  "minimal-ui"
+ ],
+ "orientation": "any",
+ "categories": [
+  "travel",
+  "navigation"
+ ],
+ "background_color": "#f2f6fa",
+ "theme_color": "#0c263a",
+ "description": "Приватний офлайн-путівник 25.10-04.11.2026",
+ "icons": [
+  {
+   "src": "assets/icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Сьогодні",
+   "url": "index5.html#01"
+  },
+  {
+   "name": "Офлайн і кеш",
+   "url": "index5.html#20"
+  },
+  {
+   "name": "Витрати",
+   "url": "index5.html#18"
+  }
+ ]
+}

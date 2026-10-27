@@ -1,17 +1,27 @@
 {
- "base": "v4.25 (installed, verified)",
- "includes": [
-  "v4.26",
-  "v4.27"
- ],
+ "version": "5.0.4",
+ "base": "v4.27 (встановлена, звірена)",
  "changed_or_new": [
-  "assets/atlas-v413.js",
-  "assets/atlas-v424.js",
-  "data/trains-v422.json",
-  "data/translations-uk.json",
-  "data/v40.json",
-  "index.html",
-  "manifest.webmanifest",
-  "service-worker.js"
- ]
+  "index5.html",
+  "manifest5.webmanifest",
+  "service-worker.js",
+  "data/v5-core.json",
+  "data/v5-days.json"
+ ],
+ "sha256": {
+  "index5.html": "fdb30c9ead64a7cd0e84075f491f0ccd6662d9b70615a9bc48e382fa2a09e6c0",
+  "manifest5.webmanifest": "8291f92e49ebf16f98b0a2035cff80ac559941c4cea057125e9570787e51f023",
+  "service-worker.js": "2ee895fc50becaf1836323295ad9bbadbccc5b3e485cae38730fc00153596f66",
+  "data/v5-core.json": "fd8368b441b205832b327f8a59c4dd0cb831f2c99beac297965ab81e0bb24c92",
+  "data/v5-days.json": "80371d94212f79ab9b30ccaadba9c63b149c346e808184598862ba24ca3b83ca"
+ },
+ "qa": [
+  "32 з 32 перевірок пройдено",
+  "30 з 30 перевірок пройдено"
+ ],
+ "links": {
+  "links": 11879,
+  "unique": 2610,
+  "nmissing": 0
+ }
 }
