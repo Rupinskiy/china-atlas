@@ -1,0 +1,18 @@
+{
+ "version": "5.0.7",
+ "base": "v5.0.5 (жива на GitHub, звірена побайтно 27.10.2026)",
+ "includes": [
+  "5.0.6",
+  "5.0.7"
+ ],
+ "changed": [
+  "index5.html",
+  "service-worker.js",
+  "data/v5-core.json"
+ ],
+ "sha256": {
+  "index5.html": "5e82b96b0b71138a0a1fd2896568580cf85ba6c2fa47b4d6665531e38e154aba",
+  "service-worker.js": "ccae795e53ca5e1f5fe4c91e2d28d07f8fbef97ef0a5f055670d1212d5777178",
+  "data/v5-core.json": "ccc388c535f78fe0b11d68bab1a418e5351ba905e3aed3164a85cb40aa617c6e"
+ }
+}
