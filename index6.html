@@ -1,0 +1,120 @@
+<!DOCTYPE html><html lang="uk"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"><meta name="theme-color" content="#0c263a"><link rel="manifest" href="manifest6.webmanifest"><title>China Atlas 6</title><style>
+:root{--bg:#f2f6fa;--paper:#fff;--ink:#14293a;--muted:#55697a;--line:#d5e1eb;--nav:#0c263a;--teal:#147b81;--blue:#1d5a8e;--red:#a92139;--warn:#b35c00;--hd:104px}
+*{box-sizing:border-box}p,li,td,.kv,.sub,.opt{overflow-wrap:anywhere}html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;overflow-x:hidden}
+a{color:#0f5f8c;overflow-wrap:anywhere}button,input,select,textarea{font:inherit;color:inherit}
+header{position:sticky;top:0;z-index:30;background:var(--nav);color:#fff;padding:env(safe-area-inset-top) 0 0}
+.bar{display:flex;align-items:center;gap:8px;padding:8px 10px 4px}
+.bar .brand{flex:1;font-size:16px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.hb{min-height:42px;min-width:42px;border:1px solid #ffffff40;background:#ffffff1a;color:#fff;border-radius:10px;padding:6px 12px;cursor:pointer}
+#net{font-size:12px;color:#ffd38a}#cacheBtn{padding:6px 9px;font-size:14px}#findBtn{padding:6px 10px}#where{margin:0 4px;background:#ffffff26;color:#fff}@media (max-width:430px){.bt{display:none}}#topBtn{position:fixed;right:12px;bottom:calc(16px + env(safe-area-inset-bottom));width:52px;height:52px;border-radius:50%;border:0;background:#0c263a;color:#fff;font-size:22px;z-index:40;box-shadow:0 6px 18px #0005}#topBtn[hidden]{display:none}.wk{border:0;background:none;padding:0;color:#0f5f8c;text-decoration:underline dotted;font:inherit;cursor:pointer;min-height:0}.cx details{border-left:3px solid #cfe1ee;margin:6px 0 6px 2px;padding:2px 0 2px 10px}.cx summary{cursor:pointer;min-height:40px;display:flex;align-items:center;font-weight:600}.res a{display:block;padding:8px 6px;border-bottom:1px solid #e3ebf2;text-decoration:none;color:var(--ink)}.xl{color:#0f5f8c;text-decoration:underline dotted;text-underline-offset:3px}.xr{margin-top:8px}.daynav{display:flex;justify-content:space-between;gap:8px;margin:4px 0}#cacheBtn.warnb{background:#b35c00;border-color:#ffb46b}#cacheBtn.okb{background:#147b81}.menuk .ck{display:flex;align-items:flex-start;gap:10px;margin:6px 0;font-size:16px}.menuk .ck input{margin-top:3px;flex:none}.waiter .lst{font-size:30px;line-height:1.45;font-weight:700;text-align:center}.waiter .lst div{border-bottom:1px dashed #ccd;padding:4px 0}
+#tabs{display:flex;gap:6px;overflow-x:auto;padding:4px 10px 9px;scrollbar-width:none}#tabs::-webkit-scrollbar{display:none}
+#tabs a{flex:none;color:#d9ecf8;text-decoration:none;border:1px solid #ffffff30;border-radius:10px;padding:8px 11px;font-size:14px;white-space:nowrap;min-height:40px;display:flex;align-items:center}
+#tabs a.on{background:#fff;color:var(--nav);font-weight:700}
+main{max-width:860px;margin:auto;padding:10px 10px 90px}
+.tab[hidden]{display:none}
+h1{font-size:23px;line-height:1.25;margin:8px 0 6px}h2{font-size:20px;margin:0}h3{font-size:18px;margin:0}h4{font-size:17px;margin:0}
+.sec{background:var(--paper);border:1px solid var(--line);border-radius:14px;margin:12px 0;padding:12px;scroll-margin-top:calc(var(--hd) + 8px)}
+.sec .sec{background:#fbfdfe;margin:10px 0;padding:10px}
+.sec .sec .sec{background:#fff}
+details.sec>summary{list-style:none;cursor:pointer}details.sec>summary::-webkit-details-marker{display:none}
+details.sec>summary .sh::after{content:"▾";float:right;color:var(--muted);font-size:15px}details.sec[open]>summary .sh::after{content:"▴"}
+.sh{display:block}.body{margin-top:8px}
+.no{display:inline-block;font:600 13px/1.4 ui-monospace,Menlo,Consolas,monospace;background:#e3eef6;color:#174a6e;border-radius:6px;padding:2px 6px;margin-right:6px;vertical-align:2px;cursor:copy}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:6px 0}
+.chip{display:inline-flex;align-items:center;min-height:38px;border:1px solid var(--line);background:#eef5fa;border-radius:20px;padding:4px 12px;font-size:15px;text-decoration:none;color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;min-height:42px;border:1px solid #b6cadb;background:#eef5fb;color:#103a58;border-radius:10px;padding:6px 12px;margin:3px 6px 3px 0;text-decoration:none;cursor:pointer;font-size:15px}
+.btn.p{background:var(--teal);border-color:var(--teal);color:#fff}.btn.s{min-height:36px;padding:4px 10px;font-size:14px}
+.btns{display:flex;flex-wrap:wrap;margin-top:6px}
+.zh{font-size:24px;line-height:1.35;font-weight:600}.zhs{font-size:19px}
+.sub,.note{color:var(--muted);font-size:15px}
+.find{border-top:1px dashed var(--line);margin-top:8px;padding-top:8px}
+.find .q{font-size:15px;margin-top:4px}.addr{font-size:17px}
+.tip{display:inline-flex;align-items:center;justify-content:center;width:30px;height:30px;border-radius:50%;border:1px solid #9ab8cf;background:#eaf3fa;color:#1d5a8e;font-weight:700;font-size:15px;cursor:pointer;vertical-align:middle;margin:0 2px;padding:0}
+.tip.w{background:#fff1e0;border-color:#e2a35a;color:var(--warn)}
+.card{border:1px solid var(--line);border-radius:12px;padding:10px;margin:10px 0;background:#fff;scroll-margin-top:calc(var(--hd) + 8px)}
+.card h4{margin-bottom:2px}
+.fixed{border-left:5px solid var(--red);background:#fff6f7;border-radius:8px;padding:8px 10px;margin:6px 0}
+.ctl{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin:8px 0}
+.ctl label{display:flex;flex-direction:column;font-size:14px;color:var(--muted)}
+.ctl input,.ctl select,.inp{min-height:44px;border:1px solid #b9cbdb;border-radius:10px;padding:6px 10px;background:#fff;font-size:17px;width:100%}
+.ctl .ck{flex-direction:row;align-items:center;gap:8px;color:var(--ink);font-size:16px}
+.ck input{width:24px;height:24px;min-height:0}
+.seg{display:flex;gap:6px;margin:6px 0}
+.plan{list-style:none;margin:8px 0;padding:0}
+.row{display:grid;grid-template-columns:96px 1fr;gap:8px;border-bottom:1px solid #e3ebf2;padding:9px 0;scroll-margin-top:calc(var(--hd) + 8px)}
+.row .tm{font-weight:700;font-variant-numeric:tabular-nums;color:#0c3d5c}
+.row.meal{background:#fff8ea;border-radius:8px;padding-left:4px}
+.row.hot{background:#f1f8f6;border-radius:8px;padding-left:4px}
+.lg{font-size:15px;color:#2d5a74;margin-bottom:2px}
+.short .row{grid-template-columns:62px 1fr;padding:5px 0}
+.opt{border:1px solid var(--line);border-radius:10px;padding:8px;margin:6px 0;background:#fff}
+.opt.main{border-color:var(--teal);background:#f0faf9}
+.lab{display:inline-block;font-size:13px;font-weight:700;background:#dff2ef;color:#0f5d58;border-radius:6px;padding:1px 7px;margin-right:6px}
+.kv{font-size:15px;color:#2b465a}
+.sum{background:#eef7f3;border:1px solid #cfe8dd;border-radius:10px;padding:8px 10px;margin:8px 0}
+.nofit{background:#fff4ec;border:1px solid #f1d3bd;border-radius:10px;padding:8px 10px;margin:8px 0}
+.phs{display:flex;gap:6px;overflow-x:auto;margin:6px 0}
+img.ph{width:116px;height:87px;object-fit:cover;border-radius:8px;flex:none;cursor:zoom-in;background:#e6edf3}
+.b{display:inline-block;font-size:12px;font-weight:700;border-radius:6px;padding:1px 7px;margin-right:6px}
+.b.new{background:#d9f2e6;color:#11603d}.b.fix{background:#e3ecfb;color:#1d4b8e}.b.open{background:#fde8d8;color:#8a3b0c}
+s{color:#a33}
+.tw{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:15px}th,td{border:1px solid var(--line);padding:6px;text-align:left;vertical-align:top}th{background:#eef4f9}
+.ov{position:fixed;inset:0;z-index:100;display:flex;align-items:center;justify-content:center}
+.ov[hidden]{display:none}body[data-ov=pop] header,body[data-ov=sheet] header{z-index:150}
+.ov.photo{background:rgba(0,0,0,.93)}.ov.sheet{background:rgba(10,25,38,.55);align-items:flex-end}.ov.pop{background:rgba(10,25,38,.25)}
+.pv{position:relative;width:100%;height:100%;display:flex;flex-direction:column;align-items:center;justify-content:center}
+.pv img{max-width:100%;max-height:82vh;object-fit:contain}.pv .cap{color:#ddd;font-size:14px;padding:8px 12px;text-align:center}
+.x{position:absolute;top:calc(10px + env(safe-area-inset-top));right:10px;width:48px;height:48px;border-radius:50%;border:0;background:#ffffffdd;color:#000;font-size:22px;cursor:pointer;z-index:2}
+.sheetbox{background:#fff;width:100%;max-width:860px;max-height:86vh;overflow:auto;border-radius:16px 16px 0 0;padding:14px 14px calc(14px + env(safe-area-inset-bottom));position:relative}
+.bubble{position:absolute;max-width:min(92vw,420px);background:#13293b;color:#fff;border-radius:12px;padding:10px 12px;font-size:16px;box-shadow:0 8px 28px #0006}
+.waiter .big{font-size:58px;line-height:1.2;font-weight:700;text-align:center;margin:12px 0}
+#toast{position:fixed;left:50%;bottom:calc(18px + env(safe-area-inset-bottom));transform:translateX(-50%);background:#13293b;color:#fff;padding:9px 14px;border-radius:10px;font-size:15px;z-index:200;opacity:0;transition:opacity .2s;pointer-events:none;max-width:92vw}
+#toast.on{opacity:1}
+.load{color:var(--muted)}.err{color:var(--red)}
+mark{background:#ffe680}
+.dayrow{display:block;text-decoration:none;color:var(--ink);border:1px solid var(--line);border-radius:12px;padding:10px;margin:8px 0;background:#fff}
+.dayrow b{color:#0c3d5c}.dayrow.today{border-color:var(--teal);box-shadow:0 0 0 2px #147b8133}
+.ev{display:flex;gap:10px;align-items:baseline;border-bottom:1px solid #e6edf3;padding:6px 0}.ev .t{font-weight:700;min-width:118px}
+.bar2{height:10px;background:#e6edf3;border-radius:6px;overflow:hidden}.bar2>i{display:block;height:100%;background:var(--teal)}
+.flash{animation:fl 1.6s ease}@keyframes fl{0%{box-shadow:0 0 0 4px #ffcf4d}100%{box-shadow:none}}
+@media (min-width:700px){.ctl{grid-template-columns:repeat(4,1fr)}}
+@media print{header,.btns,.btn,.tip{display:none!important}.tab[hidden]{display:block}}
+.fig{margin:8px 0}.fig img{width:100%;max-width:680px;border-radius:10px;display:block;cursor:zoom-in}.zh.big{font-size:24px;font-weight:800;line-height:1.35}.atl{background:#f3faf6;border-color:#cde8d8}.facts table th{width:32%;text-align:left}
+.wk{border:0;background:none;padding:0;color:#0f5f8c;text-decoration:underline dotted;font:inherit;cursor:pointer;min-height:0}.b.no{background:#fde2e2;color:#8a1c1c}.b.ok{background:#d9f2e4;color:#11603a}.b.mid{background:#fff0d6;color:#7a4300}
+#topBtn{position:fixed;right:12px;bottom:calc(16px + env(safe-area-inset-bottom));width:52px;height:52px;border-radius:50%;border:0;background:#0c263a;color:#fff;font-size:22px;z-index:40}#topBtn[hidden]{display:none}
+.res a{display:block;padding:8px 6px;border-bottom:1px solid var(--line);text-decoration:none;color:var(--ink)}p,li,td{overflow-wrap:anywhere}.taxi .zh{font-size:36px;line-height:1.3}</style></head><body><header id="hd"><div class="bar"><button type="button" class="hb" id="backBtn" aria-label="Назад">←<span class="bt"> Назад</span></button><span class="brand"><b>Atlas 6</b> <span id="where" class="no" data-no="01" title="Копіювати посилання">01</span></span><button type="button" class="hb" id="findBtn" aria-label="Пошук і перехід за кодом">🔍</button><button type="button" class="hb" id="menuBtn" aria-label="Меню вкладок">☰</button></div><nav id="tabs" aria-label="Вкладки"></nav></header><main id="main"></main><div id="ov" class="ov" hidden></div><div id="toast" role="status" aria-live="polite"></div><button type="button" id="topBtn" aria-label="Вгору" hidden>⬆</button><script>(()=>{const $=(s,r=document)=>r.querySelector(s),$$=(s,r=document)=>[...r.querySelectorAll(s)];const MAIN=$('#main');let DATA=null,CUR='01',OV=null;const LS={get:(k,d)=>{try{const v=localStorage.getItem(k);return v==null?d:JSON.parse(v)}catch(e){return d}},set:(k,v)=>{try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+function toast(t){const x=$('#toast');x.textContent=t;x.classList.add('on');clearTimeout(toast.t);toast.t=setTimeout(()=>x.classList.remove('on'),1800)}
+function openOv(cls,html){OV=cls;const o=$('#ov');o.className='ov '+cls;o.innerHTML=html;o.hidden=false;history.pushState({ov:1},'' ,location.hash)}
+function closeOv(){if(!OV)return false;OV=null;const o=$('#ov');o.hidden=true;o.innerHTML='';return true}
+function renderTabs(){$('#tabs').innerHTML=DATA.tabs.map(t=>'<a href="#'+t.n+'" data-n="'+t.n+'"><b>'+t.n+'</b>&nbsp;'+esc(t.t)+'</a>').join('')}
+function tabEl(n){let el=document.getElementById('t'+n);if(!el){const t=DATA.tabs.find(x=>x.n===n);if(!t)return null;el=document.createElement('section');el.className='tab';el.id='t'+n;el.hidden=true;el.innerHTML='<h1><span class="no" data-no="'+n+'">'+n+'</span>'+esc(t.t)+'</h1>'+t.html;MAIN.appendChild(el);init(el)}return el}
+function show(code,push){const n=code.slice(0,2);const el=tabEl(n)||tabEl('01');$$('.tab').forEach(t=>t.hidden=t!==el);CUR=code;$$('#tabs a').forEach(a=>a.classList.toggle('on',a.dataset.n===n));const on=$('#tabs a.on');if(on)on.scrollIntoView({inline:'center',block:'nearest'});$('#where').textContent=code;$('#where').dataset.no=code;
+ if(push)history.pushState({code},'','#'+code);let tg=code.length>2?document.getElementById('s'+code):null;if(tg){let p=tg;while(p){if(p.tagName==='DETAILS')p.open=true;p=p.parentElement}requestAnimationFrame(()=>tg.scrollIntoView({block:'start'}))}else if(push!==null)scrollTo(0,0);if(n==='01')today();if(n==='20')offline()}
+function normCode(s){s=String(s).trim().replace(/[\s,\/;:-]+/g,'.').replace(/\.+/g,'.').replace(/^\.|\.$/g,'');if(/^\d+$/.test(s)&&s.length>2&&s.length%2===0)s=s.match(/\d\d/g).join('.');if(!/^\d+(\.[\dA-Z]+)*$/i.test(s))return null;return s.split('.').map((x,i)=>/^\d$/.test(x)?'0'+x:x).join('.')}
+function hk(){const d=new Date(Date.now()+8*3600e3);return {iso:d.toISOString().slice(0,10),m:d.getUTCHours()*60+d.getUTCMinutes()}}
+function until(ms){const m=Math.round(ms/60000);if(m<60)return 'через '+m+' хв';const h=Math.floor(m/60);if(h<48)return 'через '+h+' год '+(m%60)+' хв';return 'через '+Math.round(h/24)+' дн'}
+function today(){const el=$('[data-today]');if(!el)return;const t=hk();const d=DATA.days.find(x=>x.date===t.iso);const nx=DATA.events.filter(e=>Date.parse(e.ts)>Date.now()).slice(0,4);el.innerHTML=(d?'<div class="sum"><b>Сьогодні '+d.dm+':</b> '+esc(d.title)+'<div class="btns"><a class="btn p" href="#'+d.tab+'">План дня '+d.tab+'</a></div></div>':'<div class="sum">Сьогодні немає дня з планом; найближчий - '+(DATA.days.find(x=>x.date>t.iso)||{}).dm+'.</div>')+'<h4>Найближчі події</h4>'+nx.map(e=>'<div class="opt"><b>'+new Date(e.ts).toLocaleString('uk-UA',{timeZone:'Asia/Hong_Kong',day:'2-digit',month:'2-digit',hour:'2-digit',minute:'2-digit'})+'</b> '+esc(e.what)+' <span class="sub">'+until(Date.parse(e.ts)-Date.now())+'</span> <a href="#'+e.tab+'">'+e.tab+'</a></div>').join('')}
+async function offline(){const el=$('[data-offline]');if(!el)return;let n=0,tot=DATA.assets.length+4;try{const c=await caches.open('atlas6-'+DATA.version);const ks=await c.keys();n=ks.length}catch(e){}let p=false;try{p=await navigator.storage.persisted()}catch(e){}el.innerHTML='<p>Збережено файлів: <b>'+n+'</b> з приблизно '+tot+'.</p><div class="btns"><button class="btn p" data-act="cacheall">Завантажити все для офлайну</button><button class="btn" data-act="persist">Захистити сховище'+(p?' ✓':'')+'</button></div><p class="sub">Atlas 6 працює без інтернету після першого відкриття. Посилання на Amap, Google і Вікіпедію потребують мережі.</p>'}
+let WK=null;const wkUrl=(l,t)=>'https://'+l+'.wikipedia.org/wiki/'+encodeURIComponent(String(t).replace(/ /g,'_'));
+async function openWiki(id){if(!WK){try{const L=await fetch('data/wiki-entities-v23.json').then(r=>r.json());WK={};L.forEach(e=>WK[e.id]=e)}catch(e){toast('Довідник Вікіпедії недоступний');return}}const e=WK[id];if(!e){toast('Термін не знайдено');return}let c=LS.get('a6wk',{})[id];const draw=()=>{const L=[];const uk=e.ukVerified||(c&&c.uk);if(uk)L.push(['uk','Українською',uk]);if(c&&c.ru)L.push(['ru','Російською',c.ru]);if(!c||c.en!==null)L.push(['en','Англійською',(c&&c.en)||e.enTitle]);return '<div class="sheetbox"><button class="x" data-act="close" aria-label="Закрити">✕</button><h3>'+esc(e.name)+'</h3><div class="btns">'+L.map((x,i)=>'<a class="btn'+(i?'':' p')+'" target="_blank" rel="noopener" href="'+wkUrl(x[0],x[2])+'">'+x[1]+'</a>').join('')+'</div>'+(!c&&!e.ukVerified?'<p class="sub">'+(navigator.onLine?'Шукаю статті українською і російською...':'Без мережі мову статті не уточнити.')+'</p>':(L[0]&&L[0][0]!=='uk'?'<p class="sub">Української статті немає, показано наступну мову.</p>':''))+'</div>'};openOv('sheet',draw());
+ if(!c&&!e.ukVerified&&navigator.onLine){try{const j=await fetch('https://en.wikipedia.org/w/api.php?action=query&format=json&origin=*&redirects=1&prop=langlinks&lllimit=500&titles='+encodeURIComponent(e.enTitle)).then(r=>r.json());const pg=Object.values(j.query.pages)[0];const o={en:pg.missing!==undefined?null:pg.title};(pg.langlinks||[]).forEach(l=>{if(l.lang==='uk'||l.lang==='ru')o[l.lang]=l['*']});const all=LS.get('a6wk',{});all[id]=o;LS.set('a6wk',all);c=o;if(OV)$('#ov').innerHTML=draw()}catch(x){}}}
+function taxi(addr){openOv('sheet','<div class="sheetbox taxi" style="text-align:center"><button class="x" data-act="close" aria-label="Закрити">✕</button><div class="sub">Покажіть екран водієві</div><div class="zh" lang="zh" style="font-size:22px">师傅，请带我去这里：</div><div class="zh" lang="zh">'+esc(addr)+'</div><div class="btns" style="justify-content:center"><button class="btn p" data-say="'+esc('师傅，请带我去这里：'+addr)+'" data-lang="zh-CN">🔊 Сказати</button><button class="btn" data-copy="'+esc(addr)+'">Копіювати</button></div></div>')}
+function speak(t,l){try{const u=new SpeechSynthesisUtterance(t);u.lang=l||'zh-CN';u.rate=.85;speechSynthesis.cancel();speechSynthesis.speak(u)}catch(e){}}
+let IDX=null;function buildIdx(){if(IDX)return IDX;DATA.tabs.forEach(t=>tabEl(t.n));IDX=$$('[id^="s"]',MAIN).map(x=>{const h=x.querySelector('h2,h3,h4,summary');return {c:x.id.slice(1),t:(h?h.textContent:'').replace(/\s+/g,' ').trim().slice(0,110),all:x.textContent.toLowerCase()}});return IDX}
+function find(){openOv('sheet','<div class="sheetbox"><button class="x" data-act="close" aria-label="Закрити">✕</button><h3>Перехід за кодом і пошук</h3><p class="sub">Код: 9.2 або 09.02; або слово: назва, страва, вулиця.</p><input class="inp" id="fq" type="search" placeholder="Код або слово" autocomplete="off"><div class="res" id="fres"></div></div>');const i=$('#fq');setTimeout(()=>i.focus(),50);i.addEventListener('keydown',e=>{if(e.key==='Enter'){const c=normCode(i.value);if(c){closeOv();show(c,true)}}});i.addEventListener('input',()=>{const q=i.value.trim().toLowerCase();if(q.length<2){$('#fres').innerHTML='';return}const c=normCode(q);const L=buildIdx().filter(x=>x.t.toLowerCase().includes(q)||x.all.includes(q)).slice(0,40);$('#fres').innerHTML=(c?'<a href="#'+c+'" data-go="1"><b>'+c+'</b> перейти за кодом</a>':'')+L.map(x=>'<a href="#'+x.c+'" data-go="1"><b>'+x.c+'</b> '+esc(x.t.replace(/^[\d.A-Z]+/,''))+'</a>').join('')})}
+function init(el){$$('[data-dirq]',el).forEach(i=>i.addEventListener('input',()=>{const q=i.value.trim().toLowerCase();$$('.dcard',el).forEach(c=>{const ok=!q||c.textContent.toLowerCase().includes(q);c.hidden=!ok;if(ok&&q){let p=c.parentElement;while(p&&p!==el){if(p.tagName==='DETAILS')p.open=true;p=p.parentElement}}})}))}
+document.addEventListener('click',async e=>{const a=e.target.closest('a[href^="#"]');if(a){e.preventDefault();const c=a.getAttribute('href').slice(1);if(OV){closeOv();history.replaceState({code:c},'','#'+c);show(c,null)}else show(c,true);return}
+ const b=e.target.closest('button,[data-copy],[data-say],[data-w],[data-taxi],img.ph,.tip');if(!b)return;if(b.dataset.copy!==undefined){try{await navigator.clipboard.writeText(b.dataset.copy);toast('Скопійовано')}catch(x){toast('Не вдалося скопіювати')}return}
+ if(b.dataset.say){speak(b.dataset.say,b.dataset.lang);return}if(b.dataset.w){openWiki(b.dataset.w);return}if(b.dataset.taxi){taxi(b.dataset.taxi);return}if(b.matches('img.ph')){openOv('photo','<img src="'+esc(b.dataset.full||b.src)+'" style="max-width:100%;max-height:100%" alt="">');return}
+ if(b.classList.contains('tip')){openOv('sheet','<div class="sheetbox"><button class="x" data-act="close">✕</button><p>'+esc(b.dataset.tip)+'</p></div>');return}
+ const act=b.dataset.act;if(act==='close'){history.back();return}if(act==='persist'){try{await navigator.storage.persist();toast('Сховище захищено')}catch(x){}offline();return}
+ if(act==='cacheall'){b.textContent='Завантажую...';try{const c=await caches.open('atlas6-'+DATA.version);await c.addAll(['index6.html','manifest6.webmanifest','data/v6.json','data/wiki-entities-v23.json'].concat(DATA.assets));toast('Усе збережено')}catch(x){toast('Частину файлів не вдалося завантажити')}offline();return}});
+$('#ov').addEventListener('click',e=>{if(e.target.id==='ov'||OV==='photo')history.back()});
+addEventListener('popstate',e=>{if(closeOv())return;show((location.hash||'#01').slice(1)||'01',null)});
+$('#backBtn').onclick=()=>history.back();$('#findBtn').onclick=find;$('#menuBtn').onclick=()=>openOv('sheet','<div class="sheetbox"><button class="x" data-act="close">✕</button><h3>Вкладки</h3><div class="res">'+DATA.tabs.map(t=>'<a href="#'+t.n+'"><b>'+t.n+'</b> '+esc(t.t)+'</a>').join('')+'</div></div>');
+$('#topBtn').onclick=()=>scrollTo({top:0,behavior:'smooth'});addEventListener('scroll',()=>{$('#topBtn').hidden=scrollY<900},{passive:true});
+$('#where').onclick=async()=>{try{await navigator.clipboard.writeText(location.origin+location.pathname+'#'+CUR);toast('Посилання скопійовано')}catch(e){}};
+fetch('data/v6.json').then(r=>r.json()).then(d=>{DATA=d;renderTabs();show((location.hash||'#01').slice(1)||'01',null);history.replaceState({code:CUR},'',location.hash||'#01');setInterval(()=>{if(CUR.startsWith('01'))today()},60000)}).catch(()=>{MAIN.innerHTML='<p>Не вдалося завантажити дані. Підключіться до мережі один раз.</p>'});
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw6.js').catch(()=>{});window.__A6={show,normCode,buildIdx,openWiki}})();</script></body></html>

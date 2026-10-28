@@ -1,0 +1,15 @@
+{
+ "version": "6.0.0",
+ "new_files": [
+  "index6.html",
+  "sw6.js",
+  "manifest6.webmanifest",
+  "data/v6.json"
+ ],
+ "sha256": {
+  "index6.html": "698a57bb7cb14035d56777893a36a90424d5f9096d4a505b468e52c7fede72ef",
+  "sw6.js": "44c1d37013734f4882060f6ee6c182f55c0d2565ec7521c06af0996155957eff",
+  "manifest6.webmanifest": "ee3774a34189c0e2f2389d2c8ce57cdf8959188862d6817db799936cd39a72bb",
+  "data/v6.json": "d62d238fd977f42d78ce6378a1193492d597c51f90d416063b9459d01bdc0bd7"
+ }
+}
