@@ -1,0 +1,44 @@
+{
+  "version": "6.0.1",
+  "base": "6.0.0 (GitHub main 7d1c9a8612e97d6b4fbbf5ba6f2b0547d9716bbc)",
+  "patch_commit": "49a2f42583297e8b0d1461e999124e533935c5d4",
+  "changed": [
+    "data/v6.json",
+    "sw6.js"
+  ],
+  "sha256": {
+    "data/v6.json": "6878a4c893763faab6b9481dbf6f827e66af4c0a1f74dcf526ffbee887a88afa",
+    "sw6.js": "9df29a88c746a0bad7fe64d576d60dd6a9466a25e2b7c285225c1952cea114ed"
+  },
+  "qa": {
+    "json_valid": true,
+    "tabs": 21,
+    "internal_links": 132,
+    "broken_internal_links": 0,
+    "images_in_offline_assets": 8,
+    "private_booking_references_visible": 0,
+    "html_browser_test": "не проводився"
+  },
+  "patches": [
+    "Прибрано два приватні номери Agoda та чотири пари номерів місць",
+    "Академія Чень: години роботи та останній вхід",
+    "Храм Гуансяо: години, ціна, китайська адреса",
+    "Бадалін: зимові години, ціни, правила для неповнолітніх та бронювання",
+    "Star Ferry: тарифи буднів і вихідних",
+    "Трамвай Гонконгу: тариф та способи оплати",
+    "Автобус Макао - Гонконг: вартість у MOP",
+    "03.11: вихід до аеропорту 09:30 і подія дня",
+    "Попередження про ризик стикування в Пекіні",
+    "Виправлення неправильно автоматично зв'язаної дати Гонконгу",
+    "Підвищено версію офлайн-кешу"
+  ],
+  "sources": [
+    "https://www.gzcjc.com.cn/",
+    "https://gz.bendibao.com/jingdian/guangxiaosi/",
+    "https://english.beijing.gov.cn/travellinginbeijing/attractions/202603/t20260320_4562521.html",
+    "https://www.starferry.com.hk/en/service",
+    "https://www.hktramways.com/en/schedules-fares/en/schedules-fares",
+    "https://www.hzmbus.com/en/message.html?tab=2"
+  ],
+  "notes": "Старі коміти GitHub все ще містять вилучені реквізити; повна ліквідація вимагає окремого рішення. Перевірка на справжньому пристрої та в офлайн-режимі ще потрібна."
+}
