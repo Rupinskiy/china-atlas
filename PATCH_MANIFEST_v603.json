@@ -1,0 +1,46 @@
+{
+  "version": "6.0.3",
+  "base": "6.0.2",
+  "changed": [
+    "data/v6.json",
+    "sw6.js"
+  ],
+  "git_blob_sha": {
+    "data/v6.json": "e2f10cf5eb27b00afdd5151f418c3b242b5efc72",
+    "sw6.js": "5b70c845b808fda8432cb59c1733408fe61356a8"
+  },
+  "created_sections": [
+    "09.18",
+    "09.19",
+    "09.20",
+    "09.21",
+    "09.22",
+    "09.23",
+    "19.04"
+  ],
+  "expanded_sections": [
+    "01.01",
+    "02.01",
+    "03.01",
+    "09.02",
+    "09.05",
+    "14.01",
+    "16.01",
+    "21.01"
+  ],
+  "qa": {
+    "tabs": 21,
+    "days": 7,
+    "internal_links": 160,
+    "broken_internal_links": 0,
+    "private_booking_numbers_in_new_content": false,
+    "browser_test": "pending"
+  },
+  "sources": [
+    "https://www.lw.gov.cn/ywb/fw/ly/whss/content/post_9105819.html",
+    "https://www.gdmoa.org/english/Visit_Guide/",
+    "https://www.lw.gov.cn/ywb/fw/ly/yzlw/content/post_9104483.html",
+    "https://www.eguangzhou.gov.cn/gzinfocus/cantonfair/138thCantonFair/post_39405.html"
+  ],
+  "note": "Gmail booking details were checked but booking IDs, PINs, email addresses and payment URLs were not added to public content."
+}
